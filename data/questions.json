@@ -1,0 +1,5098 @@
+[
+ {
+  "id": "B1-001",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "“Ankara’ya 16 Mart 1987 yılında taşınmışlardı.” Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisiyle giderilemez?",
+  "o": [
+   "“Taşınmışlardı” yerine “yerleştirmişlerdi” kullanarak",
+   "“1987 yılında “ yerine “1987 ‘de” denilerek",
+   "“yılında” yerine “günü” kullanılarak",
+   "“yılında” yerine “tarihinde” getirilerek",
+   "“16 Mart” atılarak"
+  ],
+  "a": 0,
+  "e": "“16 Mart 1987” zaten tam bir tarihtir; yanına “yılında” getirmek gereksizdir. “1987’de”, “günü”, “tarihinde” ya da “16 Mart”ı atmak bozukluğu giderir; “taşınmışlardı” yerine “yerleştirmişlerdi” demek gidermez.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 1 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-002",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Akşam yemeğini yedikten sonra ben masayı, Danyal odayı düzenledi. Cümlesindeki anlatım bozukluğunun nedeni aşağıdakilerden hangisinde doğru belirtilmiştir?",
+  "o": [
+   "Fiil kipindeki yanlışlık",
+   "Tamlama yanlışlığı",
+   "Yüklem eksikliği",
+   "Nesnenin yanlış yerde kullanılması",
+   "Nesne-yüklem uyumsuzluğu"
+  ],
+  "a": 2,
+  "e": "“Ben masayı” ile “Danyal odayı düzenledi” ortak yüklemle bağlanmış; ama “düzenledi” yüklemi “ben” öznesine uymaz. İlk yargıya “düzenledim” yüklemi gerekir: yüklem eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 2 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-003",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Arıza nedeniyle çok sayıda resmi daire ve evlerde bir süre elektrikler kesildi. Cümlesindeki anlatım bozukluğu nasıl giderilir?",
+  "o": [
+   "çok sayıda yerine, pek çok getirilmeli",
+   "Yüklem yoktu olarak değiştirilmeli",
+   "bir süre yerine, uzun zaman getirilmeli",
+   "resmi daire ve evlerde yerine resmi dairede ve evde getirilmeli",
+   "arıza nedeniyle yerine, arıza yüzünden getirilmeli"
+  ],
+  "a": 3,
+  "e": "“Çok sayıda” çokluk bildirdiği için “daire ve evlerde” biçiminde çoğul eki almamalı: “resmi dairede ve evde”.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 3 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-004",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Osmanlı İmparatorluğu döneminde mezhep ve tarikat ayrıcalığı yüzünden, kardeş kavgaları olmuştur. Bu cümledeki anlatım bozukluğu nasıl giderilebilir?",
+  "o": [
+   "“döneminde” sözü cümleden çıkarılarak",
+   "“yüzünden” yerine “nedeniyle” sözcüğü getirilerek",
+   "“kardeş”ten önce “büyük” sözcüğü getirilerek",
+   "“ayrıcalığı” yerine “ayrılığı” sözcüğü getirilerek",
+   "“kardeş” yerine “din” sözcüğü getirilerek"
+  ],
+  "a": 3,
+  "e": "“Ayrıcalık” (imtiyaz) yanlış anlamda kullanılmış; kastedilen “ayrılık”tır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 4 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-005",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Otomotiv sektörünün en önemli sorunları nelerdir?",
+   "Sınav sonuçlarının açıklanması niçin gecikti?",
+   "Dünkü açıkoturumdaki görüşleri benimsiyor musunuz?",
+   "Bazı öğretmenlere ders verilmediğinin sebebi nedir?",
+   "Bir öğrenci, başarılı olmak için öncelikle ne yapmalıdır?"
+  ],
+  "a": 3,
+  "e": "D’de “öğretmenlere ders verilmedi” ifadesi anlamca bozuktur (ders öğretmenlere değil öğrencilere verilir); diğer şıklar anlam bütünlüğü bakımından temizdir. Şık, eleme yoluyla bulunur.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 5 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-006",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bir mezraya baskın yapan teröristler iki kişiyi öldürdü.",
+   "Gezdireyim derken çocuğu hasta ettin yine.",
+   "Bütün suçluları yakalayıp hapse atılmalıdır.",
+   "Son mallar piyasada pek ilgi görmedi.",
+   "Borcunu inkâr ediyor ama elimizde senet var."
+  ],
+  "a": 2,
+  "e": "“Yakalayıp” etken, “atılmalıdır” edilgendir: çatı uyumsuzluğu (“yakalayıp hapse atmalıdır”).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 6 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-007",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "”Memur maaşlarına yapılan zam oranının düşük olması, büyük etkilere neden oldu.” Cümlesindeki yanlışlığın nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Gereksiz sözcük kullanılmıştır.",
+   "Noktalama yanlışlığı vardır.",
+   "Anlamları farklı olan sözcükler birbirinin yerini kullanmıştır.",
+   "Anlatımda, çelişen sözcükler birlikte kullanılmıştır.",
+   "Sözcükler cümlede yerli yerinde kullanılmamıştır."
+  ],
+  "a": 2,
+  "e": "“Zam oranının düşük olması” için “büyük etkilere neden oldu” demek, anlamca yakın ama farklı sözcüklerin (etki / tepki) birbirinin yerine kullanılmasıdır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 7 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-008",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Yazıda bazı durumlarda, söylenmek istemeyen sözcüklerin yerinde üç nokta kullanılır. Cümlesindeki anlatım bozukluğu nasıl giderilir?",
+  "o": [
+   "yerinde kelimesi, “yerine” olarak değiştirilmeli",
+   "yazıda sözcüğü bazı “durumlardan” ın sonuna getirilmeli",
+   "söylenmek kelimesi, “söylenilmek” olarak değiştirilmeli",
+   "istemeyen kelimesi “istenmeyen” olmalı",
+   "Yüklem yeterlilik fiiliyle çekimlenmeli"
+  ],
+  "a": 3,
+  "e": "“Söylenmek istemeyen” yanlış kuruludur; kastedilen “söylenmesi istenmeyen”dir: “istenmeyen” olmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 8 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-009",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "“İlk bakışta, koskoca Aristo’yu azımsamak insana aykırı geliyor.” Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisiyle giderilebilir?",
+  "o": [
+   "“bakışta” yerine “anda” kullanılarak",
+   "“insana” sözcüğü atılarak",
+   "“aykırı” yerine “yanlış” denilerek",
+   "“koskoca” Aristo’yu” cümlelerin başına getirerek",
+   "“azımsamak” yerine “küçümsemek” kullanılarak"
+  ],
+  "a": 4,
+  "e": "“Azımsamak” (az bulmak) yerine anlama uygun olan “küçümsemek” kullanılmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 9 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-010",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Ölü Ozanlar Derneği, bir öğretmenin seyretmesi gerekli olan zorunlu bir film. Bu cümledeki anlatım bozukluğunun nedeni hangisidir?",
+  "o": [
+   "Özne-yüklem uyuşmazlığı",
+   "Gereksiz sözcük kullanımı",
+   "Gereksiz ek kullanımı",
+   "Dolaylı tümleç eksikliği",
+   "Sözcüğün yanlış anlamda kullanılması"
+  ],
+  "a": 1,
+  "e": "“Gerekli” ile “zorunlu” aynı anlamdadır; biri gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 10 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-011",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "“Öğretim” sözcüğü, aşağıdakilerden hangisinde yanlış kullanılmıştır?",
+  "o": [
+   "Her öğretim kurumunda böyle olanaklar bulunmaz.",
+   "Öğretim görevlileri de yakınıyor bu durumdan.",
+   "Aşırı soğuk yüzünden eğitim öğretime ara verdik.",
+   "Böyle bir binada öğretim yapılmaz aslında.",
+   "Yüksek öğretimini Amerika’da yapmışsın, öyle mi?"
+  ],
+  "a": 4,
+  "e": "“Öğretim” öğretmenin yaptığı iştir; öğrencinin yaptığı “öğrenim”dir. “Yüksek öğretimini yapmışsın” yanlış, “yüksek öğrenimini” doğrudur.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 11 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-012",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "“Bu madem bir beste yarışması olduğuna göre tanıtım ikinci planda düşünülmelidir.” Cümlesindeki anlatım bozukluğu gidermek için aşağıdakilerin hangisi yapılmalıdır?",
+  "o": [
+   "“bu” sözcüğü cümleden çıkarılmalıdır.",
+   "“ikinci” sözcüğü yerine “ikincil” sözcüğü kullanılmalıdır.",
+   "“madem” sözcüğü cümleden çıkarılmalıdır.",
+   "“olduğuna göre” yerine “olduğu takdirde” sözü kullanılmalıdır.",
+   "“tanıtım” sözcüğü yerine “reklam” sözcüğü kullanılmalıdır."
+  ],
+  "a": 2,
+  "e": "“Madem” ile “olduğuna göre” aynı neden-sonuç anlamını taşır; “madem” gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 12 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-013",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdakilerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Eh, şöyle böyle bir adamdı.",
+   "Şöyle böyle iki yıl önce idi.",
+   "Aşağı yukarı bir milyon harcadık.",
+   "Boyu, aşağı yukarı tam bir yetmiş var.",
+   "Bize neler anlattı bir bilsen!"
+  ],
+  "a": 3,
+  "e": "“Aşağı yukarı” yaklaşıklık, “tam” kesinlik bildirir; iki söz çelişir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 13 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-014",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Bu öğrencimizin bir soruyu yanıtlaması şöyle böyle en çok on saniye sürüyor. Cümlesindeki anlatım bozukluğu gidermek için aşağıdakilerin hangisi yapılmalıdır?",
+  "o": [
+   "“şöyle böyle” yerine ”yaklaşık” denilerek",
+   "“sürüyor” yerine “alıyor” denilerek",
+   "“on saniye” den sonra “kadar” getirilerek",
+   "“şöyle böyle” sözü cümleden çıkarılarak",
+   "“yanıtlaması” yerine “yanıt vermesi” denilerek"
+  ],
+  "a": 3,
+  "e": "“Şöyle böyle” (yaklaşık) ile “en çok” (üst sınır) birlikte kullanılamaz; “şöyle böyle” atılmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 14 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-015",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Ne yazık ki sanat herkesi etkilemiyor.",
+   "Düşündüklerin kesinlikle gerçekleşebilir.",
+   "Bir zamanlar biz de böyle düşler kurardık.",
+   "Bunca insanın özlemini göz ardı edemezsin.",
+   "Şiirin büyüsüne kaptırmış bir kez kendini."
+  ],
+  "a": 1,
+  "e": "“Kesinlikle” kesinlik, “-ebilir” olasılık bildirir; çelişen sözler.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 15 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-017",
+  "t": "anlatim",
+  "s": "YY",
+  "q": "Dersleri çok gözünde büyüttüğünden başarılı olamıyor. Bu cümledeki anlatım bozukluğu, aşağıdaki değişikliklerin hangisi ile giderilebilir?",
+  "o": [
+   "“çok” sözcüğü “gözünde” sözcüğünden sonra getirilerek.",
+   "“dersleri” sözcüğünden sonra virgül (,) kullanılarak.",
+   "“büyüttüğünden” sözcüğünden sonra “dolayı” sözcüğü getirilerek.",
+   "“büyüttüğünden” yerine “büyüttüğü için” sözü kullanılarak.",
+   "“başarılı olamıyor” yerine “başarısız kalıyor” sözü getirilerek."
+  ],
+  "a": 0,
+  "e": "“Çok” sözcüğü “büyüttüğünden”i niteler; “gözünde çok büyüttüğünden” biçiminde yerine konmalıdır (“çok gözünde” değil).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 17 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-018",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Gitti gideli ne telefon ne de mektup yazdı bize. Cümlesindeki anlatım bozukluğu hangisi ile giderilebilir?",
+  "o": [
+   "“bize” sözcüğü atılarak",
+   "“de” bağlacı cümleden çıkarılarak.",
+   "“telefon” sözcüğünden sonra “açtı” sözcüğü getirilerek",
+   "“Gideli” sözcüğü cümleden çıkarılarak.",
+   "“yazdı” yerine “yolladı” sözcüğü getirilerek."
+  ],
+  "a": 2,
+  "e": "“Telefon yazmak” denmez; “telefon açtı” gerekir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 18 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-019",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerden hangisinde, anlatım bozukluğu söz konusudur?",
+  "o": [
+   "Romanlarının konusu hep köydür, kırsal yaşamdır.",
+   "İnsanoğlu, doğayla savaşmış, onu yenmeye çalışmıştır hep.",
+   "Yaşamın gülünç yanlarını görmüş, yazıya dökmüştür.",
+   "Sorunların zor ama üstesinden gelinemeyecek olmadığını söyledi.",
+   "At, patika yolda güçlükle ilerledi"
+  ],
+  "a": 3,
+  "e": "“Sorunların zor ama üstesinden gelinemeyecek olmadığını” ifadesinde “zor olduğunu” fiilimsisi eksiktir (fiilimsi eksikliği).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 19 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-020",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Öğrenciler, bu kararın yersiz, dahası doğru olmadığını ileri sürerek geri alınmasını istediler. Bu cümledeki anlatım bozukluğunun benzeri, aşağıdaki cümlelerin hangisinde vardır?",
+  "o": [
+   "Adamın, yasal olan, olmayan her yolu deneyeceği belliydi.",
+   "Eşim ve ben içkiyi az, sigarayı da hiç içmeyiz.",
+   "Yağmura ve soğuğa aldırmadan akşama kadar çalıştık o gün.",
+   "Karar vermekte oldukça zorlandığı her halinden belliydi.",
+   "Telefonla arayıp beni görmek istediğini söyledi"
+  ],
+  "a": 1,
+  "e": "Örnek cümlede ortak yüklem hem olumlu hem olumsuz yargıya bağlanmıştır; B’de “içkiyi az, sigarayı hiç içmeyiz” aynı yapıyı taşır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 20 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-021",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Gömleğini yıkamamıştı, kir içindeydi. Bu cümledeki anlatım bozukluğunun nedeni, aşağıdakilerden hangisidir?",
+  "o": [
+   "Tümleç – yüklem uyumsuzluğu.",
+   "Gereksiz belirtili nesle kullanımı.",
+   "Nesne eksikliği.",
+   "Özne eksikliği",
+   "Dolaylı tümleç eksikliği"
+  ],
+  "a": 3,
+  "e": "“Gömleğini yıkamamıştı” cümlesinin öznesi ile “kir içindeydi” öznesi farklıdır (gömlek); ikinci yargıya özne gerekir: özne eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 21 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-022",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Olanları duyunca çok kızdı bana, azarlamaya başladı. Bu cümledeki anlatım bozukluğunun nedeni hangisidir?",
+  "o": [
+   "Özne eksikliği",
+   "Nesne eksikliği",
+   "Dolaylı tümleç eksikliği.",
+   "Yüklem eksikliği",
+   "Özne-yüklem uyumsuzluğu"
+  ],
+  "a": 1,
+  "e": "“Bana kızdı” (dolaylı tümleç) ile “(beni) azarlamaya başladı” (nesne) farklı ekler ister; ikinci yargıda “beni” nesnesi eksiktir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 22 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-023",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde, anlatım bozukluğu nesne eksikliğine dayalıdır?",
+  "o": [
+   "Hem sigaradan nefret ettiğini söylüyor hem de durmadan içiyor.",
+   "İki yazarın teknikleri arasında bazı değişik farklılıkları var.",
+   "Kapının önündeki arabayı inceledi ve çok beğendi.",
+   "Köpekleri, hem çok seviyor hem de korkuyor.",
+   "Uçak yükseldikçe havanın sıcaklığı giderek düşüyor."
+  ],
+  "a": 0,
+  "e": "“Sigaradan nefret ediyor” (dolaylı tümleç) ile “(sigarayı) içiyor” (nesne) ortak kullanılamaz; nesne eksik.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 23 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-024",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "”Sanıyor musun ki halk bu sözleri dinler ve inanır?” Bu cümledeki anlatım bozukluğunun nedeni hangisidir?",
+  "o": [
+   "Nesne eksikliği.",
+   "Dolaylı tümleç eksikliği.",
+   "Özne eksikliği.",
+   "Yüklem eksikliği.",
+   "Özne-yüklem eksikliği"
+  ],
+  "a": 1,
+  "e": "“Dinler” yükleminin tümleci “bu sözleri”, “inanır” için “bu sözlere” olmalıdır; dolaylı tümleç eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 24 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-025",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerden hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Dağların doruklarında su yerine kar yerdik haziran ayında.",
+   "Dolmuşun içi hamam gibiydi bir de kese atacak biri olsa..",
+   "Dışarı çıkınca havaların serinlemeye başladığını hissediyorsunuz artık.",
+   "Kışlık giysiler dolaplardan yavaş yavaş çıkarılmaya başlandı.",
+   "Ne de olsa mevsimi geldi bu kalın giyeceklerin."
+  ],
+  "a": 0,
+  "e": "“Su yerine kar yerdik” ifadesinde “su” ile “yemek” yüklemi uyuşmaz (su içilir); yüklem–nesne uyumsuzluğu.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 25 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-026",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerden hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Dersimize gelenlerin çoğunu tanıyor, bir şeyler anlatıyor, onları motive ediyorduk.",
+   "İnsanların yetişmesi onlara görev verilmesi ile sağlanır.",
+   "Her insan aktifliğin çekirdeği gibidir, bir gün mutlaka fidan olmak için uygun ortamı bulacaktır.",
+   "Bazıları soruyu çözüyor, bazıları soruların yanlışlığından söz ediyordu.",
+   "Giydiğin bu elbiseye, taktığın bu kravat çok uygun olmuş."
+  ],
+  "a": 0,
+  "e": "“Tanıyor, anlatıyor” üçüncü tekil kişi; “ediyorduk” birinci çoğul kişi eki alır. Yüklemlerin kişi ekleri uyumsuz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 26 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-027",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdakilerden hangisinde \"-ler,-lar\" kullanıldığı yerde anlatım bozukluğunun sebebidir?",
+  "o": [
+   "Annenler dün buradaydılar haberin var mı?",
+   "O söz: \"Ordular ilk hedefiniz Akdeniz'dir.\" Türk tarihinde önemli bir sayfa açar.",
+   "Bu anlaşma birçok batılı, uygar devletler tarafından da onaylandı.",
+   "Sıkıntılar, dertler, ihanetler hayatında hep bunlarla mücadele etti.",
+   "Kardeşler arasında, böyle küçük anlaşmazlıklar olması normaldir."
+  ],
+  "a": 2,
+  "e": "“Birçok” çokluk bildirdiği için “devletler” çoğul eki almamalı (“birçok devlet”).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 27 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-028",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdakilerden hangisinde bir anlatım bozukluğu yoktur?",
+  "o": [
+   "Yüzüme dikkatle bakıyor ve dinliyor.",
+   "Herkese saygısı var, korkusu yoktu.",
+   "İşlerini bir plan ve program dahilinde yürütürdü.",
+   "Sağlıklı ve sıhhatli nesiller yetiştirmek her milletin amacıdır.",
+   "Sizi tanıyor ve selam yolluyordu."
+  ],
+  "a": 2,
+  "e": "Diğer şıklarda nesne/ek-fiil eksikliği ya da eş anlamlı sözcük (“sağlıklı ve sıhhatli”) gibi bozukluklar vardır; C temizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 28 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-029",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Mektebinde okusaydım ben de talebesi olma zevkini tadacaktım.",
+   "Her şeyden önce bir okuma yönteminiz olmalı.",
+   "Yoksa okurken çok zaman yitirebilirsiniz.",
+   "Bir kitabı bastan aşağı okumak gereksiz.",
+   "Yiğidi siz vefayı da biz gömdük."
+  ],
+  "a": 4,
+  "e": "“Yiğidi siz, vefayı da biz gömdük” yüklemi ortak kullanılmış ama “siz” öznesiyle şahıs eki uyuşmuyor.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 29 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-030",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Cümlede bulunan bir nesne, bazen aynı sözcükten oluşturulan dolaylı tümleci unutturabilir. Bu tür cümlelerde dolaylı tümleç eksikliği olur. Aşağıdaki cümlelerin hangisinde bu tür bir anlatım bozukluğu vardır?",
+  "o": [
+   "Onunla yaptığımız karşılıklı tartışmalara bir süre ara verdik.",
+   "Yazarın konuya ilgisini çeken, yazmaya iten nedir, belli değil.",
+   "Sizi önceden tanıyor ve güveniyoruz.",
+   "Sanatçının dil sorununa eğilmesi, bu konuyla ilgilenmesi gerekir.",
+   "Sanat insana bir şeyler vermeli ve eğitmelidir."
+  ],
+  "a": 2,
+  "e": "“Sizi tanıyor ve güveniyoruz”: “tanıyor” nesne (sizi), “güveniyoruz” dolaylı tümleç (size) ister; ikinci yargıya “size” gerekir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 30 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-031",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "\"Bu çocuğun zeki ve yaramaz olmadığını herkes bilir.\" cümlesindeki anlatım bozukluğu aşağıdakilerin hangisiyle giderilebilir?",
+  "o": [
+   "\"ve\" sözcüğü cümleden çıkarılarak.",
+   "\"olmadığını\" sözcüğü yerine \"olduğu\" getirilerek.",
+   "\"ve\" den önce \"olduğunu\" sözcüğü getirilerek.",
+   "\"bilir\" sözcüğü yerine \"bilmeli\" getirilerek.",
+   "\"ve\" sözcüğü yerine \"fakat\" getirilerek."
+  ],
+  "a": 2,
+  "e": "“Zeki ve yaramaz olmadığını”: yargılar “zeki olduğunu ve yaramaz olmadığını” biçiminde tamamlanmalıdır (fiilimsi eksikliği).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 31 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-032",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu yoktur?",
+  "o": [
+   "Kesinlikle menfaate dayalı dostluklar uzun sürmeyebilir.",
+   "Yanılmıyorsam, yarın buraya geleceğini zannediyorum.",
+   "Onu daha çok bizim bağ evine yaptığımız kaçak ziyaretler sırasında görebilirdik.",
+   "Yolların kenarlarına güzel çınar ağaçları ekmişlerdi.",
+   "O, tüm zorluklara göğüs gerdi, başa çıktı."
+  ],
+  "a": 2,
+  "e": "Diğer şıklarda “kesinlikle … -meyebilir”, “yanılmıyorsam … zannediyorum” gibi çelişki ve uyum sorunları vardır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 32 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-033",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "\"Şiir edebiyatın estetik ağırlığı en fazla olan sahadır.\" Yukarıdaki cümlede bulunan anlatım bozukluğunun sebebi aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne - yüklem uyuşmazlığı",
+   "Nesne eksikliği",
+   "Aynı anlama gelen kelimelerin kullanılması",
+   "Gereksiz kelime kullanılması",
+   "İyelik ekinin kullanılmaması"
+  ],
+  "a": 4,
+  "e": "“Edebiyatın … sahadır” tamlamasında tamlanan eki yoktur: “sahasıdır” olmalıdır (iyelik eki eksikliği).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 33 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-034",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+  "o": [
+   "Ne ben ne Ayşe geziye gitmek istemedi.",
+   "Eserin dili çok sadeydi, fakat konusu sürükleyici değildi.",
+   "Zengin olmasına rağmen yaşamasını, gezmesini iyi biliyor.",
+   "Kitabı görmeden önce içeriği hakkında bir şey söyleyemem.",
+   "Sizi herkes seviyor, onaylıyor ama yardım etmiyor."
+  ],
+  "a": 1,
+  "e": "B’de iki yargının ek-fiilleri uyumludur; diğer şıklarda yüklem/özne/nesne uyumsuzlukları bulunur.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 34 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-035",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Hayat düpedüz kopya edilmediği için romancının hayal gücü değiştirir.",
+   "Roman boyunca bütün tahlil, tasvir ve hükümlerde hep Peyami Safa'yı hissederiz.",
+   "O gerçeği kabul etmez, uzak durur.",
+   "O hep çetin ve zor işleri severdi.",
+   "Fahim Bey tuhaf bir insan olduğu söz götürmez."
+  ],
+  "a": 3,
+  "e": "“Çetin” ile “zor” eş anlamlıdır; “çetin ve zor” gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 35 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-037",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Nükleer enerjiden faydalanırken tabiat tahrip edilmemelidir.",
+   "Ülkemizin kalkınabilmesi için yetişmiş insan gücü çok önemlidir.",
+   "Ne zamandır karşılıklı kavga etmiyorlardı, yine başladılar.",
+   "Devletler, aralarındaki problemleri anlaşma yoluyla çözmelidir.",
+   "Başkalarından saygı görmek istiyorsak biz de başkalarına saygı göstermeliyiz."
+  ],
+  "a": 2,
+  "e": "“Kavga etmek” zaten karşılıklı bir eylemdir; “karşılıklı” gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 37 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-038",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu yoktur?",
+  "o": [
+   "Sizinle yakın tarihle ilgili sohbet etmek istiyorduk, bu konuda otorite olarak görüyoruz.",
+   "Hiçbiri onu karşılamamıştı, görmezden gelmişlerdi.",
+   "İzmir'de yaklaşık tam yirmi senedir oturuyorlardı.",
+   "Durmadan fıkra ve nutuk anlatılan bu yerden hemen uzaklaştım.",
+   "Kaydımın kısa sürede yapılması için çok uğraştım ama bunda başarılı olamadım."
+  ],
+  "a": 4,
+  "e": "E temizdir; diğerlerinde “yaklaşık tam”, nesne eksikliği gibi bozukluklar vardır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 38 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-039",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerden hangisinde bir anlatım bozukluğu yapılmamıştır?",
+  "o": [
+   "Yetimler yurdundaki çocukların birini bile unutmaz, tek tek ziyaret edip hediyeler alırdı.",
+   "Televizyonda gösterilen yerli ve Amerikan filmlerinde şiddet ön plandadır.",
+   "Gramer konusunda oldukça bilgili ancak edebiyatta oldukça zayıftı.",
+   "O her zaman kendisinden kıdemli olanlara saygı gösterirdi hep.",
+   "Milli Eğitimle ve dershanemizin ortak çalışması sonucu genel bir sınav yapıldı."
+  ],
+  "a": 2,
+  "e": "C’de iki yargının ek-fiilleri uyumludur; A, B, D, E’de nesne eksikliği, tamlama yanlışı, gereksiz “hep”, ortak tamlayan sorunları bulunur.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 39 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-041",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Takımlarımızın Avrupa kupalarında turu geçmelerini bekliyoruz ve inanıyoruz.",
+   "Yeni sanatçılar arasında çok güzel şiir yazanlar var.",
+   "Bu, çocukların sınavı kazanmasını sağladı.",
+   "Sıcağa kalmamak için sabah erkenden yola çıkmak gerekiyor.",
+   "Bazı yazarlar yazarken toplumu göz önünde bulundurmaz."
+  ],
+  "a": 0,
+  "e": "“Bekliyoruz ve inanıyoruz”: “turu geçmelerine inanıyoruz” dolaylı tümleç ister; dolaylı tümleç eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 41 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-042",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "\"Ofiste gürültünün ve kötü manzaralı dekorların karşısında dergi okumak oldukça zordu.\" cümlesindeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne - yüklem uyuşmazlığı",
+   "Tamlama yanlışlığı",
+   "Tümleç eksikliği",
+   "Sözcüklerin yanlış yerde kullanılması",
+   "Gereksiz sözcüklerin kullanılması"
+  ],
+  "a": 1,
+  "e": "“Gürültünün ve … dekorların karşısında”: ortak tamlanan “karşısında” gürültü için uygun değildir; tamlama yanlışlığı.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 42 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-043",
+  "t": "anlatim",
+  "s": "AB",
+  "q": "Aşağıdakilerin hangisinde bir anlam belirsizliği söz konusudur?",
+  "o": [
+   "Çalıştığını nerden bileyim; ben falcı değilim ki.",
+   "Bugüne kadar birçok insanla görüştü ve tanıştı.",
+   "Senin niçin çalışmadığını kimseye söylemiyor.",
+   "Gelenlerin selamını alıyor, konuşmuyor.",
+   "Bu yazarın tüm eserlerini okudum ve inceledim."
+  ],
+  "a": 0,
+  "e": "“Çalıştığını” kimin çalıştığı belli değildir (senin/onun): tamlayan eksikliğinden anlam belirsizliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 43 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-044",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Yarın akşam uçakla İstanbul'a gidiyoruz.",
+   "Ailesi on yıl önce buraya Selanik'ten göç etmiş.",
+   "Bugüne kadar kimseyi üzmemiş ve küsmemiş.",
+   "Gelenlere güler yüz gösteriyor, ikramda bulunuyordu.",
+   "Herkesin derdini dinliyor ve onlara çareler arıyor."
+  ],
+  "a": 2,
+  "e": "“Kimseyi üzmemiş ve küsmemiş”: “üzmek” nesne, “küsmek” dolaylı tümleç (kimseye) ister.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 44 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-046",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Olaylar İstanbul'da, bir kenar mahallede geçer.",
+   "Yazar; sokağın, mahallenin ve dekorların betimlemesinde başarılıdır.",
+   "Yazarın bütün ilgisinin bu noktalarda toplandığı söylenebilir.",
+   "O, bir kadın romancı olarak kadın kahramanlarının ruh tahlillerinde başarılıdır.",
+   "Buna rağmen romanın bir tezi savunduğunu karşı olduğunu söyleyemeyiz."
+  ],
+  "a": 4,
+  "e": "“Tezi savunduğunu, (teze) karşı olduğunu”: dolaylı tümleç eksik, “teze karşı olduğunu” olmalıydı.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 46 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-047",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "O kadar yorgundum ki neredeyse hemen uyuyacaktım.",
+   "Bu yaramazlara her zaman uslu olmalarını söylüyorum.",
+   "Ne zaman doğru dürüst bir iş yapacaksın?",
+   "Annem ve ben bugün misafirleri karşılamaya gideceğiz.",
+   "Tek derdim annemi yalnız bırakmış olmaktı."
+  ],
+  "a": 0,
+  "e": "“Neredeyse” ve “hemen” anlamca örtüşür; biri gereksiz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 47 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-048",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Torbanın içine bütün yiyecekleri koyduk, ağzını sıkıca bağladık.",
+   "Üniversiteyi yeni bitiren dayımın kızı, bu yaz evlenecek, Amerika'ya gidecek.",
+   "Her sabah kahvaltı yapmadan gazetesini alır ve okur.",
+   "Önümüzdeki yılın bütün sorularını hazırladık ve gönderdik.",
+   "Dilekçenin sağ alt köşesine adınızı yazın ve imzalayın."
+  ],
+  "a": 4,
+  "e": "“Adınızı yazın ve imzalayın”: imzalanan şey (dilekçe) nesne olarak eksik.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 48 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-049",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Uzun zamandır, kendisine gelen pek çok kişinin derdine çare buluyor; bu gibi tehlikeli şeylerden uzak tutmanın yollarını arıyordu. Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisiyle giderilebilir?",
+  "o": [
+   "\"Uzun zamandır\" söz grubu atılarak.",
+   "\"çare buluyor\" yerine \"derman oluyor\" getirerek.",
+   "İkinci cümleye uygun özne getirerek.",
+   "\"buluyor\" sözcüğünden sonra \"\"onları\" sözcüğü getirerek.",
+   "\"bu gibi yerine böyle getirerek."
+  ],
+  "a": 3,
+  "e": "“Derdine çare buluyor” (dolaylı) ile “uzak tutmanın yollarını arıyordu” (nesne: onları) uyuşmaz; “onları” nesnesi gerekir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 49 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-050",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde özne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Vaktin bilginlerini toplar, düşüncelerini sorarmış.",
+   "Kapıya dayanmayın, dün boyandı.",
+   "Bir şey bilmeyen, bir şey unutmaz.",
+   "Yüksek yerlerde hem yılana, hem kuşa rastlanır.",
+   "Siz gidin, ben arkanızdan yetişirim."
+  ],
+  "a": 1,
+  "e": "“Kapıya dayanmayın, dün boyandı”: ikinci yargının öznesi (kapı) yazılmamış; özne eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 50 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-051",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdakilerin hangisinde birden fazla anlatım bozukluğu yapılmıştır?",
+  "o": [
+   "Dün okulumuzu daha önceki Milli Eğitimden sorumlu bakan arkadaşlarıyla birlikte ziyarette bulundu.",
+   "Hepinizin burnu sürtülecek kurtuluş umudu olmayacak.",
+   "Aleyhimize dönen dolaplar entrikalar moralimizi kesinlikle bozmaz.",
+   "Sizinle aynı yaşta yaşıtınız olmayan insanlarla düşüp kalkmayın.",
+   "Cümledeki nesneleri bulun ve hata olup olmadığını söyleyin."
+  ],
+  "a": 0,
+  "e": "A’da “ziyarette bulundu” (ziyaret etti), özne belirsizliği ve ortak anlatım sorunları bir arada bulunur (birden fazla bozukluk).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 51 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-053",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Gereksiz sözcükten kaynaklanan bir anlatım bozukluğunun bulunduğu cümle aşağıdakilerden hangi şıkta vardır?",
+  "o": [
+   "Sadece bir tek sen vardın dün düşümde",
+   "Diğer bütün figürlerin gölgeleri kalmıştı.",
+   "Etkin, benliğimi kavramış, yeni bir şekil vermişti.",
+   "İrademden ortadan kalkmış, ne yapacağımı bilmez bir durumdaydım.",
+   "Bu düş yoğunluğundan kendime geldiğimde hala onun etkilerini duyuyordum."
+  ],
+  "a": 0,
+  "e": "“Sadece” ile “bir tek” aynı anlamı karşılar; biri gereksiz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 53 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-055",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdakilerden hangisinde herhangi bir öğe eksikliğinden kaynaklanmayan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Öznenin ne olduğunu çok iyi biliyor fakat cümlelerde bulamıyordu.",
+   "Derdini, bize anlattığın gibi gidip onu çözecek makama da anlatmasını söyledi.",
+   "Genellikle iyi geçinir, dost olurdu ama çok sıkı fıkı olmazdı asla",
+   "Yorum gücü gün geçtikçe azalıyor artık dergilerde pek kabul görmüyordu.",
+   "Eserinin önsözünü çok özenerek yazmasına karşılık pek okunduğunu söyleyemeyiz."
+  ],
+  "a": 1,
+  "e": "B’deki sorun öğe eksikliği değil, kişi (senin/onun) uyumsuzluğudur; diğer şıklarda nesne/özne/dolaylı tümleç eksikliği vardır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 55 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-056",
+  "t": "anlatim",
+  "s": "MH",
+  "q": "Aşağıdaki cümlelerden hangisinde mantık yanlışlığından kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "Herkesle bu konu hakkında görüş alışverişi yapmana gerek yok.",
+   "Yeter ki kendi görüşüne sahip olanları bul ve onların yaptıkları işleri sen de yap.",
+   "Eleştirmenlere ise hiç gitme çünkü görüşünü daima küçümserler.",
+   "Onlar değil bir düşünce üretmek herhangi bir düşünce sistemi bile kuramaz.",
+   "Sadece eksiklik bulur, bunları yerden yere vurarak tatmin olurlar."
+  ],
+  "a": 3,
+  "e": "“Onlar değil bir düşünce üretmek, herhangi bir düşünce sistemi bile kuramaz” sıralaması ters: daha zor olan (sistem kurmak) önce, kolay olan sonra gelmeliydi.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 56 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-057",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu yapılmıştır?",
+  "o": [
+   "Şehirlerimiz gün geçtikçe her gün kalabalıklaşmaya devam ediyor.",
+   "Özellikle büyük şehirlerimize doğru bir göç patlaması yaşanmaktadır.",
+   "Bu konuda ne belediyelerin ne de valiliklerin yapabileceği bir şey vardır.",
+   "Kimse bu işin nasıl çözümleneceğini bilmiyor, sonucunu da öğrenmek istemiyor.",
+   "Göç edenler de: \"Nasıl olsa bize de bir aş ve iş bulunur.\" düşüncesiyle gelmeye devam ediyor."
+  ],
+  "a": 0,
+  "e": "“Gün geçtikçe” ile “her gün” aynı anlamı taşır; biri gereksiz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 57 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-058",
+  "t": "anlatim",
+  "s": "MH",
+  "q": "Aşağıdaki cümlelerden hangisinde mantık yanlışlığından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Ülkemizde herkes ehliyet almak için başvuruyor ama birçok kişi ehliyet alamıyor.",
+   "Bazı insanlar bisiklet sürmek şöyle dursun daha şoför koltuğuna bile oturmamışlardır.",
+   "İşi sadece araç sürmek olan bu insan hem yolcularla hem de araçla son derece düzgün hareket ediyor.",
+   "Yayalara saygılı olmayı bilmeyi bütün şoförlerin öğrenmesi gerekmiyor mu?",
+   "Bunun yanında yayaların da trafik işaretlerine uyması zorunluluğu gerekmektedir."
+  ],
+  "a": 1,
+  "e": "“Bisiklet sürmek şöyle dursun … şoför koltuğuna bile oturmamışlardır”: önce daha kolay, sonra daha zor olan gelmeli (mantık sıralaması).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 58 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-059",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Hava kirliliğine karşı çeşitli önlemler alınabilir.",
+   "Çevre sorunlarıyla ilgili toplantılar yapılmalıdır.",
+   "Bu gaz, havada yoğun oranda bulunur.",
+   "Akarsularımız sanayi atıklarıyla kirleniyor.",
+   "Gençler, doğanın korunması konusunda bilinçleniyor."
+  ],
+  "a": 2,
+  "e": "“Yoğun” zaten oran/yoğunluk bildirir; “oranda” gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 59 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-060",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Gürültüden uzak, doğal güzelliklerle dolu parkın bir ( I ) köşesinde, yaşlı bir ( II ) hanım masanın üstüne koyduğu romanını bir (III)karış uzaktan okumaya çalışıyor; bir (IV) şişman, spor giyimli bir (V)adam da dalgın dalgın uzaklara bakıyordu. Bu cümledeki anlatım bozukluğunu gidermek için altı çizili sözcüklerden hangisi atılmalıdır? (Numara, ilgili sözcüğün hemen ardındadır.)",
+  "o": [
+   "I.",
+   "II.",
+   "III.",
+   "IV.",
+   "V."
+  ],
+  "a": 3,
+  "e": "“Bir” sözcüğü “adam”ı niteleyen sıfat olarak iki kez kullanılmış; yanlış yerdeki “bir (IV)” atılmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 60 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-061",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Yaptıklarını kendi ağzıyla itiraf etti. Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Yüklemin III. tekil kişili olmasından",
+   "Nesnenin çoğul eki almasından",
+   "Gereksiz söz kullanılmasından",
+   "Yüklemin di’li geçmiş zamanlı olmasından",
+   "Nesnenin yanlış yerde kullanılmasından"
+  ],
+  "a": 2,
+  "e": "“İtiraf etmek” zaten kişinin kendi söylediği bir işlemdir; “kendi ağzıyla” gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 61 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-062",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Takımlardan biri, ötekinin bitmek bilmeyen karşılıklı saldırılarına daha fazla dayanamadı.",
+   "Maçlarda, taraftarın çıkardığı olaylar spora gölge düşürüyor.",
+   "Sağlıklı kalabilmenin temel koşullarından biri de spor yapmaktır.",
+   "Son yıllarda kimi takımlar, Avrupa takımlarıyla yaptıkları maçlarda yüzümüzü ağartıyor.",
+   "Ancak düzenli olarak yapılan spor yararlı olur."
+  ],
+  "a": 0,
+  "e": "“Saldırı” zaten karşıdakine yönelir; “karşılıklı” gereksizdir (kaynak çözümü).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 62 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-063",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "İlk karşılaşmamızda bana bu kadar yakınlık göstermesine çok şaşırmıştım.",
+   "Bu kadar yetenekli bir çocuğu, sanata yönlendirmekle çok iyi bir iş yaptığını düşünüyor.",
+   "Geçirdiğim rahatsızlığı, büyük bir başarıyla ameliyat ederek sağlığıma kavuşturdu.",
+   "Bu aşamada, olayları doğal akışına bırakmanın doğru olacağı kanısındaydı.",
+   "Aralarındaki sorunların görüş farklılıklarından kaynaklandığını biliyordu."
+  ],
+  "a": 2,
+  "e": "“Rahatsızlığı ameliyat etmek” denmez; ameliyat edilen kişidir. Anlam–yüklem uyumsuzluğu.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 63 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-064",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerin hangisinde dolaylı tümleç eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu olayda dedesinin masum olmadığını öğrenmiş, anlamış.",
+   "Bahar temizliğinde duvarları silmiş, boyamış.",
+   "Çocuk, kemençeyi sıkıca tutmuş, kimseye vermiyor.",
+   "Onlar birbirlerini aramıyor, sevmiyor.",
+   "Bu oyunu beğenmiş, iki kez gitmiş."
+  ],
+  "a": 4,
+  "e": "“Beğenmiş” nesne (bu oyunu), “gitmiş” dolaylı tümleç (oyuna) ister; dolaylı tümleç eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 64 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-065",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Mektubu okudu; hemen cevap yazmaya koyuldu. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne ortaklığı",
+   "Çatı uyuşmazlığı",
+   "Dolaylı tümleç eksikliği",
+   "Gereksiz sözcük kullanımı",
+   "Tamlayan eksikliği"
+  ],
+  "a": 2,
+  "e": "“Mektubu okudu; (mektuba) cevap yazmaya koyuldu”: ikinci yargıda dolaylı tümleç eksik.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 65 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-066",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Sözlerime verdiğiniz değer ve saygı için size teşekkür ederim.",
+   "Kitaplarıma gösterdiğiniz ilgi gözlerimi yaşarttı.",
+   "Dostluğunuza hep gereksinim duydum, önem verdim.",
+   "Herkes saygı ve sevgiyi sanırım benim kadar hak eder.",
+   "Özgün yapıtlar eninde sonunda hak ettiği ilgiyi görür."
+  ],
+  "a": 0,
+  "e": "“Verdiğiniz değer” denir ama “verdiğiniz saygı” denmez; “gösterdiğiniz saygı” olmalıdır (kaynak çözümü).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 66 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-067",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Medyanın şişirdiği haberleri bilirsiniz.",
+   "Her yönetici, kendinden önce, yönettiği kişileri düşünmeli.",
+   "Bu adam deneyimsizliğin ağırlığını koyduğu bir yöneticiydi.",
+   "Her insanın yönetme yeteneği olmayabilir.",
+   "Yönetmeye kalkışan insan, yeteneklerini gözden geçirmeli."
+  ],
+  "a": 2,
+  "e": "“Deneyimsizlik” olumsuz, “ağırlığını koymak” olumlu bir yargıdır; “ağır bastığı” demeliydi.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 67 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-068",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Menemen ile İzmir arasındaki bulunan karayolunda rastlamıştı ona. Bu cümledeki anlatım bozukluğu aşağıdaki değişikliklerin hangisiyle giderilir?",
+  "o": [
+   "“ona” sözcüğü cümlenin başına getirilerek",
+   "“arasındaki” sözcüğü cümleden çıkarılarak",
+   "“bulunan” sözcüğü cümleden çıkarılarak",
+   "“rastlamıştı” yerine “kavuşmuştu” sözcüğü getirilerek",
+   "“bulunan” yerine “mevcut” sözcüğü getirilerek"
+  ],
+  "a": 2,
+  "e": "“Arasındaki” sözündeki “-ki” eki ile “bulunan” aynı anlamdadır; “bulunan” atılmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 68 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-069",
+  "t": "anlatim",
+  "s": "EK",
+  "q": "\"Bize söylediklerinizde tam bir tezatlık sanatı vardır.\" cümlesindeki anlatım bozukluğu aşağıdakilerden hangisiyle giderilebilir?",
+  "o": [
+   "\"Bize\" sözcüğü \"sîzin bize\" şeklinde değiştirilerek.",
+   "\"Söylediklerinizde\" sözcüğü söylediğiniz şeylerle\" şeklinde değiştirilerek.",
+   "\"tezatlık\" kelimesi \"tezat\" şekline getirilerek.",
+   "Yan cümlenin yüklemi kaldırılarak \"her zaman\" söz grubu yüklemden önce getirilerek.",
+   "Yüklem olumsuz yapılarak."
+  ],
+  "a": 2,
+  "e": "“Tezat” zaten kavramdır; “tezatlık” sözündeki “-lık” eki gereksiz yere eklenmiştir (gereksiz ek).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 69 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-070",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "“Birçok gidenin (I) her biri memnun (II) ki yerinden / Birçok (III) seneler (IV) geçti dönen yok seferinden (V).” Yukarıdaki mısralarda numaralandırılmış sözcüklerden hangisi anlatım bozukluğunun sebebidir? (Numara, ilgili sözcüğün hemen ardındadır.)",
+  "o": [
+   "I.",
+   "II.",
+   "III.",
+   "IV.",
+   "V."
+  ],
+  "a": 3,
+  "e": "“Birçok seneler” yanlıştır: “birçok sene” demek gerekir (çoğul sıfat + çoğul ek uyumsuzluğu, IV).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 70 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-074",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde nesne-yüklem uyumsuzluğu yoktur?",
+  "o": [
+   "Her zaman bize geleceğini söyler ama hiçbir zaman gelmezdi.",
+   "Yerine git ve güzelce temizle",
+   "Elinin kirini bize gösterdin, cebine bari sokma",
+   "Onun yoluna çıkıp kesmeye kalkma",
+   "Herkese dikkat et içeri alma"
+  ],
+  "a": 0,
+  "e": "A’da yüklemler nesne/tümleçle uyumludur; diğerlerinde ortak nesne–yüklem uyumsuzluğu vardır (yerine git ve temizle, yoluna çıkıp kesmeye kalkma…).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 74 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-075",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Sınavın yanıtları kitapçığın içinde verildiği için, ayrıca size dağıtıldı. Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Nesne eksikliği",
+   "Özne-yüklem uyumsuzluğu",
+   "Dolaylı tümleç eksikliği",
+   "Gereksiz sözcük kullanımı",
+   "Yüklemin olumlu kullanılması"
+  ],
+  "a": 4,
+  "e": "Yanıtlar kitapçıkta verildiği için “ayrıca dağıtılmadı” (olumsuz) denmeliydi; yüklem yanlış olumlu kullanılmış.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 75 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-076",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "İyi bir rüya görmüşsem keyifli kalkarım yataktan.",
+   "Hangisinin sağlıklı, hangisinin sağlıklı olmadığını tahlillerden sonra öğreneceğiz.",
+   "Bugün yağmur yağdı, bütün kirleri temizledi.",
+   "Dünkü maçta Fenerbahçe iyi oynadı; ama yenildi.",
+   "Sizi özellikle bu konuyu görüşmek için çağırdık."
+  ],
+  "a": 1,
+  "e": "“Hangisinin sağlıklı, hangisinin sağlıklı olmadığını”: “sağlıklı olduğunu” fiilimsisi eksik (fiilimsi eksikliği).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 76 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-077",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde özne fazlalığından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Beklediği haberi alınca sevinçten etekleri tutuştu.",
+   "Soruları anlamak ve cevap vermek uzun sürdü.",
+   "Özel ve tür adları cümlede özne olabilir.",
+   "Biz dershaneye, onlar eve gidecek.",
+   "Kuşlar baharda gelir ve onlar tutunacak dal arar."
+  ],
+  "a": 4,
+  "e": "“Kuşlar baharda gelir ve onlar tutunacak dal arar”: ikinci yargıda “onlar” gereksiz (özne fazlalığı).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 77 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-078",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde tümleç eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Ferhat mutluluktan uçacak gibiydi.",
+   "Trafik kurallarına dikkat edelim, uymayanları uyaralım.",
+   "Gözlerine değdi gözlerim, kaybettiğim hayatı buldum.",
+   "Viran olan şu gönlüm senin oyuncağın mı?",
+   "Maçtan sonra sahada kavga çıkmış."
+  ],
+  "a": 2,
+  "e": "“Gözlerine değdi gözlerim, (onda) kaybettiğim hayatı buldum”: yer/zarf tümleci eksik.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 78 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-079",
+  "t": "anlatim",
+  "s": "EK",
+  "q": "Aşağıdaki cümlelerden hangisinde “-ler, -lar” ekinin gereksiz kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bahçelievler’de yaşam çok renkli.",
+   "Evlerin önü temiz tutulmalıdır.",
+   "Teyzemler dün bizdeydi.",
+   "Birkaç adamlar arabadan hızla indiler.",
+   "Güller serdim yoluna, yine kazanamadım seni."
+  ],
+  "a": 3,
+  "e": "“Birkaç” çokluk bildirir; “adamlar” çoğul eki gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 79 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-080",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde dolaylı tümleç eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Geçmişte, günümüzde ve gelecekte karşılaştığı sorunları çözmek ister.",
+   "Onu göremediğim için olayı anlatamam.",
+   "Gizli sırlarımı aşikar etme",
+   "Sevdiklerini arar, bol bol hediye dağıtırdı.",
+   "İkinci devreyi kalecimiz sakatlandığı için yenik bitirdik."
+  ],
+  "a": 3,
+  "e": "“Sevdiklerini arar, (onlara) bol bol hediye dağıtırdı”: dolaylı tümleç eksik.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 80 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-081",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdaki cümlelerin hangisinde tamlayan ekinin eksik kullanılmasından doğan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Gülmek, insan ruhunun ilacıdır.",
+   "Bir insan, insana yardım edebilmesi için insanı sevmesi gerekir.",
+   "Seni gördükçe kalbim yerinde duramıyor.",
+   "Güneş battığında başlar dertlerim.",
+   "Burada seninle karşılaşacağımı sanmıyordum."
+  ],
+  "a": 1,
+  "e": "“Bir insan, insana … insanı sevmesi”: tamlayan eki eksik; “Bir insanın … sevmesi gerekir.”",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 81 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-082",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdakilerin hangisinde tamlama yanlışlığından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "O bölgede karasal ve Akdeniz iklimi hakim.",
+   "Yumurtadan çıkmış kabuğunu beğenmiyor.",
+   "Bu firma sattığı malların önemli bir kısmını ithal ediyor.",
+   "Pikniğe gittiğimiz yerin resmini yaptım.",
+   "Gerçekten isteseydi seni baş tacı ederdi."
+  ],
+  "a": 0,
+  "e": "“Karasal ve Akdeniz iklimi” ortak tamlananla birleştirilemez; “karasal iklim ve Akdeniz iklimi” olmalı.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 82 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-083",
+  "t": "anlatim",
+  "s": "BE",
+  "q": "“Suç ve Ceza’nın bu çevirisinde yanlışlar var hem de roman üslubuna hiç uygun değil.” Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne eksikliği",
+   "Yüklem eksikliği",
+   "Yanlış bağlaç kullanımı",
+   "Dolaylı tümleç eksikliği",
+   "Ek kullanımında yanlışlık"
+  ],
+  "a": 2,
+  "e": "“Hem de” ile bağlanan iki yargı aynı yönde olmalıdır; burada yanlış bağlaç kullanılmıştır (kaynak anahtarı C).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 83 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-084",
+  "t": "anlatim",
+  "s": "BE",
+  "q": "Kimi cümlelerde eylemler gereksiz kullanılır. Aşağıdaki cümlelerin hangisinde yardımcı eylem gereksiz kullanılmamıştır?",
+  "o": [
+   "Dinlenme yapacağına ödevlerini bitir.",
+   "Gitmem lazım; anneme yardım edeceğim.",
+   "Sahildeki insanlar saatlerce güneşlenme yaptı.",
+   "Bekleme yapmayalım, otobüsün arkası boş.",
+   "Oyalanma yapmasaydın bu işler biterdi."
+  ],
+  "a": 1,
+  "e": "“Gitmem lazım” yardımcı eylem içermez; A, C, D, E’de “yap-” gereksiz yardımcı eylemdir (dinlenme yapmak → dinlenmek).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 84 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-085",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "“Bir eleştirmenin eserlere bakış açısı ve yorumlayışı önemlidir.” cümlesindeki anlatım bozukluğu nasıl giderilebilir?",
+  "o": [
+   "“açısı” yerine “yönü” getirilerek",
+   "“bakış açısı” sözleri yerine “bakışı” diyerek",
+   "“bir” sözcüğünü cümleden atarak",
+   "“önemlidir” sözcüğünden önce “ne kadar” sözleri getirilerek",
+   "“ve” sözcüğünden sonra “eserleri” sözcüğünü getirerek"
+  ],
+  "a": 4,
+  "e": "“Bakış açısı ve (eserleri) yorumlayışı”: “yorumlayış” nesne ister, “eserleri” eksik.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 85 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-086",
+  "t": "anlatim",
+  "s": "AB",
+  "q": "Aşağıdaki cümlelerden hangisinde tamlayan eksikliğinden kaynaklanan bir anlam belirsizliği vardır?",
+  "o": [
+   "Sorduğu sorudan ne anladın?",
+   "Onu dövdüğüne herkes şahit oldu.",
+   "Aldığın çiçekleri vazoya koydun mu?",
+   "Yüreğinize sağlık, türküyü çok güzel söylediniz.",
+   "Marmara Denizi de kirliliğin kurbanı oldu."
+  ],
+  "a": 1,
+  "e": "“Onu dövdüğüne” kimin kimi dövdüğü belli değildir; tamlayan (özne) eksikliği anlam belirsizliği doğurur.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 86 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-087",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Onun şiirinde hiçbir şairin izini bulamazsınız.",
+   "Bir gün gelecek dostluk ve kardeşlik dünyaya ve ülkemize egemen olacaktır.",
+   "Birçok değerli öğretmenler görev yaptı burada",
+   "Artık daha az görüşecekler.",
+   "Haberi alır almaz onları aradık."
+  ],
+  "a": 2,
+  "e": "“Birçok” çokluk bildirir; “öğretmenler” çoğul eki almamalı.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 87 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-088",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Türk sanatının ve edebiyatının bütün meşhurlarını yakından tanımıştır.",
+   "Ne umutlarla postalamıştım hikayemi o gazeteye",
+   "Doğada ne ödül vardır ne de ceza",
+   "Bu konu üzerinde düşünürken tarihe bakmak, ayrıca çok da iyi bilmek gerekir.",
+   "Boş oturmak pas gibidir, insanı çalışmaktan çok daha çabuk eskitir."
+  ],
+  "a": 3,
+  "e": "“Tarihe bakmak, ayrıca (tarihi) çok iyi bilmek”: ikinci yargı nesne ister; “tarihe” ile ortak kullanılamaz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 88 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-090",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Öğrenciler, sınıfta sessizce beklediler.",
+   "Ağaçlar bu yağmurlardan sonra çiçek açtı.",
+   "Bu hayaller yüreğime umut tohumları ekti.",
+   "Gül kokuları papatya kokularını aratmadılar.",
+   "Duygular her zaman mı acı verir insana?"
+  ],
+  "a": 3,
+  "e": "Çoğul özne (kokular) insan dışı olduğu için yüklem çoğul almaz: “aratmadı”.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 90 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-091",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde ek-fiil eksikliğinden doğan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Çocuk zeki; ama mutlu değildi.",
+   "Onlar huzursuzdu, ama ben rahattım.",
+   "Soruların zorluğu tartışılmaz; ama yine de yılmamalıyız.",
+   "Sabahın bir vakti uyanmıştı ve bir daha uyumadı",
+   "Adam hastalandı; ama yine de işe gitti."
+  ],
+  "a": 0,
+  "e": "“Çocuk zeki” cümlesinde ek-fiil eksiktir; “zekiydi; ama mutlu değildi” olmalıdır (ortak ek-fiil olumlu–olumsuz uyuşmaz).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 91 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-092",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu ödevi yapmak hepinizin görevi.",
+   "Kutuları taşıdı sonra dinlenmeye gitti.",
+   "Bu yazıya dikkat etmeli, herkesle paylaşmalıyız.",
+   "Ansiklopedileri sırayla rafa dizdi.",
+   "Saklambaç oynarken ağaçtan düşüp kolunu incitti."
+  ],
+  "a": 2,
+  "e": "“Dikkat etmeli” (dolaylı) ile “paylaşmalıyız” (nesne: yazıyı) uyuşmaz; nesne eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 92 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-093",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Her çocuğun kendini anlatma biçimi farklıdır.",
+   "Yemeğe tuz attı; ama yine de yemedi.",
+   "Annesini çok özlemişti; ama dönmek istemiyordu.",
+   "Derdine bir çare aramıyor bununla birlikte başkalarının derdine de kayıtsız kalıyor.",
+   "Konuşması düzgün, mimikleri anlamlı bir gençti."
+  ],
+  "a": 2,
+  "e": "“Özlemişti” nesne (annesini), “dönmek” dolaylı tümleç (ona/yanına) ister; dolaylı tümleç eksikliği.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 93 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-095",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdakilerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Yalanın başladığı yerde saygı yok olur.",
+   "Öğretmen olduğumu duyunca herkes şaşırdı.",
+   "Çözdüğü soruları ve cevapları aynı deftere yazmış.",
+   "Profesör, İstanbul’dan nefret ediyordu.",
+   "Taşlaşmış ağaçların oluşturduğu bir ormana benziyor."
+  ],
+  "a": 2,
+  "e": "“Çözdüğü soruları ve cevapları”: “çözmek” sorularla kullanılır, cevaplarla kullanılmaz (sıfat-fiil ortak).",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 95 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-096",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Çocuğu neredeyse hemen hemen yakalayacaktım; fakat çocuk otobüse biniverdi. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne-yüklem uyumsuzluğu",
+   "Gereksiz sözcük kullanımı",
+   "Tamlama yanlışlığı",
+   "Yanlış sözcük kullanımı",
+   "Gereksiz ek kullanımı"
+  ],
+  "a": 1,
+  "e": "“Neredeyse” ile “hemen hemen” aynı anlamdadır; biri gereksiz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 96 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-097",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde, aynı anlama gelen sözlerin bir arada kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Ömer Bey, buralarda sözüne güvenilir biri olarak bilinir.",
+   "Bu şiir, hem muhteva hem şekil yönünden incelenmeli.",
+   "Bu sözler üzerine herkes hançer ve kılıcını çıkarmış.",
+   "Mehmet’in ne yaman bir nişancı olduğunu biliyordu.",
+   "Ele avuca sığmayan, yaramaz ve haşarı bir çocuktu Kâzım."
+  ],
+  "a": 4,
+  "e": "“Yaramaz” ile “haşarı” eş anlamlıdır; birlikte kullanılması gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 97 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-098",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Hırsızlık yapan kişilerle kimlik belirleme çalışmaları ve olayla ilgili soruşturma sürdürülüyor. Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisiyle giderilebilir?",
+  "o": [
+   "“kimlik” ten önce “ilgili” sözcüğü getirilerek",
+   "“soruşturma” yerine “araştırma” sözcüğü getirilerek",
+   "“ilgili” sözcüğü cümleden atılarak",
+   "“ve” yerine “ile” getirilerek",
+   "”çalışmaları” sözcüğündeki “-lar” atılarak"
+  ],
+  "a": 0,
+  "e": "“Hırsızlık yapan kişilerle (ilgili) kimlik belirleme” için “ilgili” sözcüğü gereklidir; “kişilerle” tamlaması eksik kalıyor.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 98 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B1-099",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Notlarımı da bulamıyorum dünden beri.",
+   "Adam, herkesin gözü önünde kadının çantasını kaptı.",
+   "Bunlar hayal ürünü değil, yaşanmış hatıralardır.",
+   "Sorunsuz bir gün geçirmek istiyorum.",
+   "“Aklını kullanmazsan, zararlı çıkarsın.” dedi, öğretmenim."
+  ],
+  "a": 2,
+  "e": "“Hayal ürünü değil, yaşanmış hatıralardır”: ek-fiil ortak kullanılmış ama olumsuz–olumlu uyumsuz.",
+  "src": "3. hafta ek cevaplı sorular (1).pdf – soru 99 (anahtar: s.6)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-01",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Sergide tanıtılan antika eşyalar, geçmişte insanların inançlarını ve beğenilerini de yansıtıyor. Bu cümledeki anlam karışıklığı aşağıdaki değişikliklerden hangisiyle giderilebilir?",
+  "o": [
+   "“tanıtılan” sözcüğünden sonra “çok değerli” getirilerek",
+   "“geçmişte” sözcüğünden sonra “yaşamış” getirilerek",
+   "“antika” sözcüğü atılarak",
+   "“inançlarını” sözcüğü yerine “geleneklerini” getirilerek",
+   "“de” sözcüğü atılarak"
+  ],
+  "a": 1,
+  "e": "Bu cümlede karışıklığa neden olan “geçmişte” sözcüğüdür. Buradan yansıtma işinin geçmişte olduğu anlaşılıyor. Ama “geçmişte yaşayan insanların inançlarını, beğenilerini yansıtıyor.” Biçiminde de anlaşılabiliyor. “Geçmişte” sözcüğünden sonra “yaşamış” getirildiğinde cümledeki ikiz anlamlılık ortadan kalkar.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 1 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-02",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerden hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Onun yer yer kızaran vücudunun alerjiden kaynaklandığı söylendi.",
+   "İnsanın bazı hastalıklara bağışıklık kazanamadığını biliyoruz.",
+   "Hastalıklardan korunmak için temiz ortamlarda yaşamak gerekiyor.",
+   "Kimi küçük ameliyatlar bile büyük sağlık problemlerine neden olabilir.",
+   "Ülkemizde bilgisizlikten çok düzensizlik, sorunlara yol açıyor."
+  ],
+  "a": 0,
+  "e": "A seçeneğindeki “Onun yer yer kızaran vücudunun alerjiden kaynaklandığı söylendi” cümlesinde vücudunun alerjiden kaynaklandığı gibi anlamsız bir söz ortaya çıkıyor. Bu cümle “Vücudundaki kızarıklığın alerjiden kaynaklandığı söylendi” biçiminde düzeltilebilir. Çünkü alerjinin neden olduğu, vücut değil kızarıklıklardır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 2 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-03",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Özenle hayatta kalmayı başaran Rukiye Taş ambulansa taşındı. Bu cümledeki anlatım bozukluğu aşağıdaki değişikliklerin hangisiyle giderilebilir?",
+  "o": [
+   "“taşındı” sözü yerine “gönderildi” sözü getirilerek",
+   "“özenle” sözü yerine “dikkatle” sözü getirilerek",
+   "“özenle” sözü “ambulansa” sözünden önce getirilerek",
+   "“hayatta” sözü yerine “sağ” sözcüğü getirilerek",
+   "“ambulansa” sözcüğü atılarak"
+  ],
+  "a": 2,
+  "e": "Bu cümlede “özenle” sözcüğünün yanlış yerde kullanılması cümlede “özenle hayatta kalmak” ve “özenle taşınmak” anlamlarını yarattığı için “özenle” sözcüğünün “ambulansa” sözcüğünden önce gelmesi gerekir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 3 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-05",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "(I) Bilim adamı çıkar gözetmez. (II) Yapacağı çalışmaların kendisine yarar mı zarar mı sağlayacağına bakmaz. (III) Onun amacı, bilinmeyenleri bilinir kılmaktır. (IV) Gerçekleri ortaya çıkarmayı ister. (V) Bu, onun tek ve değişmez çabasıdır. Bu parçada numaralanmış cümlelerin hangisinde bir anlatım bozukluğu yapılmıştır?",
+  "o": [
+   "I.",
+   "II.",
+   "III.",
+   "IV.",
+   "V."
+  ],
+  "a": 1,
+  "e": "II. cümlede “yarar mı zarar mı sağlayacağı” sözlerinde sağlamak” hem yarar hem de zarar sözcüklerini tamamlamış. “Yarar sağlamak” denir; ama “zarar sağlamak” denmez; çünkü zarar olumsuz, yarar olumlu sözcüklerdir; bu sözcükler birlikte kullanılmaz. Bu cümlenin doğru biçimi şöyle olmalıydı: “Yapacağı çalışmaların kendisine yarar mı sağlayacağına, zarar mı vereceğine bakmaz.”",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 5 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-06",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdakilerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Üç gün sonra iki günlüğüne Antalya’ya gideceğim.",
+   "Alkol benim nadir başvurduğum bir iş.",
+   "Sonunda, çevreye tehlike saçan kuyuyu doldurdular.",
+   "Sıcak, içten bir anlatımla yazdığı romanlar okuru sarıyor, etkiliyor.",
+   "Trenin ne zaman geçtiğini bilmiyorum."
+  ],
+  "a": 1,
+  "e": "B seçeneğinde “Alkol benim nadir başvurduğum bir iş.” cümlesinde “iş” sözcüğü anlamına uygun kullanılmamış; çünkü alkol bir iş değildir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 6 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-08",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Marmara Denizi’nin altından geçen fay kırığı İstanbul’un korkulu rüyası oldu. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Öğe eksikliği",
+   "Tamlama yanlışı",
+   "Çatı uyumsuzluğu",
+   "Aynı anlamlı sözcük kullanılması",
+   "Sözcüklerin anlamına uygun kullanılmaması"
+  ],
+  "a": 3,
+  "e": "Örnek cümlede geçen “fay kırığı” tamlamasında “fay” yerkabuğu kırığını anlattığı için “kırık” sözcüğü gereksiz kullanılmıştır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 8 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-09",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerden hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Bütün bunlar o insanlara söylenmese de olurdu.",
+   "İnanıyorum ki bu işte bir hata var gibi geliyordu bana.",
+   "İnsanlara yardım etmek için uğraşman iyi bir davranış.",
+   "Bana göre biz de kendimizi yanlış anlattık.",
+   "Bu işe karışman yeni sorunlar çıkmasına neden olur."
+  ],
+  "a": 1,
+  "e": "B seçeneğindeki “inanıyorum” sözcüğü ile “var gibi geliyor bana” sözleri aynı anlama geldiği için birinden biri kullanılarak cümle yeniden düzenlenmeli. “İnanıyorum ki bu işte bir hata var.” Denmeli ya da “Bu işte bir hata var gibi geliyor bana.” denmelidir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 9 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-11",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "“Fabrikada yapılan son araştırmaya göre elimizde yeterince kaynak mevcut bulunmamaktadır.” Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Çatı yanlışlığı",
+   "Tamlama yanlışlığı",
+   "Gereksiz sözcük kullanılması",
+   "Özne - yüklem uyumsuzluğu",
+   "Yanlış anlamda sözcük kullanımı"
+  ],
+  "a": 2,
+  "e": "Örnek cümlede “bulunmamaktadır” sözcüğü, “mevcut” sözcüğünü de içerdiğinden “mevcut” Sözcüğü gereksiz kullanılmıştır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 11 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-12",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Türkiye genelinde erozyona karşı savaş açıldı.",
+   "ÖSS sınavının iptal edilmesiyle öğrenciler boşluğa düştü.",
+   "Okudukça bilgisinin ve görgüsünün arttığını hissediyordu.",
+   "Göz göze geldiklerinde aralarında görünmez bir bağ oluştu.",
+   "İnsanlar, yaşadıkları sürece bir şeyler öğrenirler."
+  ],
+  "a": 1,
+  "e": "“ÖSS sınavının” sözlerinde kısaltmanın son “S” si sınav anlamında olduğu için “sınavı” sözcüğü gereksiz kullanılmıştır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 12 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-14",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Son yıllarda edebiyat türleri arasındaki bulunan ayrımın gitgide ortadan kalktığı, bunların birbirine yaklaştığı yönünde bir sav var. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Yanlış anlamda sözcük kullanımı",
+   "Sözcüğün yanlış yerde kullanımı",
+   "Gereksiz sözcük kullanımı",
+   "Özne - yüklem uyumsuzluğu",
+   "Çatı uyumsuzluğu"
+  ],
+  "a": 2,
+  "e": "Örnek cümlede “arasındaki” sözcüğü “bulunan” sözcüğünü de içerdiği için “bulunan” sözcüğü cümleden atılmalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 14 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-15",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Limon fiyatlarındaki aşırı yükseliş, limonun dışarıya ihraç edilmesinden kaynaklanıyor. Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisiyle giderilebilir?",
+  "o": [
+   "“fiyat” sözcüğü yerine “ücret” sözcüğü getirilerek",
+   "“aşırı” sözcüğü cümleden çıkartılarak",
+   "“dışarıya” sözcüğü cümleden çıkartılarak",
+   "“yükseliş” sözcüğü yerine “artış” sözcüğü getirilerek",
+   "“limonun” sözcüğü cümleden çıkartılarak"
+  ],
+  "a": 2,
+  "e": "Örnek cümlede “dışarıya ihraç etmek” sözlerinde “ihraç etmek” “dışarı”yı da içerdiği için bu sözcük gereksizdir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 15 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-16",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Fiyatlar çok pahalı olduğu için satışlar çok durgun. Bu cümledeki anlatım bozukluğunu gidermek için aşağıdaki değişikliklerden hangisi yapılmalıdır?",
+  "o": [
+   "“çok” sözcükleri atılmalı.",
+   "“durgun” yerine “az” sözcüğü getirilmeli.",
+   "“olduğu için” yerine “olduğundan” sözcüğü getirilmeli.",
+   "”satışlar” yerine “alışveriş” sözcüğü getirilmeli.",
+   "“pahalı” yerine “yüksek” sözcüğü getirilmeli."
+  ],
+  "a": 4,
+  "e": "“Fiyat” bir malın karşılığı olan parasal değerdir.Pahalı olan, mal olabilir. “Fiyat pahalı” denemez;“fiyat yüksek” denebilir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 16 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-17",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Çocuk Esirgeme Kurumu’na ve Mehmetçik Vakfı’na yatırımda bulunabilirsiniz. Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Bir sözcüğün yanlış yerde kullanılmasından",
+   "Anlamca çelişen sözcüklere yer verilmesinden",
+   "Yanlış anlamda sözcük kullanılmasından",
+   "Özne eksikliğinden",
+   "Özne - yüklem uyumsuzluğundan"
+  ],
+  "a": 2,
+  "e": "“Yatırım” kazanç elde etmek için yapılan iş. Adı geçen vakıflar yardım kuruluşları olduğu için bu sözcük yerine “yardım” sözcüğü getirilmeli.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 17 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-18",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdakilerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bulduğun sonucu bana da söyle.",
+   "Düşündüğün konuyu şimdi uygulayabiliriz.",
+   "Birkaç gün sonra bu konuyu yeniden düşünelim.",
+   "Senin böyle hesaplara aklın ermez.",
+   "Düşündüğünü yapma özgürlüğüne sahipsin."
+  ],
+  "a": 1,
+  "e": "“Konu” üzerinde düşünülen, ele alınan olay ya da durumdur. Bu nedenle konu uygulanamaz. Bu sözcük yerine “plan” getirilmelidir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 18 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-19",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Oraya gidersen, Etnografya ya da Kurtuluş Savaşı müzelerini gezmelisin. Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Yanlış bağlaç kullanılmasından",
+   "Koşul cümlesi olmasından",
+   "Nesnenin yanlış yerde bulunmasından",
+   "Yüklemin gereklilik kipinde olmasından",
+   "Ad tamlamasının gereksiz kullanılmasından"
+  ],
+  "a": 0,
+  "e": "“ya da” bağlacı eş durumda olan iki varlıktan birinin seçilmesi durumunda kullanılır. Bu cümlede farklı nitelikte varlıklar bağlandığı için “ya da” yerine “ve” kullanılmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 19 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-20",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Sağlık herkes için çok önemli; ama sağlık sorunlarını ele alan bilim dalları var. Bu cümledeki anlatım bozukluğu aşağıdaki değişikliklerden hangisiyle düzeltilebilir?",
+  "o": [
+   "“herkes” yerine “kimileri” sözcüğü getirilerek",
+   "“önemli” sözcüğünden sonra “-dir” eki getirilerek",
+   "“ama” yerine “bu nedenle” sözcüğü getirilerek",
+   "“ele alan” yerine “inceleyen” sözcüğü getirilerek",
+   "“çok” sözcüğü cümleden atılarak"
+  ],
+  "a": 2,
+  "e": "“Sağlık herkes için çok önemli” dendikten sonra bu önemin nereden geldiğini belirten açıklama yapılmış; bu açıklamadan önce “ama” değil, “bu nedenle” getirilmelidir. “Ama” karşıtlık ya da olumluluk-olumsuzluk ilgisiyle birbirine bağlanan cümleler arasında kullanılır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 20 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-21",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Belki de olay çıkarmak için değil, kendini savunmak için böyle davrandı.",
+   "Eminim ki adam güç durumda olmasaydı belki de parayı almazdı.",
+   "Kim bilir, belki önemli bir işi çıkmıştır.",
+   "Belli olmaz ki belki sizinle birlikte gitmek ister.",
+   "Bilmiyorum, belki akşama doğru gelir."
+  ],
+  "a": 1,
+  "e": "Birini çürüten, dışlayan sözcüklere çelişen sözcükler denir. B seçeneğinde “eminim” kesinlik belirttiği halde “belki” sözcüğü “olasılık” belirttiği için bu sözcükler birbiriyle çelişir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 21 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-22",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Şüphesiz böyle düşünen biri eğitim almış olsa gerek.",
+   "Okur yazar olmak ayrı şey, okur olmak ayrı.",
+   "Çağdaş insan her gün gazete okuyan kişidir.",
+   "Ölmeden tüm güzellikleri yaşamalıyız.",
+   "Sınav başlamadan tüm yazılarımı gözden geçirdi."
+  ],
+  "a": 0,
+  "e": "A seçeneğindeki “şüphesiz” sözcüğü ile “olsa gerek” sözcüğü çelişir. Çünkü ilki kesinlik, ikincisi olasılık belirtir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 22 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-24",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Saygı duruşu ve İstiklal Marşı okundu. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne eksikliği",
+   "Nesne eksikliği",
+   "Gereksiz sözcük kullanılması",
+   "Yüklem eksikliği",
+   "Anlamca çelişen sözcüklerin kullanılması"
+  ],
+  "a": 3,
+  "e": "“Ve” bağlacıyla birbirine bağlanan iki yargıdan ikincisine uygun düşen “okundu” eylemi; birinci yargıya uygun düşmüyor. Saygı duruşu okundu denemez. Cümleyi düzeltmek için “ve”den önce “yapıldı” getirilmeli.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 24 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-25",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Biraz da ne söylediğimizi dinlerseniz iyi olur kanısındayım. Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Nesnenin yanlış yerde kullanılmasından",
+   "Bağlacın gereksiz kullanılmasından",
+   "Yanlış anlamda sözcük kullanılmasından",
+   "Yüklemin geniş zamanlı olmasından",
+   "Özneyle yüklemin uyumsuzluğundan"
+  ],
+  "a": 2,
+  "e": "Örnek cümlede verilen “ne söylediğimi dinlerseniz” sözlerinde ya “ne” atılmalı ya da “dinlerseniz” yerine “anlarsanız” getirilmeli.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 25 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-26",
+  "t": "anlatim",
+  "s": "DY",
+  "q": "Bu sorunun çözümünde yapabileceğim rol çok önemli. Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Yüklemin geniş zamanlı olmasından",
+   "Gereksiz yere işaret sıfatı kullanılmasından",
+   "İsim cümlesi olmasından",
+   "Yanlış sözcük kullanılmasından",
+   "Gereksiz yere belirteç kullanılmasından"
+  ],
+  "a": 3,
+  "e": "Deyimler kalıplaşmış sözlerdir. Bir sözcüğün yerine başka sözcük konamaz. Deyimlerin anlamı kişiye ya da bölgeye göre değişmez. Örnek cümlede “yapabileceğim rol” sözü bozukluğa neden olmuş. Çünkü “rol yapmak” kimi gerçekleri saklayarak davranmak anlamına gelir. Oysa bu cümlede “yapabileceğim rol” sözü “görev, etki” anlamında kullanılmıştır. Doğrusu “oynayabileceğim rol” olmalıydı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 26 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-27",
+  "t": "anlatim",
+  "s": "DY",
+  "q": "Belediye, suyu akmayan halkın şikâyetlerine göz yummuştu. Buradaki dil yanlışlığı aşağıdaki seçeneklerin hangisinde verilmiştir?",
+  "o": [
+   "Nesne - yüklem uyumsuzluğu",
+   "Deyimi yanlış kullanma",
+   "Öğe eksikliği",
+   "Özne - yüklem uyumsuzluğu",
+   "Gereksiz sözcük kullanma"
+  ],
+  "a": 1,
+  "e": "“Göz yummak” deyimi bilinen bir durumu görmezlikten gelmektir. Oysa bu cümlede halkın şikâyeti bir kusur değildir. Bu deyim yerine “duymazlıktan gelmek” anlamındaki “kulak tıkamak” ya da “önem vermemek” anlamındaki “kulak asmamak” deyimi kullanılmalıydı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 27 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-28",
+  "t": "anlatim",
+  "s": "DY",
+  "q": "Aşağıdaki cümlelerin hangisinde deyimin yanlış kullanılmasından kaynaklanan anlatım bozukluğu yoktur?",
+  "o": [
+   "Toplantıdaki davranışları ile şimşekleri üzerine topladı.",
+   "Onu hiç böyle görmemiştim. Yüzünden dökülen bin parçaydı.",
+   "O, sınırı iyice aştı; onun zincirini çekmek gerekiyor.",
+   "Üzerine aldığı her işi, yarım yanlış yapıyor.",
+   "Kalkıştığım her işte, her zaman bana destek oldu."
+  ],
+  "a": 4,
+  "e": "Bu cümlelerdeki deyimlerde kimi sözcükler değiştirilerek kalıplaşmış söz olan deyimler bozulmuştur.Bu deyimlerin doğru biçimleri şöyledir: A’da “şimşekleri üzerine toplamak” değil “şimşekleri üstüne çekmek”, B’de “yüzünden dökülen bin parça” değil “suratından düşen yüz parça”, C’de “zincirini çekmek” değil, “ipini çekmek”, D’de “yarım yanlış” değil “yarım yamalak” olmalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 28 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-29",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu konuda nasıl bir çalışma yapılması gerektiği, uzmanlarca tartışılacak.",
+   "Olaydan büyük bir üzüntü duyduğunu, suçluların cezalandırılmasını istedi.",
+   "Yeni binaların ne zaman hizmete açılacağını, basın aracılığıyla duyuracaklarını belirtti.",
+   "Sorunlara sağduyuyla yaklaşmanın, onların çözümünü kolaylaştıracağı sonucuna varıldı.",
+   "Bölgede, kış mevsiminin uzun sürmesi nedeniyle alınması gerekli önlemler yetkililere bildirildi."
+  ],
+  "a": 1,
+  "e": "“Olaylardan büyük bir üzüntü duyduğunu” sözlerinin cümle olabilmesi için yükleminin olması gerekir. Çünkü ikinci cümlenin yüklemi, bu cümleye uygun değildir. Cümlenin doğru biçimi şöyle olmalıydı: “Olaydan büyük üzüntü duyduğunu söyledi, suçluların cezalandırılmasını istedi.”",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 29 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-30",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Annelerle paylaşılan acılar yarıya, sevinçlerse iki katına çıkar. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Yüklem eksikliği",
+   "Nesne - yüklem uyuşmazlığı",
+   "Sözcük fazlalığı",
+   "Özne eksikliği",
+   "Ekeylem eksikliği"
+  ],
+  "a": 0,
+  "e": "Örnek cümlede birbirine bağlı iki cümle var. Bu iki cümle için tek yüklem (çıkar) kullanılmış. “çıkar” eylemi ilk cümleye uygun düşmediği için “yarıya” sözcüğünden sonra “iner” eylemi getirilmelidir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 30 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-31",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Sefayı sen; cefayı biz çekelim. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Özne yanlışlığı",
+   "Yüklem eksikliği",
+   "Nesne-yüklem uyumsuzluğu",
+   "Sözcük fazlalığı",
+   "Belirteç tümleci eksikliği"
+  ],
+  "a": 1,
+  "e": "Dilimizde “cefa çekmek” denir; ama “sefa çekmek” denmez. “Sefa sürmek” denir. Örnek cümlede tek yüklem kullanıldığı için böyle bir yanlışa düşülmüş. Cümlenin doğru biçimi şöyle olmalı: “Sefayı sen sür; cefayı biz çekelim.”",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 31 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-32",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Hiçbiri - Ali Suavi'den başka - ülkede bir ayaklanmayı düşünmemiş, padişaha bağlılığı kutsal bir görev saymıştır. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisinde doğru olarak belirtilmiştir?",
+  "o": [
+   "İkinci cümleciğin yükleminde özneyle uyum sağlanmamıştır.",
+   "Birinci cümlecikteki arasöz, gereken biçimde düzenlenmemiştir.",
+   "Birinci cümleciğin yükleminde özneyle uyum sağlanmamıştır.",
+   "Birinci cümlecikteki yüklemin sonuna \"–dir\" eki getirilmemiştir.",
+   "Her iki cümleciğin yüklemleri arasında olumluluk - olumsuzluk bakımından uyum sağlanmamıştır."
+  ],
+  "a": 0,
+  "e": "İlk cümlenin öznesi “hiçbir” sözcüğüdür. “hiçbir” sözcüğü ikinci cümlenin başına getirilirse uygun düşmediği görülür. İkinci cümleye uygun bir özne getirilmeli, bu özne “hepsi” olmalıydı. Öyleyse ikinci cümlede özne ile yüklem uyumsuzdur.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 32 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-33",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde özne eksikliğinin neden olduğu bir anlatım bozukluğu yoktur?",
+  "o": [
+   "Onun okula gelmesi şöyle dursun, eve bile gelmedi.",
+   "İçeriye giren kişinin elleri bağlandı, soyuldu.",
+   "Testteki yanlışlar düzeltilerek bilgisayarda yeniden yazıldı.",
+   "İnsana böyle bir soru sorulsa, çileden çıkabilir.",
+   "Bütün çalışmalara katıldığını ve takdir ettiğini biliyorum."
+  ],
+  "a": 4,
+  "e": "A seçeneğinde ilk cümlenin öznesi “onun okula gelmesi”. Bu özne ikinci cümlenin yüklemi olan “gelmedi” eylemine uygun düşmez; virgülden sonra “o” kullanılmalı. B’de “içeriye giren kişinin elleri” ilk cümlenin öznesi. Bu söz ikinci cümlenin yüklemi olan “soyuldu” eylemine uygun düşmez. İkinci cümleye “içeriye giren kişi” ya da “o” getirilmeli. C’de ilk cümlenin öznesi olan “testteki yanlışlar”. İkinci cümleye “testler” öznesi getirilmeli. D’de aynı nedenle ikinci cümleye “insan” öznesi getirilmeli. E seçeneğinde de bir anlatım bozukluğu var; ancak bozukluk, özne eksikliğinden değil yan cümleciğin “nesne” eksikliğinden kaynaklanmaktadır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 33 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-34",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde \"hiçbiri\" sözcüğünün kullanılmamasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bütün insanlar kendilerini tehlikelerden korumak ister; diğer insanların durumlarına pek aldırmaz.",
+   "Kimse beni konuk etmeyi göze alamadı; ağanın öfkesini üzerine çekmek istemedi.",
+   "Bana pek çok söz verdin; ama bu sözleri asla tutmadın; bu nedenle sana güvenemem.",
+   "Herkes sorumluğunu diğerlerine bırakmak istedi, böylece onlar kendilerini dertten kurtardılar.",
+   "Bazıları birkaç yıl sonra köyden göç edip kentte kendilerine uygun bir yaşam kurdu."
+  ],
+  "a": 0,
+  "e": "“Bütün insanlar” öznesi olumlu bir eylem olan “korumak ister” yüklemine uygun düştüğü halde, olumsuz bir eylem olan “aldırmaz” yüklemine uygun düşmüyor. İkinci cümleye bu eyleme uygun düşen “hiçbiri” öznesi getirilmelidir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 34 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-35",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Burada, en çok eski arkadaşlarımı arıyor, özlüyorum.",
+   "Konunun az bilinen yönüne ışık tutuyor, aydınlatıyor.",
+   "Yeni çıkan kitapları alıyor, hemen okuyorum.",
+   "Gezilerinde yeni yerler görüyor, değişik insanlar tanıyor.",
+   "Yaptıklarını yeterli bulmuyor, eleştiriyor."
+  ],
+  "a": 1,
+  "e": "B seçeneğinde “konunun az bilinen yönüne” söz öbeği dolaylı tümleçtir. Bu sözler “ışık tutuyor” yüklemine uygun düşüyor; ama “aydınlatıyor” yüklemine uygun düşmüyor. Bu sözden önce “konunun az bilinen yönünü” anlamına gelen “onu” getirilmeli.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 35 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-36",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Kardeşimin olumsuz davranışlarına kızıyor, düzeltmesini istiyorum. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Nesne eksikliği",
+   "Özne eksikliği",
+   "Dolaylı tümleç eksikliği",
+   "Tamlama yanlışlığı",
+   "Yüklem eksikliği"
+  ],
+  "a": 0,
+  "e": "Örnek cümlede yükleme sorulan “neye?” sorusunun örnek cümlede yanıtı olan “kardeşimin olumsuz davranışlarına” dolaylı tümleçtir. Bu sözler ikinci yükleme uygun düşmediği için ikinci cümleye “olumsuz davranışlarını”, “bunları” getirilmelidir. Getirdiğimiz öğe yükleme sorulan “neyi?” sorusunun yanıtı olan “nesne”dir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 36 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-37",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinden “onları” kelimesi çıkarılırsa anlam bozulur?",
+  "o": [
+   "Evdekileri telefonla arayıp, konu hakkında onları uyardı.",
+   "Bavula eşyaları özenle yerleştiriyor, onları kırıştırmıyordu.",
+   "Bahçedekileri eve çağırdı, onları evde ağırladı.",
+   "Sorunlar gittikçe büyüyor, onları çözmekte zorlanıyordu.",
+   "Arkadaşlarını gün geçtikçe daha iyi tanıyor ,onları anlıyordu."
+  ],
+  "a": 3,
+  "e": "Birden çok yüklemin yer aldığı cümlelerde öğelerin yüklemlerle uyumlu olması gerekir. A seçeneğinde “evdekileri”, “arayıp” eylemsisinin nesnesidir. Bu nesne ikinci cümlenin yüklemi olan “uyardı” eylemine de uygun düştüğü için aynı anlamlı ikinci bir nesnenin kullanılması gereksizdir. B, C, E seçeneklerinde de “onları” sözcükleri gereksiz kullanılmıştır. D seçeneğinde “sorunlar” sözcüğü ilk cümlenin öznesidir. İkinci cümlenin öznesiyse “o” gizli öznedir. “onları” sözcüğü çıkarıldığında onun yerini tutan bir “nesne” olmadığı için cümle bozulur. İlk cümlenin öznesi nesne gibi görünür. Cümle şöyle olur “sorunlar gittikçe büyüyor, sorunlar çözmekte zorlanıyordu.” Bu da bozuk bir cümledir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 37 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-38",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bugün tatil olduğundan, sabahleyin geç kalktım.",
+   "Arkadaşımız, çok çalışkan bir çocuktu.",
+   "Dün akşam, rüzgâr ortalığı altüst etti.",
+   "Birbirlerini çok iyi anlar, inanırlardı.",
+   "Dün gece çok garip bir rüya gördüm."
+  ],
+  "a": 3,
+  "e": "D seçeneğinde “birbirlerini anlarlardı” denebildiği halde ”birbirlerini inanırlardı” denemeyeceği için ikinci cümleye “birbirlerine” getirilmeli. Getirilen öğe “kime?” sorusunun yanıtı olan dolaylı tümleçtir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 38 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-40",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerin hangisinde, aynı tümleci alamayan yüklemlerin aynı tümlece bağlanmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu olayda dedesinin masum olmadığını öğrenmiş, anlamış.",
+   "Bahar temizliğinde duvarları silmiş, boyamış.",
+   "Çocuk, kemençeyi sıkıca tutmuş, kimseye vermiyor.",
+   "Onlar birbirlerini aramıyor, sevmiyor.",
+   "Bu oyunu beğenmiş, iki kez gitmiş."
+  ],
+  "a": 4,
+  "e": "E seçeneğinde “bu oyunu” söz öbeği nesnedir. Bu nesne ikinci cümlenin yüklemi olan “gitmiş” eylemine bağlanamaz. Bu eylemden önce “oyuna” tümleci getirilmelidir.Diğer seçeneklerde tüm öğeler iki yükleme de uygun düşüyor.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 40 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-41",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Çalışma yaşamınızda bu tür güçlüklerle sık sık karşılaşacaksınız.",
+   "Bizim için önemli olan, görevinizi en iyi biçimde yerine getirmenizdir.",
+   "Bir sorunla karşılaştığınızda bizlerden yardım isteyebilirsiniz.",
+   "Bu, sizlere verebileceğimiz en önemli ödül en önemli hedeftir.",
+   "Bu işte de başarılı olacağınızdan hiç kuşkumuz yoktur."
+  ],
+  "a": 3,
+  "e": "“Bu sizlere verebileceğimiz en önemli ödül, en önemli hedeftir.” cümlesinde verebileceğimiz sıfatı hem ödülü hem de hedefi niteliyor. “Verebileceğimiz ödül” denebilir; ama “verebileceğimiz hedef” denemez. Cümlenin doğru biçimi şöyle olmalıydı:“Bu sizlere verebileceğimiz en önemli ödül, gösterebileceğimiz en önemli hedeftir.”",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 41 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-44",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Makinenizi, arkadaki açma - kapama düğmesine basarak kapatmanız gerekmektedir.",
+   "Daha fazla bilgi edinmek için yetkili satıcınıza başvurabilirsiniz.",
+   "Bilgisayarınızın bozuk olup olmadığını öğrenebilmek için onu bir teknisyene göstermelisiniz.",
+   "Bu bölümde, bilgisayarınızı nasıl kuracağınız ve nasıl kullanacağınız açıklanmaktadır.",
+   "Bu kılavuzda sizi belli türdeki bilgilere uyarmak için bazı özel işaretler kullanılmıştır."
+  ],
+  "a": 4,
+  "e": "E seçeneğinde “bilgilerle” olması gereken sözcük yanlışlıkla “bilgilere” biçiminde kullanılmıştır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 44 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-46",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Bunun nedeni yaşamın artık insanları bencilleştirmesindendir. Bu cümlenin anlatım bozukluğu aşağıdakilerden hangisiyle giderilebilir?",
+  "o": [
+   "“Bunun nedeni” yerine “Bunun sebebi” getirilerek",
+   "“yaşamın” yerine “hayatın” getirilerek",
+   "“bunun” sözcüğü cümleden çıkarılarak",
+   "“artık” sözcüğü cümleden çıkarılarak",
+   "“bencilleştirmesindendir” yerine “bencilleştirmesidir” getirilerek"
+  ],
+  "a": 4,
+  "e": "“Bunun nedeni yaşamın artık insanları bencilleştirmesindendir.” cümlesindeki “bencilleştirilmesindendir.” sözcüğündeki “–den” ekiyle “neden” sözcüğü aynı anlamlı olduğu için “–den” ekinin atılması gerekir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 46 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-47",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Ozan, 1940 yıllarında yeni şiirimizin başta gelen adlarından biriydi.",
+   "O, 1946 yılında düzenlenen bir yarışmada birinci olmuştu.",
+   "Aradan yıllar geçmesine karşın şiir anlayışında bir değişiklik olmadı.",
+   "Onun ilgi çekici yanlarından biri de konuları abartarak anlatmasıdır.",
+   "Toplumsal ve bireysel olaylara, yan tutmadan bakar."
+  ],
+  "a": 0,
+  "e": "1940 yılı bir yıl olduğu için “1940 yıllarında” denmez. Ya 1940 yılında ya da 1940’lı yıllarda denmeliydi.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 47 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-48",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Birçok konularda aynı görüşü paylaşıyorduk.",
+   "Çocukların eğitimi önemsenmeli ve onlara yardımcı olunmalı.",
+   "Çalışmaktan elleri şişmişti.",
+   "Kitaplarını çok sever ve onlara gözü gibi bakardı.",
+   "Ona her zaman güvenmiş ve onu sevmiştim."
+  ],
+  "a": 0,
+  "e": "“Birçok konularda” tamlamasında “birçok” çokluk anlamı kattığı için bu sözcüğün tamamladığı ad çoğul eki (–ler) almamalı. Doğrusu “birçok konuda” olmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 48 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-49",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Yaşam şiirlerde bugün bir başka güzel.",
+   "Taşradan sonra İstanbul onda değişik düşler uyandıramıyordu.",
+   "Bu öyküyü, aşağı yukarı dört yıl önce okumuştum.",
+   "Orada her bitiş bir yolculuk sayılırdı.",
+   "Aramada kaçak doldurulan binlerce plak ve kasetlere el kondu."
+  ],
+  "a": 4,
+  "e": "“binlerce plak ve kasetlere” sözünde “ve” ile bağlanan sözcüklerden ikinciye gelen ekler birincinin de ekleri olduğundan söz şöyle olur: binlerce kasetlere ve plaklara” oysa binlerce sözcüğü çokluk anlamı kattığı için “kasetler ve plaklar” sözcükleri “–ler” ekini almamalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 49 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-50",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Uzun süre ayakta kalabilmesi için bu yapı, neme dayanıklı cam, kireç ve tuğla tozundan oluşan harçla yapılmıştır.",
+   "Bir kamu kuruluşuna ait sevimli konukevinin önünde fotoğraf çektirdikten sonra oradan ayrıldık.",
+   "Oraya gitmeye karar verirseniz, bu gezi için en az iki gün ayırmanız gerekir.",
+   "Her sabah erkenden kalkarak açık havada yürüyüş yapmanın kalp sağlığını olumlu yönde etkilediğini öğrendik.",
+   "Adaylar yirmi beş yaşından büyük olmalı ve sağlık kontrolünden geçmiş olması gerektiğini söyledi."
+  ],
+  "a": 4,
+  "e": "E seçeneğinde yüklemlerin uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır. “ve” bağlacından önceki bölüm “Adayların yirmi beş yaşından büyük olması” olmalıydı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 50 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-51",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdakilerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Sen, ben seni görmeden önce de, sonra da hep vardın.",
+   "Yaşanmış sandıklarımız bile bu kavgalarda hırpalandı.",
+   "Ben zaten hiçbir şey beceremedim, iç yangını anılar yaratmaktan başka.",
+   "Güneş, sokak başında bekliyordu beni.",
+   "Her anlatım, yaşamın değil, ölümün karikatür öykülemesi olacak."
+  ],
+  "a": 0,
+  "e": "“Ben seni görmeden önce vardın” denir; ama “görmeden sonra vardın” denemez. Cümlenin doğru biçimi şöyle olmalı: “Ben seni görmeden önce de vardın, gördükten sonra da olacaksın.”",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 51 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-52",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Adam bu seçimi kazanmadıktan sonra depresyona girer.",
+   "Beni eve bıraktıktan sonra okula gidersin.",
+   "Birkaç bale izledikten sonra diğer tiyatrolar bana renksiz göründü.",
+   "Sen gelmeden önce her şeyi hazırlarım.",
+   "O beni düşünmedikten sonra ben onu niçin düşüneyim?"
+  ],
+  "a": 0,
+  "e": "A seçeneğinde “kazanmadıktan sonra” bozukluğa neden olmuştur. Bu sözler yerine “kazanmazsa” ya da “kazanmayınca” getirilmeli.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 52 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-53",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu anlaşmazlıkların giderilmesi için zamana gerek var.",
+   "Bu konunun, öncelikle ve ayrıntılı bir biçimde ele alınması gerekiyor.",
+   "Üyeler, onunla ilgili görüşlerini daha sonra açıklayacaklarını belirttiler.",
+   "Mimar ya da mimarlıkla ilgileniyorsanız bu kitabı okuyun.",
+   "Herkesin yaşamında birtakım sorunlar olduğunu hepimiz biliriz."
+  ],
+  "a": 3,
+  "e": "Cümle “Mimarsanız ya da mimarlıkla ilgileniyorsanız” biçiminde olmalıdır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 53 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-54",
+  "t": "anlatim",
+  "s": "GEN",
+  "q": "Şirketlerimizle geziye gelenlerin ilerde ve geride kalmalarını önlemeye çalışıyoruz. Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "“ile” edatının anlamca yanlış kullanılması",
+   "Gereksiz bağlaç kullanılması",
+   "Sıfatın arkasındaki adın düşmesinin açıklığı bozması",
+   "Sözcüklerin anlamca uygun olmayan yüklemlere bağlanması",
+   "Kullanılan eylem ve eylemsilerin farklı çatı özellikleri taşıması"
+  ],
+  "a": 3,
+  "e": "Örnek cümlede “kalmalarını” sözcüğü “geride” sözcüğüne uygun düştüğü halde “ilerde” sözcüğüne uygun düşmüyor. “ilerde” sözcüğü yerine “ileri geçmelerini” getirilerek cümle değiştirilebilir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 54 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-55",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "(I) Cuma akşamları iş çıkışı daha rahat oluyorum. (II) Ertesi günün tatil oluşu yaratıyor bu rahatlığı. (III) O akşamı gönlümce geçirme özgürlüğüne sahip olduğumu düşünürüm. (IV) Evdekiler de benim duygularıma ortak olur çoğu kez. (V) Yüzlerde tatilin rahatlığı ve bir bayram havası kaplar ortalığı. Bu parçada numaralanmış cümlelerden hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "I.",
+   "II.",
+   "III.",
+   "IV.",
+   "V."
+  ],
+  "a": 4,
+  "e": "V. cümlede “yüzlerde tatilin rahatlığı” sözleri “kaplar” yüklemine bağlanamayacağı için bu sözlerin sonuna “olur” yüklemi getirilmelidir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 55 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-56",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "O kurumda eğitim görmüş herkes, saygılı, hoşgörülü ve esnek olmak gibi çok önemli erdemler kazanmışlardır. Bu cümledeki anlatım bozukluğu aşağıdakilerden hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Gereksiz yere sıfat kullanılmasından",
+   "Gereksiz yere bağlaç kullanılmasından",
+   "Yükleme ekfiil getirilmesinden",
+   "Öznenin sözcük öbeği olmasından",
+   "Özne-yüklem uyuşmazlığından"
+  ],
+  "a": 4,
+  "e": "Cümlenin özne ve yüklemini bulalım. “O kurumda eğitim görmüş herkes ...... kazanmışlardır. “ Özne Yüklem “herkes kazanmışlardır” denmez. Doğrusu, “herkes kazanmıştır.” olmalıydı. Belgisiz zamirlerin özne olduğu cümlelerde yüklem tekil olmalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 56 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-57",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdakilerden hangisinde özne-yüklem uygunluğu yönünden yanlış bir kullanım vardır?",
+  "o": [
+   "Birçoğu sınav bitmeden önce sınavdan çıktılar.",
+   "Artık mevsimler değişir oldu.",
+   "İnsanlar birbirlerine destek olmalıdır.",
+   "Üç kişi, birden ayağa kalktı.",
+   "Sen de yolculuğa çıkıyor musun?"
+  ],
+  "a": 0,
+  "e": "Herkes, tümü, birçoğu... sözcükleri özne olduğunda yüklem tekil olmalıdır. A seçeneğinde özne “birçoğu” olduğu için yüklem tekil (çıktı) olmalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 57 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-58",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "Çatılar, bacaların üzerindeki leylek yuvalarına varıncaya kadar bembeyazdılar. Bu cümledeki anlatım bozukluğu aşağıdaki değişikliklerden hangisiyle giderilir?",
+  "o": [
+   "“Çatılar” sözcüğündeki “-ler” eki atılarak",
+   "“varıncaya” sözcüğü yerine “gelinceye” sözcüğü getirilerek",
+   "“üzerindeki” sözcüğünden sonra “bulunan” sözcüğü getirilerek",
+   "“bembeyazdılar” sözcüğündeki “-ler” eki atılarak",
+   "“kadar” sözcüğü yerine “değin” sözcüğü getirilerek"
+  ],
+  "a": 3,
+  "e": "İnsan dışı varlıklar çoğul özne olduğunda yüklem tekil olur. Örnek cümlede özne “çatılar”, çoğul olduğuna göre yüklem tekil “bembeyazdı” olmalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 58 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-59",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "\"Her ne kadar şehir dışına taşınmışsa bile beklenen rahatlığa kavuşulamamıştır.\" Bu cümledeki anlatım bozukluğunu gidermek için aşağıdaki değişikliklerin hangisi yapılmalıdır?",
+  "o": [
+   "\"kavuşulamamıştır\" yerine \"ulaşılamamıştır\" sözcüğü getirilmelidir.",
+   "\"taşınmışsa\" yerine \" taşınsa\" sözcüğü getirilmelidir.",
+   "\"beklenen\" yerine \"beklediğimiz\" sözcüğü getirilmelidir.",
+   "\"taşınmışsa bile\" yerine \"taşınılmışsa da\" sözü getirilmelidir.",
+   "\"bile\" den sonra \"nasılsa\" sözcüğü getirilmelidir."
+  ],
+  "a": 3,
+  "e": "Bir cümlede birden çok eylem ve eylemsi varsa ya hepsi etken ya da hepsi edilgen olmalı. Bu cümlede “taşınmışsa” yüklemi etken, yani öznesi var; “beklenen ve kavuşulamamıştır” yüklemleri edilgen olduğu için cümle bozuktur. “Taşınmışsa” yüklemi edilgen (taşınılmışsa) yapıldığında cümledeki bozukluk giderilir.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 59 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-60",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu yoktur?",
+  "o": [
+   "Sahil yolunun kenarındaki iki katlı ev tamamlayıp satışa sunuldu.",
+   "Sahil yolunun kenarındaki iki katlı ev tamamlanıp satışa sundu.",
+   "Sahil yolunun kenarındaki iki katlı ev tamamlayarak satışa sunuldu.",
+   "Sahil yolunun kenarındaki iki katlı ev tamamlayıp da satışa sunuldu.",
+   "Sahil yolunun kenarındaki iki katlı ev tamamlanıp satışa sunuldu."
+  ],
+  "a": 4,
+  "e": "E seçeneğindeki yüklemlerin ikisi de edilgen olduğu için yanıt E’dir. Diğer seçeneklerde yüklemlerden biri etken biri edilgen olduğu için cümlelerde anlatım bozukluğu vardır.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 60 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "B2-61",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Olaylar birkaç saat içinde yatışırsa buradan ayrılabiliriz.",
+   "O beklediğimizden önce döndüğünden onu alanda karşılayamadık.",
+   "Sözlerime dikkat edilseydi bu hataları yapmazdınız.",
+   "Tuhaf davranılırsa adam bir gariplik olduğunu anlayacaktır.",
+   "Olaylara şimdi karışırsam olaylar bizim aleyhimize döner."
+  ],
+  "a": 2,
+  "e": "C seçeneğinde “edilseydi” yüklemi edilgen, “yapmazdınız” yüklemi etken olduğu için cümlede dil yanlışı var. Ya ilk yüklem “etseydiniz” olmalı ya da ikinci yüklem” yapılmazdı” olmalı.",
+  "src": "3. hafta ek cevaplı sorular (2).pdf – ÖRNEK 61 (kaynak çözümüyle)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "EX-01",
+  "t": "dil",
+  "s": "dil-kuram",
+  "q": "İnsanlar ortaklaşa ağır bir nesneyi kaldırırken ya da çekerken gücün aynı anda uygulanması, dolayısıyla işi gerçekleştirmenin kolaylaşması, aynı zamanda motivasyon için ritmik sesler çıkarırlar. Aynı anda kürek çeken insanların çıkardıkları sesler de böyledir. Bu tür seslerin zamanla konuşmaya dönüşmesinden dil doğmuştur. Yukarıdaki ifadeler dilin doğuşuna dair ortaya atılan hangi kuramın iddialarıdır?",
+  "o": [
+   "Yansıtma Kuramı",
+   "Ünlem Kuramı",
+   "İş Kuramı",
+   "Beden Dili Kuramı",
+   "Toplumsal Denetim Kuramı"
+  ],
+  "a": 2,
+  "e": "Ortak iş sırasında çıkarılan ritmik seslerden dilin doğduğunu savunan kuram İş Kuramı’dır (2. hafta).",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "EX-02",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Türkçe aşağıdaki dil ailelerinden hangisine mensuptur?",
+  "o": [
+   "Çin-Tibet",
+   "Hint-Avrupa",
+   "Hami-Sami",
+   "Bantu",
+   "Ural-Altay"
+  ],
+  "a": 4,
+  "e": "Türkçe, Ural-Altay dil ailesinin Altay kolunda yer alan sondan eklemeli bir dildir (2. hafta).",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "EX-03",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "İlk karşılaşmamızda bana bu kadar yakınlık göstermesine çok şaşırmıştım.",
+   "Bu kadar yetenekli bir çocuğu sanata yönlendirmekle çok iyi bir iş yaptın.",
+   "Geçirdiğim rahatsızlığı, büyük bir başarıyla ameliyat ederek sağlığıma kavuşturdu.",
+   "Bu aşamada, olayları doğal akışına bırakmanın doğru olacağı kanısındaydı.",
+   "Aralarındaki sorunların görüş farklılıklarından kaynaklandığını biliyordu."
+  ],
+  "a": 2,
+  "e": "Ameliyat edilen kişidir, rahatsızlık değil (“beni ameliyat ederek”).",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-04",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir sözcüğün anlam inceliğine dikkat edilmeden kullanılması anlatım bozukluğuna sebep olmuştur?",
+  "o": [
+   "İş yerimizin batmasına sen de büyük katkıda bulundun.",
+   "En ucuz ulaşım denizden yapılır.",
+   "Ekonomik krizler bu ülkeyi yedi bitirdi.",
+   "Sıcak ama rüzgârlı bir bahar gününü yaşıyoruz.",
+   "Eleştiri, duyguların işin içine girmemesi demektir."
+  ],
+  "a": 0,
+  "e": "“Katkı” olumlu bir sözdür; iş yerinin batması olumsuz olduğundan “katkıda bulunmak” yanlış anlamda kullanılmıştır.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-05",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Tam iki yıla yakın bir zaman karşılıklı mektuplaştık.",
+   "Siz tecrübeli bir insan olarak bu işe önayak olun.",
+   "Papatya falına göre kız seni seviyor mu?",
+   "Panjurlu ev yıllardır temizlenmemiş gibiydi.",
+   "Çok masraf ettiğiniz bu işletme ölü bir yatırımdır."
+  ],
+  "a": 0,
+  "e": "“Tam” kesinlik, “yakın” yaklaşıklık bildirir (çelişki); ayrıca “mektuplaşmak” zaten karşılıklıdır.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-06",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "İnternet bağımlılığı çocuklarımızın ders çalışmasına engel oluyor.",
+   "Çürük binalar bu yüzden dolayı depremde çabuk yıkılıyor.",
+   "Uzun bir yolculuğun ardından sahile ulaşmıştık.",
+   "Bir zamanlar, hiç durmadan çalışmaktan ve aileme zaman ayıramamaktan şikâyet ederdim.",
+   "Artık bu hayatın yükünü tek başıma sırtlamaya da alıştım."
+  ],
+  "a": 1,
+  "e": "“Bu yüzden” ile “dolayı” aynı anlamdadır; biri gereksiz.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-07",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Gülüşün, bakışların ve son sözlerin kaldı aklımda.",
+   "Sensiz yaşamanın ne kadar zor olduğunu bilemezsin ki.",
+   "Bu şiir bana çocukluğumu hatırlatıyor.",
+   "Arkadaşım yine geçmişte yaşadığı hatıralarını anlattı.",
+   "Artık geceleri korkmuyor, hemen uykuya dalıyorum."
+  ],
+  "a": 3,
+  "e": "Hatıra zaten geçmişe ait olduğundan “geçmişte” gereksizdir.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-08",
+  "t": "anlatim",
+  "s": "NK",
+  "q": "Aşağıdaki cümlelerin hangisinde virgülün kaldırılması anlam belirsizliğine yol açmaz?",
+  "o": [
+   "Bu genç, kadınla kısa bir tartışma yaşadı.",
+   "Deli, adamı aniden kolundan yakaladı.",
+   "Teyze, erkeklere güvenini kaybetmişti bir kere.",
+   "Çocuk, arabasını hiç beğenmedi.",
+   "Tahta, kapının önünde öylece duruyordu."
+  ],
+  "a": 2,
+  "e": "Diğerlerinde virgül kalkınca “genç kadın”, “deli adam”, “çocuk arabası”, “tahta kapı” anlamları çıkar; C’de belirsizlik oluşmaz.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-09",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Çağ dışı uygulamalara karşı mücadele ediyorlar.",
+   "Adam sarhoş olduktan sonra gülmeye başladı.",
+   "Sakın çamaşır suyunu giysilere sıçratma.",
+   "Bize gösterdiğiniz bu ilgi ve alakaya teşekkür ederiz.",
+   "Cümbür cemaat köy meydanında toplanmış."
+  ],
+  "a": 3,
+  "e": "“İlgi” ve “alaka” eş anlamlıdır; birlikte kullanılması gereksizdir.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 2",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-10",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde anlamca çelişen ifadelerin bir arada kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Belki onun da bizi bırakmasının bir sebebi vardır mutlaka.",
+   "Keçi sakallı bir adam kazıkazan kuponları satıyordu.",
+   "Savaş muhabiri olmak hayatı tehlikeleri göze almaktır.",
+   "Mehter takımı, kalabalığı bu sene de coşturdu.",
+   "Menopoz kadınların davranışlarını değiştirebilir."
+  ],
+  "a": 0,
+  "e": "“Belki” olasılık, “mutlaka” kesinlik bildirir; çelişirler.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-11",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde anlamca çelişen ifadelerin bir arada kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Denizlerdeki su seviyesi hangi aylarda değişiyor?",
+   "Bu hastalığı yenmek için metin olmalısınız.",
+   "Meteoroloji istasyonunda hava durumunu incelediler.",
+   "Çocuğun bize söyledikleri hiç şüphesiz doğru olmalıdır.",
+   "Bu araştırmada hangi metodu kullandınız?"
+  ],
+  "a": 3,
+  "e": "“Hiç şüphesiz” kesinlik, “olmalıdır” olasılık/gereklilik bildirir; çelişir.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-12",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Türk edebiyatında idolünüz hangi şairdir?",
+   "Olayın içyüzünü henüz tespit edemedik.",
+   "İstanbul’dan Hakkâri’ye otobüsle kaç saatte gidilir?",
+   "İrsî nedenler hastalık riskini artırıyor mu?",
+   "Bu maçın sonunda biz sevinecek, siz üzüleceksiniz."
+  ],
+  "a": 4,
+  "e": "Ortak yüklem “biz” için “sevineceğiz” olmalıdır; yüklemin şahıs eki uyumsuz.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-13",
+  "t": "anlatim",
+  "s": "MH",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "Öğretmene ödevi hemen teslim etmek istiyor.",
+   "Kremalı çorbanın içine ekmek doğradım.",
+   "Başarılı öğrencilerin yakasına kırmızı kurdele takarlardı.",
+   "Dişteki iltihaplanmalar tedavi edilmezse ölüme hatta hastalanmaya yol açabilir.",
+   "Bence kuru yemişçiden Antep fıstığı alalım."
+  ],
+  "a": 3,
+  "e": "Mantık sıralaması ters: önce hastalanma, sonra ölüm gelmeliydi (“hastalanmaya hatta ölüme”).",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-14",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+  "o": [
+   "İş bulmak için çok uğraştı ama hüsrana uğradı.",
+   "Bahçeli bir evimin olmasını çok isterdim.",
+   "Atölyede sabah akşam çalışıyor, kitap okumaya pek vakit bulamıyordu.",
+   "Her yolculuk insanı başka maceralara sürüklüyor.",
+   "Bu ödülü hiç ya da az çabalayan bir yarışmacı kazanamaz."
+  ],
+  "a": 2,
+  "e": "“Çalışıyor” (şimdiki zaman) ile “bulamıyordu” (hikâye) kipleri uyumsuzdur.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-15",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde altı çizili sözcüğün yazımı yanlıştır?",
+  "o": [
+   "Beni biraz anlamaya çalışsaydın keşke.",
+   "Kardeşin çalışmadığı taktirde parasız kalabilir.",
+   "Bir süre sonra evi de dükkânı da sattı.",
+   "Halk, ekmeğe gelen zamma tepki gösterdi.",
+   "Taraftarlar gruplara ayrılarak stadyuma gitti."
+  ],
+  "a": 1,
+  "e": "Doğrusu “takdirde”dir (Arapça kökenli sözcük).",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-16",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
+  "o": [
+   "Bu konuda elimden hiçbirşey gelmiyor.",
+   "Balkona astığım çamaşırlar henüz kurumamıştı.",
+   "Sana ne söyleyeceğimi merak etmiyor musun?",
+   "Benim de sana anlatacaklarım vardı.",
+   "Bu çeşmeden kana kana su içerdim."
+  ],
+  "a": 0,
+  "e": "“Şey” her zaman ayrı yazılır: “hiçbir şey”.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-17",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki mısraların hangisinde “da/de”nin yazımı (imlası) yanlıştır?",
+  "o": [
+   "Oturdum arkamı verdim de taşların birine,",
+   "Ne hâle koydu felek, git de bak, o simayı!",
+   "O olmasaydı da ben keşke hasta olsaydım.",
+   "Günaha girmedeyim, durmuşum da bak şimdi!",
+   "Kahraman ecdadınızdan siz de bir kan yok mudur?"
+  ],
+  "a": 4,
+  "e": "“Sizde” (bulunma hâli eki) bitişik yazılmalıdır; “siz de” bağlaç gibi ayrı yazılmış.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-18",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde altı çizili sözcüğün yazımı yanlıştır?",
+  "o": [
+   "Size ilginç bir hikâye anlatmak istiyorum.",
+   "İnsanlar elele verip bu köyü kalkındıracak.",
+   "İstanbul Boğazı’ndan kılavuz almadan geçmek yasaktır.",
+   "O giderken yanaklarına, ellerine kolonya sürdü.",
+   "Gece elektrik kesilince mumla aydınlandık."
+  ],
+  "a": 1,
+  "e": "“El ele” ikilemesi ayrı yazılır (ikilemeler ayrı yazılır).",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-19",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "“Gök bilimi ve coğrafya ile ilgili konuların anlatımında, dünya ile diğer gezegen adları, güneş ve ay kelimeleri büyük harfle yazılır.” Aşağıdaki cümlelerin hangisinde bu kurala uyulmamıştır?",
+  "o": [
+   "Bu sabah dünyayı dolaştım ama kiralık daire bulamadım.",
+   "Ay, Dünya’nın çevresini yirmi dört saatte dolaşır.",
+   "Bu ev hiç Güneş almıyor ve kışın buz gibi oluyor.",
+   "Benim için dünya bir yana, çocuklarım bir yana.",
+   "Yaptığımız bu deneyler Güneş tutulmasıyla ilgilidir."
+  ],
+  "a": 2,
+  "e": "“Güneş almak” güneş ışığı anlamındadır (gezegen/yıldız değil); küçük harfle yazılmalıdır.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "EX-20",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+  "o": [
+   "İsterseniz sahile nasıl ulaşacağınızı anlatayım.",
+   "Anladımki sen de beni terk edeceksin.",
+   "Seninki bugün de işe uğramadı.",
+   "Hâlâ aynı meseleleri tartışmaktan yorulmadınız mı?",
+   "Seni çok sevdiğimi bilmiyor muydun?"
+  ],
+  "a": 1,
+  "e": "Bağlaç olan “ki” ayrı yazılır: “anladım ki”.",
+  "src": "Ara sınav görseli (2022-23 Güz, Türk Dili I) – fotoğraf 1",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "D2-01",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "“Dil de insanlar gibi çağdaş kültüre ve uygarlığa uyum sağlayabilen bir özelliğe sahiptir. Örneğin bin yıl önce kullanılan bir kelimenin bugün kullanılmaması yahut anlamının değişmesi, dilin de kendisini yenilediğini gösterir.” Paragrafta dilin hangi özelliğine işaret ediliyor?",
+  "o": [
+   "Dil, millet olmanın temelidir.",
+   "Dil toplumsal bir varlıktır.",
+   "Dil, bir kültür taşıyıcısıdır.",
+   "Dil, sosyal bir kurumdur.",
+   "Dil, canlı bir varlıktır."
+  ],
+  "a": 4,
+  "e": "Kendini yenileme, değişme: dilin canlı bir varlık olması.",
+  "src": "2. hafta ek bilgiler.pptx (değerlendirme soruları)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "D2-02",
+  "t": "dil",
+  "s": "dil-dusunce",
+  "q": "Aşağıdakilerden hangisi kültür kavramıyla ilişkili değildir?",
+  "o": [
+   "Saç rengi",
+   "Mimari",
+   "Temizlik alışkanlıkları",
+   "Kıyafet",
+   "Güzel sanatlar"
+  ],
+  "a": 0,
+  "e": "Saç rengi biyolojik bir özelliktir; diğerleri bir toplumun maddî/manevî kültür değerleridir.",
+  "src": "2. hafta ek bilgiler.pptx (değerlendirme soruları)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "D2-03",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Dilin “canlı bir varlık” olma özelliğini aşağıdakilerden hangisi açıklamaktadır?",
+  "o": [
+   "Bir dildeki kelimeler tarihî dönemlerde ses ve anlam değişikliğine uğramıştır.",
+   "İnsanlar, evrendeki varlıkları ve hareketleri değişik şekillerde adlandırmışlardır.",
+   "Dil, insanlar arasında iletişim kurarak, insanı sosyal bir varlık hâline getirmiştir.",
+   "Dili meydana getiren parçalar, bir sistem içinde yan yana gelmiştir.",
+   "İnsanlar aynı varlık ve kavramları aynı şekilde adlandırmışlardır."
+  ],
+  "a": 0,
+  "e": "Zaman içinde değişim (ses ve anlam değişmesi) dilin canlılığını gösterir.",
+  "src": "2. hafta ek bilgiler.pptx (değerlendirme soruları)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "D2-04",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Dil edinimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "o": [
+   "Dil edinimi, çocukların anadillerini içselleştirdikleri bir süreçtir.",
+   "Çocuklara anadilleri öğretilemez.",
+   "Bütün çocuklar dil edinim sürecinden geçer.",
+   "Dil edinimi süreci, bilinçli olarak yürütülür.",
+   "Tüm çocuklar doğmuş oldukları dil ortamından bağımsız olarak aynı süreçten geçer."
+  ],
+  "a": 3,
+  "e": "Anadili edinimi bilinçdışı ve doğal bir süreçtir; bilinçli yürütülmez.",
+  "src": "2. hafta ek bilgiler.pptx (değerlendirme soruları)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "D2-05",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Şu an çözdüğünüz şeye “sınav” denmesinin herhangi bir sebebi yoktur. Bu sözcüğün okunuşu ya da yazılışı, barındırdığı anlamı çağrıştırmaz. Bu durumun sebebi aşağıdakilerden hangisidir?",
+  "o": [
+   "Yerine koyma",
+   "Karşıtsal ilişki",
+   "Türetme",
+   "Birleştirme",
+   "Nedensizlik"
+  ],
+  "a": 4,
+  "e": "Dilsel gösterge ile gösterilen arasındaki ilişki nedensizdir (kurala değil uzlaşmaya dayanır).",
+  "src": "2. hafta ek bilgiler.pptx (değerlendirme soruları)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "D2-06",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Doğuştan gelen ve bebeklerin anadillerini öğrenmelerini sağlayan aşağıdakilerden hangisidir?",
+  "o": [
+   "Dil Edinim Düzeneği",
+   "Betimleyici Dilbilgisi",
+   "Kuralcı Dilbilgisi",
+   "Açıklayıcı Yeterlilik",
+   "Gözlemsel Yeterlilik"
+  ],
+  "a": 0,
+  "e": "Doğuştan getirilen dil yetisini karşılayan kavram Dil Edinim Düzeneği’dir.",
+  "src": "2. hafta ek bilgiler.pptx (değerlendirme soruları)",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-01",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2000)",
+  "o": [
+   "Art arda yaşadığımız sıkıntılar, doğruyla yanlışı ayırtetmemizi sağladı.",
+   "Onu gördükten sonra kendi durumuna şükretti.",
+   "“O ana kadar sesimi çıkarmadım, sabrettim; ama daha fazla dayanamadım.” dedi.",
+   "Azmetti; karşılaştığı bütün engelleri yenerek amacına ulaştı.",
+   "Böylesine güzel bir günde bana hayatı zehretti."
+  ],
+  "a": 0,
+  "e": "“Ayırt etmek” ayrı yazılır (ayırt + et-).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 1",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-02",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2001)",
+  "o": [
+   "Nasıl oldu da beni hatırlayamadı bir türlü anlayamadım.",
+   "O kadar çok çalıştı ki havanın karardığını fark etmedi.",
+   "Bugün sinemaya gidelim, yarında size geliriz.",
+   "Yarınki toplantıya kimlerin katılacağı belli değil henüz.",
+   "Geçmişte yaşanan tatsızlıkların unutulmasını istiyordu artık."
+  ],
+  "a": 2,
+  "e": "Bağlaç olan “de” ayrı yazılır: “yarın da”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 2",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-03",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisindeki altı çizili sözcüğün yazımı yanlıştır? (Söz konusu sözcükler: antoloji, otobüsler, yönetmenlik, antrenör, zürafa) (2002)",
+  "o": [
+   "Son dönem şairleri bu antolojiye alınmamış.",
+   "Voleybolcular otobüslerine bindiler.",
+   "Kardeşi bu filmin yönetmenliğini üstlenmiş.",
+   "Antırenör bugünkü çalışmayı erken bitirdi.",
+   "Bu zürafa hayvanat bahçesine yeni gelmiş."
+  ],
+  "a": 3,
+  "e": "Doğrusu “antrenör”dür; çift ünsüzle başlayan/biten Batı kökenli sözcüklerde ünsüzler arasına ünlü konmaz.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 3",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-04",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2002)",
+  "o": [
+   "Arkadaşları, bu kadar sorumsuz davranmasının nedenini bir türlü öğrenemediler.",
+   "Kuşkonmaz, saksıda yetiştirilen, uzun saplı, ince ve küçük yapraklı bir süs bitkisidir.",
+   "Tartışmacı, öne sürdüğü savın doğruluğunu kanıtlıyamadı.",
+   "Panele, üniversite öğrencileriyle öğretim üyeleri katılmıştı.",
+   "Aile büyüklerinden öğrenilen el sanatları, yöre halkının geçim kaynağını oluşturuyor."
+  ],
+  "a": 2,
+  "e": "Fiil çekiminde ünlü, söyleyişe bakılmaksızın a/e ile yazılır: “kanıtlayamadı”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 4",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-05",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2003)",
+  "o": [
+   "Yapılan ölçümler, hava koşullarına bağlı olarak değişgenlik gösteriyormuş.",
+   "Yönetmelikte yapılan değişikliklerden çoğumuzun haberi yoktu.",
+   "Emekli olunca, bu dernekte gönüllü olarak çalışmaya başladı.",
+   "Çocuğu, bu okula kaydettirmek için çok uğraşmıştı.",
+   "Geçmişe baktığımızda buna benzer pek çok durumla karşılaşıyoruz."
+  ],
+  "a": 0,
+  "e": "Doğrusu “değişkenlik”tir.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 5",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-06",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2004)",
+  "o": [
+   "Bize hep: “İyi bir kitap okuru olmakla övününüz.” derdi.",
+   "“Bugünlerde işlerimiz iyi.” diyerek ellerini ovuşturdu.",
+   "“O zamanlar buğdaylarımız bu değirmende övütülürdü.” diye söze başladı.",
+   "Öğrencilerine her zaman dürüst olmayı öğütlerdi.",
+   "Doktor, anneme: “Günde üç öğün yemek yiyin.” dedi."
+  ],
+  "a": 2,
+  "e": "Buğday “öğütülür”; “övütülür” yanlıştır.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 6",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-07",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2004)",
+  "o": [
+   "Baş başa vermiş, çocukların sorunlarından söz ediyorlardı.",
+   "İnsanımızın belirleyici özelliklerinden biri de konuk severliğidir.",
+   "Romandaki kişilerin, tipik İç Anadolu insanının özelliklerini taşıdığını söyledi.",
+   "Doğu felsefesiyle ilgili hemen her kitabı okurdu.",
+   "Televizyondaki kültür ve sanat programlarını sürekli izlerdi."
+  ],
+  "a": 1,
+  "e": "Doğrusu “konukseverliği” (bitişik).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 7",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-08",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2005)",
+  "o": [
+   "Bu kitap, ilk basımının üzerinden yirmi yıl geçtikten sonra, yeniden yayımlandı.",
+   "Çiçekcinin yeni açtığı dükkân çok iyi çalışıyor.",
+   "Bir yapıtın kalıcılığını sağlayan birçok etken vardır.",
+   "Bu romanda yüzyılımızın temel sorunları yansıtılıyor.",
+   "Başarılı olmak için düzenli ve sürekli çalışmak gerekir."
+  ],
+  "a": 1,
+  "e": "Doğrusu “çiçekçinin”: yapım eki -çi, sert ünsüzden sonra “ç” ile yazılır (çiçek+çi).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 8",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-09",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2005)",
+  "o": [
+   "Bu konudaki kararımı size bildirmeyeceğim.",
+   "Konuşmasında bu konuya da değinecek.",
+   "Bebeği bütün gün kardeşi oyalıyacak.",
+   "Onun bu işi başaracağını söyleyebilirim.",
+   "Onu kime verdiğimi anımsayamıyorum."
+  ],
+  "a": 2,
+  "e": "Doğrusu “oyalayacak”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 9",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-10",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“Altı yıl önce aramızdan (I) ayrılan değerli sanatçımız, İstanbul’da açılan bir sergiyle anılıyor. Sanat yaşamı boyunca yapıtlarında çağdaş sanat akımlarını (II) göz ardı etmeyen, bunun (III) yanı sıra geleneklerimizi ve (IV) Anadolu Estetiğini de yüzeye çıkarmayı başaran sanatçının yapıtları (V) 7 Şubat 2006 tarihine kadar izlenebilir.” Parçadaki numaralanmış ve altı çizili sözlerden hangisinin yazımı yanlıştır? (2006)",
+  "o": [
+   "I. ayrılan",
+   "II. göz ardı",
+   "III. yanı sıra",
+   "IV. Anadolu Estetiğini",
+   "V. 7 Şubat 2006"
+  ],
+  "a": 3,
+  "e": "“Anadolu estetiğini” olmalı; yer adıyla kurulan tamlamada yalnızca özel ad büyük yazılır.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 10",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-11",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“Yayınevimiz (I) 2003’de kuruldu. Tüm olumsuzluklara karşın (II) şiirde bugün bir hareketlilik yaşanıyor. İyi şiir (III) yazılıyor mu? … Bu, büyük (IV) yayınevlerinde de (V) aşağı yukarı böyle.” Numaralı sözlerden hangisinin yazımı yanlıştır? (2007)",
+  "o": [
+   "I. 2003’de",
+   "II. şiirde",
+   "III. yazılıyor mu",
+   "IV. yayınevlerinde de",
+   "V. aşağı yukarı"
+  ],
+  "a": 0,
+  "e": "Sayıya gelen ek okunuşa uyar ve sert ünsüzle biten “üç”ten sonra “-te” gelir: 2003’te.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 11",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-13",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır? (2009)",
+  "o": [
+   "Bu binanın planını Avusturyalı bir mimarla birlikte çizmişler.",
+   "Müzenin bugünkü durumuyla ilgili bilgileri bir önceki sayımızda yayımlamıştık.",
+   "O gezide yıllardır görmediğim bir arkadaşıma rastladım.",
+   "Buraya yeni bir yaya geçiti yapılacak.",
+   "Şenlikler bu yıl mayıs ayında başlayacak."
+  ],
+  "a": 3,
+  "e": "Doğrusu “geçidi” (iki ünlü arasında yumuşama).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 13",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-14",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“1969 yılında (I) Güzel Sanatlar Akademisini bitirdim. Resim yapmaya (II) karikatürist olarak başladım; çizdiklerimi 10 liraya satardım (III) Dolmuş, Tef, Pardon gibi dergilere. İlk sergimi 1959 yılında (IV) Taksim meydanında açtım ve yalnızca üç tablo satarak yer kirasını ancak (V) ödeyebildim.” Hangi altı çizili sözün yazımı yanlıştır? (2010)",
+  "o": [
+   "I. Güzel Sanatlar Akademisini",
+   "II. karikatürist",
+   "III. Dolmuş, Tef, Pardon",
+   "IV. Taksim meydanında",
+   "V. ödeyebildim"
+  ],
+  "a": 3,
+  "e": "Meydan adlarında “meydan” sözü büyük harfle başlar: “Taksim Meydanı’nda”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 14",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-15",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“(I) 1920’li yıllardı. Bizim evde dedem (II) utunu yanından hiç eksik etmezdi. Gramofondan (III) klasik Türk müziği dinlerdik. (IV) İstanbul Şehir Tiyatrolarında Muhsin Ertuğrul’un sahneye koyduğu oyunları kaçırmazdık. Ayrıca (V) öğretmenlerimiz de bizi kitap okumaya yönlendirirdi.” Hangisinde yazım yanlışı vardır? (2010)",
+  "o": [
+   "I. 1920’li",
+   "II. utunu",
+   "III. klasik Türk müziği",
+   "IV. İstanbul Şehir Tiyatrolarında",
+   "V. öğretmenlerimiz de"
+  ],
+  "a": 1,
+  "e": "Doğrusu “udunu” (ud sözcüğü, yumuşama).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 15",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-16",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“… (I) fotoğraflamak mı istiyorsunuz? O zaman Balat vazgeçilmez mekânınızdır. Hele (II) akşamüstü eski semtin dar sokaklarına öyle bir ışık (III) düşerki hayran kalırsınız. Son yıllarda yapılan (IV) restorasyon çalışmalarıyla güzelleşen (V) Balat Kültür Evini de görmeden edemezsiniz.” Hangisinde yazım yanlışı vardır? (2011)",
+  "o": [
+   "I. fotoğraflamak mı",
+   "II. akşamüstü",
+   "III. düşerki",
+   "IV. restorasyon",
+   "V. Balat Kültür Evini"
+  ],
+  "a": 2,
+  "e": "Bağlaç olan “ki” ayrı yazılır: “düşer ki”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 16",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-21",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“Sonsuzluk hissi uyandıran geniş (I) bozkırları, (II) keşfedilmeyi bekleyen vadileri, … Anadolu’nun önemli duraklarından biri olan (III) Çorum ili, bulunduğu yörenin en büyük (IV) sanayi merkezi olma (V) ünvanını da taşıyor.” Hangisinin yazımı yanlıştır? (2014)",
+  "o": [
+   "I. bozkırları",
+   "II. keşfedilmeyi",
+   "III. Çorum ili",
+   "IV. sanayi",
+   "V. ünvanını"
+  ],
+  "a": 4,
+  "e": "Doğrusu “unvanını”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 21",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-25",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımıyla ilgili bir yanlışlık yapılmıştır? (2017)",
+  "o": [
+   "Osmanlı Devleti’nde Batılılaşma hamlesi Tanzimat Fermanı ile başlamıştır.",
+   "Hicaz, Türk müziğinde en sevdiğim makamlardan biridir.",
+   "Çocukken gittiğim Uzungöl Beldesi, unutamadığım yerlerdendir.",
+   "Reşat Nuri’nin Gamsız’ın Ölümü adlı öyküsü, Bakanlığın ders kitaplarına girdi.",
+   "Homeros’un eşsiz eserlerinde Eski Yunan tanrıları ana kahramanlardır."
+  ],
+  "a": 2,
+  "e": "Özel ada dâhil olmayan “belde/il/ilçe/köy” sözleri küçük yazılır: “Uzungöl beldesi”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 25",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-26",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“Yazma sadece (I) Orta Doğu’nun Mısır ve Mezopotamya gibi (II) oldukça büyük uygarlıklarına özgü bir eylem (III) olagelmişken Homeros denen dev … bize daha önce (IV) hiç kimsenin kapılarını aralamadığı (V) sıradışı insanlık serüvenleri anlattı.” Hangisinin yazımı yanlıştır? (2017)",
+  "o": [
+   "I. Orta Doğu’nun",
+   "II. oldukça",
+   "III. olagelmişken",
+   "IV. hiç kimsenin",
+   "V. sıradışı"
+  ],
+  "a": 4,
+  "e": "“Sıra dışı” ayrı yazılır.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 26",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-27",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Bu parçada numaralanmış cümlelerin hangisinde “de” bağlacının yazımıyla ilgili bir yanlışlık yapılmıştır? (I) Kişiye odaklı söyleşilerde amaç … gündeme getirmektir. (II) Bu tür söyleşilerin öznesi … ünlü şahsiyetler olabilir. (III) Örneğin sporcular, sanatçılar ve politikacılar bu söyleşilerde sıklıkla yer alır. (IV) Kimi zamanda tanınmamış ancak yaşamı ve yaptıklarıyla dikkatleri çekmiş kişiler seçilir. (V) Sorular aracılığıyla … okura aktarılmak istenir. (2018)",
+  "o": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "a": 3,
+  "e": "Bağlaç olan “de” ayrı yazılır: “kimi zaman da”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 27",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-28",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "“Birleşik sözcüğü oluşturan sözcüklerden biri veya her ikisi birleşme sırasında anlam değişmesine uğramışsa sözcük bitişik yazılır.” Aşağıdaki cümlelerin hangisinde bu kurala uyulmadığı için yazım yanlışı yapılmıştır? (2018)",
+  "o": [
+   "Adını şarkılarda duyduğumuz yalıçapkını, adalarda yaşayan bir kuş türüdür.",
+   "Yemekten sonra tatlı olarak birer porsiyon bülbülyuvası siparişi verdik.",
+   "Doğum günüm için annem bana camgöbeği renginde bir kazak örmüş.",
+   "Pek çok kişinin sandığının aksine denizyılanı nehirlerde de yaşayabilir.",
+   "Yazar bu öyküsünde semt pazarlarındaki ayaküstü sohbetlere önemli bir yer ayırmış."
+  ],
+  "a": 3,
+  "e": "Hayvan türü olarak anlam değişmesi yoktur: “deniz yılanı” ayrı yazılır.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 28",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-29",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerde yer alan birleşik fiillerden hangisinin yazımı yanlıştır? (2019)",
+  "o": [
+   "Bunca yıllık tanışıklığımıza rağmen benden şüphelendiğiniz için teessüf ederim.",
+   "Durumu üst makama arzederiz, verilecek cevaba göre de ne yapacağımızı kararlaştırırız.",
+   "Bu saatten sonra gelse de gelmese de hiç fark etmez; her şey için çok geç artık.",
+   "Antalya’da etkili olan yağış, seraları bir anda su altında bıraktı ve bütün mahsulü mahvetti.",
+   "O her istediğini yapacak, istediği gibi at koşturacak; biz de öylece oturup seyir mi edeceğiz?"
+  ],
+  "a": 1,
+  "e": "“Arz etmek” ayrı yazılır (arz ederiz).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 29",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-30",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde ifadenin okunuşuna uygun bir ek getirilmemesinden kaynaklanan yazım yanlışı vardır? (2019)",
+  "o": [
+   "Doktora araştırmasını TÜBİTAK’ın bursuyla yürütmüştü.",
+   "Saat 16.30’da başlayan maç TRT’den naklen yayınlanıyordu.",
+   "Öğrenciliği zamanında Zonguldak’ın Ereğli ilçesindeki KYK’da kalmıştı.",
+   "Kulüplerin 5. olağan toplantısı TFF’nin tesislerinde gerçekleştirildi.",
+   "Bir yaz günü saat 19.00’da TBMM’nin önünde buluşup yola çıkmışlardı."
+  ],
+  "a": 2,
+  "e": "Büyük harfli kısaltmada ek, son harfin okunuşuna uyar; KYK “ka-ye-ke” okunur → “KYK’de”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 30",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-31",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımı ile ilgili yanlışlık yapılmıştır? (2020)",
+  "o": [
+   "Bu konuyla ilgili kanun, Resmî Gazete’de yayımlanarak yürürlüğe girdi.",
+   "Leyla İle Mecnun, Türk edebiyatında en çok işlenen anlatılardandır.",
+   "Bahar mevsiminde bu tepeden Çanakkale Boğazı’nın seyrine doyum olmaz.",
+   "Kültigin Anıtı, uçsuz bucaksız Orhun Vadisi’nin orta yerinde ziyaretçilerini bekler.",
+   "XII. Uluslararası Dünya Dili Türkçe Sempozyumu bu yıl Ankara’da yapılacak."
+  ],
+  "a": 1,
+  "e": "Eser adlarında “ile” küçük yazılır: “Leyla ile Mecnun”.",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 31",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "KH-32",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün yazımı yanlıştır? (2020)",
+  "o": [
+   "Bu araştırmada bizi şaşırtan bulgu, çevreciliğin barışsever akımlarla çatışmasıdır.",
+   "O kadar merhametlidir ki yakın arkadaşları arasında karıncaincitmez olarak anılır.",
+   "Başkentin ortasındaki gökdelenler, etrafındaki binaları yutacakmış gibi duruyordu.",
+   "İnsanlar, çokbilmiş olarak tanınan kişilerle arkadaşlık kurmaktan uzak dururlar.",
+   "Orada yaşamamış, o insanlarla hiç bağ kurmamış gibi ne değerbilir ne yol yordam."
+  ],
+  "a": 4,
+  "e": "“Değer bilir” burada fiil öbeği olarak kullanıldığından ayrı yazılır (kaynak anahtarı E).",
+  "src": "6. hafta ek Yazım Yanlışları Çıkmış Sorular Klasikhoca.com.pdf – soru 32",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P6-01",
+  "t": "yazim",
+  "s": "DUZ",
+  "q": "Düzeltme işareti (^) ile ilgili verilen aşağıdaki bilgilerden hangisi yanlıştır?",
+  "o": [
+   "Arapça ve Farsçadan giren kelimelerle özel adlarda bulunan ince “g, k” ünsüzlerinden sonra gelen “a ve u” ünlüleri üzerine konur.",
+   "Yazılışları aynı ancak anlamları ve söylenişleri farklı kelimeleri ayırt etmek için kullanılır.",
+   "Okunuşları uzun ünlülerin üzerine konma kuralı terk edilmiştir.",
+   "Kişi ve yer adlarında ince “l” ünsüzünden sonra gelen “a ve u” ünlüleri de düzeltme işaretiyle yazılır.",
+   "Nispet ekinin, belirtme durumu ve iyelik ekiyle karışmasını önlemek için kullanılır."
+  ],
+  "a": 2,
+  "e": "Düzeltme işareti, yazılışı aynı, anlamı/söylenişi ayrı sözcüklerin ayırt edilmesi için uzun okunan ünlülerin üzerine konur (hâlâ/hala); bu kural terk edilmemiştir (6. hafta).",
+  "src": "6. hafta ek Yeni Microsoft PowerPoint Sunusu.pptx – slayt 1",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P6-02",
+  "t": "yazim",
+  "s": "DUZ",
+  "q": "Aşağıdakilerin hangisinde düzeltme işareti (^) yanlış kullanılmıştır?",
+  "o": [
+   "Mekân en geniş anlamıyla uzayın sınırlandırılmış parçasıdır.",
+   "Ayak, âşık edebiyatında kafiye anlamında kullanılır.",
+   "Kâğıt ilk üretildiğinde nispeten pürüzlü bir yüzeye sahiptir.",
+   "Hırsızın eşkâli güvenlik kameraları sayesinde belirlendi.",
+   "Emniyetteki ifâdesini mahkemede tekrar etmiş."
+  ],
+  "a": 4,
+  "e": "“İfade” gibi uzun ünlülü Arapça sözcüklerde uzun ünlü yazıda işaretle gösterilmez; “ifâde” yanlıştır.",
+  "src": "6. hafta ek Yeni Microsoft PowerPoint Sunusu.pptx – slayt 2",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P6-03",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Birkaç örnekte “ki” bağlacı kalıplaştığı için bitişik yazılır: belki, çünkü, sanki, ………. Boş bırakılan yere aşağıdakilerden hangisi getirilemez?",
+  "o": [
+   "mademki",
+   "böyleki",
+   "halbuki",
+   "meğerki",
+   "oysaki"
+  ],
+  "a": 1,
+  "e": "Kalıplaşmış bitişik “ki”liler: belki, çünkü, sanki, mademki, meğerki, halbuki, oysaki. “Böyle ki” ayrı yazılır.",
+  "src": "6. hafta ek Yeni Microsoft PowerPoint Sunusu.pptx – slayt 5",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P6-04",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerden hangisinde “de”nin yazımıyla ilgili bir yazım yanlışı vardır?",
+  "o": [
+   "Başarılı olmak için de çok çalışmak gerekir.",
+   "Ayşe gitti, Ahmet de gidecek.",
+   "Dün İstanbul’daydı. Yarında Sivas’ta olacak.",
+   "Saat 15.15’te gelmezsen biz de gelmeyiz."
+  ],
+  "a": 2,
+  "e": "Bağlaç olan “de” ayrı yazılır: “Yarın da”.",
+  "src": "6. hafta ek Yeni Microsoft PowerPoint Sunusu.pptx – slayt 7",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P6-05",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdaki cümlelerin hangisinde “de, da” bağlacı yanlış yazılmıştır?",
+  "o": [
+   "Silgiyi de kalemi de okulda bırakmış.",
+   "Sen de gitseydin iyi olurdu.",
+   "Ahmet’te gelse iyi olacak.",
+   "Ayşe’nin de yanında para yoktu."
+  ],
+  "a": 2,
+  "e": "Bağlaç olan “de” ayrı yazılır, kesmeyle bitişik yazılmaz ve “-te” olmaz: “Ahmet de”.",
+  "src": "6. hafta ek Yeni Microsoft PowerPoint Sunusu.pptx – slayt 7",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "OR-DI-01",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Aşağıdakilerden hangisi insan dilini hayvan dilinden ayıran özelliklerden biri değildir?",
+  "o": [
+   "Sınırlı sayıda ses birimiyle sonsuz sayıda yeni sözcük üretilebilmesi",
+   "Aynı anlamın farklı dilbilgisel biçimlerde anlatılabilmesi",
+   "Dilin üst işlevler için de kullanılabilmesi (yaratıcılık)",
+   "Dilin tamamen içgüdüsel olması",
+   "İçine doğulan dilin sonradan öğrenilmesi"
+  ],
+  "a": 3,
+  "e": "Hayvan dili içgüdüseldir; insan dili ise içgüdüsel değildir, sonradan öğrenilir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-02",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "“Kedi kuşu gördü.” cümlesinin “Kuş kedi tarafından görüldü.” biçiminde de söylenebilmesi insan diline özgü hangi özelliği gösterir?",
+  "o": [
+   "Aynı anlamın farklı dilbilgisel biçimlerde anlatılabilmesini",
+   "Dilin içgüdüsel olduğunu",
+   "Dilin yazıya dökülemeyeceğini",
+   "Sözcüklerin sınırlı olduğunu",
+   "Dilin toplumdan bağımsız olduğunu"
+  ],
+  "a": 0,
+  "e": "İnsan dilinin ayırt edici özelliklerinden biri belirli bir anlamın farklı dilbilgisel biçimlerde anlatılabilmesidir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-03",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "“Dil yetisi” ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "o": [
+   "Belli bir dilin (örneğin Türkçenin) dilbilgisine doğuştan sahip olmaktır.",
+   "Yalnızca yazılı dili öğrenme yeteneğidir.",
+   "Dünyadaki herhangi bir dili öğrenebilecek bir yatkınlığa sahip olmaktır.",
+   "Hayvanlarda da insandakiyle aynı biçimde bulunur.",
+   "Sonradan okulda kazanılan bir beceridir."
+  ],
+  "a": 2,
+  "e": "Dil yetisi, belli bir dilin dilbilgisine değil, herhangi bir dili öğrenebilme yatkınlığına doğuştan sahip olmaktır.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-04",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Saussure’ün dil–satranç benzetmesine göre aşağıdakilerden hangisi dil sisteminin değişmesi anlamına gelir?",
+  "o": [
+   "Taşların ahşap yerine plastikten yapılması",
+   "Satranç tahtasının renginin değişmesi",
+   "Taşların sayısında değişiklik yapılması",
+   "Taşların farklı bir masada oynanması",
+   "Oyunun başka bir kişiyle oynanması"
+  ],
+  "a": 2,
+  "e": "Taşların malzemesi/tahtanın rengi sistemi değiştirmez; taşların sayısı değişirse sistem değişir. Farklı diller farklı malzemeli taşlar gibi, hepsi ortak bir dil sistemine bağlıdır.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-05",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Aşağıdakilerden hangisi dilin “tarihselliğine” örnektir?",
+  "o": [
+   "Bütün dillerde ortak özelliklerin bulunması",
+   "Aynı dilin 13. yüzyıldaki ve 20. yüzyıldaki biçimlerinin dilbilgisi ve sözcük dağarcığı bakımından farklı olması",
+   "İnsan beyninde dille ilgili merkezlerin bulunması",
+   "Hayvanların da iletişim kurması",
+   "Her bebeğin doğduğu dili öğrenmesi"
+  ],
+  "a": 1,
+  "e": "Diller tarih içinde değişir (Eski Türkçe, Orta Türkçe, Yeni Türkçe, Osmanlı Türkçesi). Ortak özellikler ise dilin evrenselliğidir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-06",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Aşağıdakilerden hangisi dilin genel özellikleri arasında yer almaz?",
+  "o": [
+   "Canlı bir varlık gibi değişim gösterir.",
+   "Sosyal bir kurumdur.",
+   "Bir gizli anlaşmalar sistemidir.",
+   "Dile zorla müdahale edilerek istenen yönde değiştirilebilir.",
+   "Düşünce ve kültürle etkileşim içindedir."
+  ],
+  "a": 3,
+  "e": "Dilde değişim doğal süreç içinde gerçekleşir; dile zorla müdahale yapılamaz.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-07",
+  "t": "dil",
+  "s": "dil-dusunce",
+  "q": "“Dil düşüncenin evidir.” sözü kime aittir?",
+  "o": [
+   "Chomsky",
+   "Leibniz",
+   "Heidegger",
+   "Wittgenstein",
+   "Saussure"
+  ],
+  "a": 2,
+  "e": "Heidegger: “Dil düşüncenin evidir.” Leibniz: “Dil düşüncenin aynasıdır.” Wittgenstein: “Dilimin sınırları dünyamın sınırlarıdır.”",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-08",
+  "t": "dil",
+  "s": "dil-dusunce",
+  "q": "“Dilimin sınırları dünyamın sınırlarıdır.” sözü kime aittir?",
+  "o": [
+   "Wittgenstein",
+   "Heidegger",
+   "Leibniz",
+   "Saussure",
+   "Konfüçyüs"
+  ],
+  "a": 0,
+  "e": "Dil felsefecisi Wittgenstein’a aittir (1. hafta).",
+  "src": "Özgün soru – 1. hafta ders slaytları (1-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-09",
+  "t": "dil",
+  "s": "dil-dusunce",
+  "q": "Derste dil ile düşünce arasındaki ilişki için hangi benzetme kullanılmıştır?",
+  "o": [
+   "Bir paranın iki yüzü gibi / bir kâğıdın iki yüzü gibi, ayrılamaz",
+   "Bir ağacın kökü ve yaprağı gibi, birbirinden bağımsız",
+   "Bir ev ve bahçe gibi, ayrı",
+   "Bir kitap ve kapağı gibi, tamamen bağımsız",
+   "Bir satranç tahtası gibi, değişmez"
+  ],
+  "a": 0,
+  "e": "Dil ve düşünce bir kâğıdın iki yüzü gibidir; yüzler farklı olsa da ayrılamaz.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-10",
+  "t": "dil",
+  "s": "dil-dusunce",
+  "q": "Günümüzde dil–düşünce ilişkisi konusunda ağırlıklı olarak benimsenen görüş aşağıdakilerden hangisidir?",
+  "o": [
+   "Dil ile düşünce tamamen birbirinden bağımsızdır.",
+   "Dil, düşünceyi aktarmaya yarayan basit bir araçtır.",
+   "Dil ile düşünceyi bütünüyle birbirinden ayırmak olanaksızdır.",
+   "Düşünce yalnızca görüntülerle gerçekleşir.",
+   "Düşünce dilden önce gelir ve dili etkilemez."
+  ],
+  "a": 2,
+  "e": "Dil ile düşünce sıkı bir ilişki içindedir; soyut kavramlar (sevgi, adalet) dil olmadan düşünülemez.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-11",
+  "t": "dil",
+  "s": "dil-dusunce",
+  "q": "Aşağıdakilerden hangisi “kültür” kavramının manevî değerlerine örnektir?",
+  "o": [
+   "Kullanılan alet ve eşyalar",
+   "Giyim kuşam",
+   "Yaşanılan mekânlar",
+   "Dil, din, gelenek ve görenekler",
+   "Yeme içme biçimi"
+  ],
+  "a": 3,
+  "e": "Maddî değerler: mekân, alet-eşya, yeme-içme, giyim. Manevî değerler: dil, din, gelenek, görenek, örf ve âdet (2. hafta ek).",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-12",
+  "t": "dil",
+  "s": "dil-kuram",
+  "q": "“İnsanın doğadaki sesleri taklit ederek konuşmaya başladığını” ileri süren, fısıldamak, havlamak, şırıldamak gibi yansıma sözcükleri örnek gösteren kuram hangisidir?",
+  "o": [
+   "Yansıtma kuramı",
+   "Ünlem kuramı",
+   "İş kuramı",
+   "Beden dili kuramı",
+   "Toplumsal denetim kuramı"
+  ],
+  "a": 0,
+  "e": "Yansıtma kuramı; eleştirisi: yansıma sözcüklerin az olması, diğer öğelerin nasıl ortaya çıktığını açıklamaz.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-13",
+  "t": "dil",
+  "s": "dil-kuram",
+  "q": "Sevinç, korku, acı gibi ruhsal ve bedensel tepkilerle çıkarılan seslerin gelişerek sözcüklere dönüştüğünü savunan kuram hangisidir?",
+  "o": [
+   "Yansıtma kuramı",
+   "Ünlem kuramı",
+   "İş kuramı",
+   "Beden dili kuramı",
+   "Toplumsal denetim kuramı"
+  ],
+  "a": 1,
+  "e": "Ünlem kuramı.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-14",
+  "t": "dil",
+  "s": "dil-kuram",
+  "q": "Konuşmanın, insanın başka kişileri denetim altına alarak kişisel gereksinimlerini karşılama isteği sonucunda doğduğunu ileri süren kuram hangisidir?",
+  "o": [
+   "İş kuramı",
+   "Yansıtma kuramı",
+   "Ünlem kuramı",
+   "Toplumsal denetim kuramı",
+   "Beden dili kuramı"
+  ],
+  "a": 3,
+  "e": "Toplumsal denetim kuramı.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-15",
+  "t": "dil",
+  "s": "dil-kuram",
+  "q": "Eski insanların anlaşmak için el-kol hareketleri, mimik ve jestleri kullandığını, bunlara seslerin eşlik etmesiyle konuşmanın doğduğunu savunan kuram hangisidir?",
+  "o": [
+   "Beden dili kuramı",
+   "İş kuramı",
+   "Yansıtma kuramı",
+   "Ünlem kuramı",
+   "Tekköken kuramı"
+  ],
+  "a": 0,
+  "e": "Beden dili kuramı.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-16",
+  "t": "dil",
+  "s": "dil-kuram",
+  "q": "Aşağıdakilerden hangisi yansıtma ve ünlem kuramlarına yöneltilen ortak eleştiridir?",
+  "o": [
+   "Dilde bu tür öğelerin sayısının az olması, diğer öğelerin ortaya çıkışını açıklamaması",
+   "Dilin yazıyla başlamış olması",
+   "Konuşmanın bireyden doğmamış olması",
+   "Dilin sonradan icat edilmesi",
+   "Dilin yalnızca işaretlerden oluşması"
+  ],
+  "a": 0,
+  "e": "Yansıma ve ünlem sözcükleri dilde azdır; bu kuramlar diğer öğeleri açıklayamaz.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-17",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Aşağıdakilerden hangisi biçim (yapı) açısından “bağlantılı (eklemeli)” bir dildir?",
+  "o": [
+   "Çince",
+   "Arapça",
+   "Türkçe",
+   "Tibetçe",
+   "Vietnamca"
+  ],
+  "a": 2,
+  "e": "Türkçe, Moğolca, Fince, Macarca bağlantılı dillerdendir. Çince yalınlayan, Arapça bükümlü dildir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-18",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Sözcüklerin ek almadan, cümledeki yerlerine ve yan yana gelişlerine göre anlam kazandığı dillere ne ad verilir?",
+  "o": [
+   "Bükümlü diller",
+   "Bağlantılı diller",
+   "Yalınlayan diller",
+   "Sondan eklemeli diller",
+   "Yapay diller"
+  ],
+  "a": 2,
+  "e": "Yalınlayan dillerin en tipik örneği Çincedir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-19",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Kök içindeki ünlülerin değişmesiyle yeni sözcükler türetilen (kitap, katip, kütüphane, mektep gibi) dillere ne denir?",
+  "o": [
+   "Yalınlayan diller",
+   "Bağlantılı diller",
+   "Bükümlü diller",
+   "Yapay diller",
+   "Özel diller"
+  ],
+  "a": 2,
+  "e": "Bükümlü dillere Arapça ve Sami dilleri örnektir; Hint-Avrupa dilleri de bükümlüdür.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-20",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Aşağıdakilerden hangisi dil akrabalığı konusunda doğrudur?",
+  "o": [
+   "Aynı dil ailesindeki topluluklar mutlaka aynı ırktandır.",
+   "Dil akrabalığı ırk akrabalığıyla aynı şeydir.",
+   "Dil akrabalığı, ses sistemi, biçim, yapı ve sözdizimi bakımından yakınlıktır; ırksal bağ gerektirmez.",
+   "Dil aileleri alt kollara ayrılmaz.",
+   "Hint-Avrupa dillerini konuşanlar aynı ırktandır."
+  ],
+  "a": 2,
+  "e": "Dil akrabalığı olan toplulukları aynı ırka dayandırmak hatalıdır (örn. Hint-Avrupa).",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-21",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Aşağıdakilerden hangisi Hint-Avrupa dil ailesine bağlı bir dil değildir?",
+  "o": [
+   "İngilizce",
+   "Fransızca",
+   "Farsça",
+   "Hintçe",
+   "Fince"
+  ],
+  "a": 4,
+  "e": "Fince Ural dillerindendir (Ural-Altay ailesi). Diğerleri Hint-Avrupa ailesindedir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-22",
+  "t": "dil",
+  "s": "dil-sinif",
+  "q": "Arapça ve İbranice hangi dil ailesine bağlıdır?",
+  "o": [
+   "Hint-Avrupa",
+   "Ural-Altay",
+   "Çin-Tibet",
+   "Hami-Sami",
+   "Bantu"
+  ],
+  "a": 3,
+  "e": "Hami-Sami dil ailesi.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-23",
+  "t": "dil",
+  "s": "dil-turkce",
+  "q": "Türkçe ile en çok benzerlik gösteren dil hangisidir?",
+  "o": [
+   "Fince",
+   "Moğolca",
+   "Çince",
+   "Arapça",
+   "Farsça"
+  ],
+  "a": 1,
+  "e": "Altay kolunda Türkçeyle en çok benzerlik gösteren dil Moğolcadır.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-24",
+  "t": "dil",
+  "s": "dil-turkce",
+  "q": "Aşağıdakilerden hangisi Altay dillerinin ortak özelliklerinden biri değildir?",
+  "o": [
+   "Eklemeli olmaları",
+   "Ünlü uyumuna sahip olmaları",
+   "Sözcüklerin çift ünsüzle başlamaması",
+   "Cinsiyet ayrımının (erillik-dişillik) bulunması",
+   "Özne başta, yüklem sonda olması"
+  ],
+  "a": 3,
+  "e": "Altay dillerinde cinsiyet ayrımı yoktur.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-25",
+  "t": "dil",
+  "s": "dil-turkce",
+  "q": "“Beş resimler” yerine “beş resim” denmesi Altay dillerinin hangi özelliğine örnektir?",
+  "o": [
+   "Sayı sıfatlarından sonra gelen adların genellikle çoğul eki almaması",
+   "Ünlü uyumu",
+   "Cinsiyet ayrımının olmaması",
+   "Sözcüklerin çift ünsüzle başlamaması",
+   "Yüklemin sonda olması"
+  ],
+  "a": 0,
+  "e": "Sayı sıfatından sonra gelen ad çoğul eki almaz (bu, anlatım bozukluğu konusuyla da bağlantılıdır).",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-26",
+  "t": "dil",
+  "s": "dil-konusma-yazi",
+  "q": "Bir konuşma dilinin bölgelere göre gösterdiği farklılığa (Denizli ağzı, Karadeniz ağzı) ne denir?",
+  "o": [
+   "Şive",
+   "Lehçe",
+   "Ağız",
+   "Argo",
+   "Özel dil"
+  ],
+  "a": 2,
+  "e": "Ağız; konuşma diliyle ilgilidir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-27",
+  "t": "dil",
+  "s": "dil-konusma-yazi",
+  "q": "Bir dilden yakın zamanlarda ayrılan, coğrafyalara göre değişen ve birbiriyle anlaşabilen dil kollarına (Türkiye Türkçesi, Azeri Türkçesi) ne denir?",
+  "o": [
+   "Ağız",
+   "Şive",
+   "Lehçe",
+   "Yapay dil",
+   "Özel dil"
+  ],
+  "a": 1,
+  "e": "Şive. Lehçe ise zamanla ayrı dil izlenimi verecek kadar değişmiş biçimdir (Yakut, Çuvaş).",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-28",
+  "t": "dil",
+  "s": "dil-konusma-yazi",
+  "q": "Aşağıdakilerden hangisi konuşma dilinin özelliklerinden biri değildir?",
+  "o": [
+   "Beden dilinden yararlanır.",
+   "Kuralları esnektir.",
+   "Yöreseldir.",
+   "En küçük birimi harftir.",
+   "Eksiltili cümle çoktur."
+  ],
+  "a": 3,
+  "e": "Konuşma dilinin en küçük birimi sestir; yazı dilinin en küçük birimi harftir.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 21-22)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-29",
+  "t": "dil",
+  "s": "dil-konusma-yazi",
+  "q": "Aşağıdakilerden hangisi yazı dilinin özelliklerinden biridir?",
+  "o": [
+   "Yöreseldir.",
+   "Beden dilinden yararlanır.",
+   "Kalıcıdır, kuralları disiplin altındadır.",
+   "Eksiltili cümle çoktur.",
+   "Onaylatma ve dolgu sözcükleri çok kullanılır."
+  ],
+  "a": 2,
+  "e": "Yazı dili genel, kurallı ve kalıcıdır; konuşma dili yöresel, esnek ve unutulandır.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 21-22)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-30",
+  "t": "dil",
+  "s": "dil-konusma-yazi",
+  "q": "Türkçenin standart yazı dili hangi ağıza dayanır?",
+  "o": [
+   "Karadeniz ağzı",
+   "İstanbul ağzı",
+   "Ankara ağzı",
+   "Denizli ağzı",
+   "Ege ağzı"
+  ],
+  "a": 1,
+  "e": "Türkçenin standart yazı dili İstanbul ağzıdır.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-31",
+  "t": "dil",
+  "s": "dil-konusma-yazi",
+  "q": "Aşağıdakilerden hangisi “özel dil”e örnektir?",
+  "o": [
+   "Esperanto",
+   "Elfçe",
+   "Doktor dili",
+   "İdo",
+   "Azeri Türkçesi"
+  ],
+  "a": 2,
+  "e": "Aynı sınıf, yaş, uğraş ya da mesleğe sahip bir grubun ortak dili özel dildir (doktor dili, denizci dili, ergen dili). Esperanto, İdo, Elfçe yapay dillerdir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-32",
+  "t": "dil",
+  "s": "dil-islev",
+  "q": "“Beni anladınız değil mi?” ve “Sesimi duyuyor musun?” cümlelerinde dil hangi işlevde kullanılmıştır?",
+  "o": [
+   "Göndergesel",
+   "Heyecana bağlı",
+   "Alıcıyı harekete geçirme",
+   "Kanalı kontrol",
+   "Şiirsel"
+  ],
+  "a": 3,
+  "e": "İletişimin kurulup sürdüğünü denetleyen cümleler dilin kanalı kontrol işlevidir.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 14-15)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-33",
+  "t": "dil",
+  "s": "dil-islev",
+  "q": "“Odayı bu akşam boşalt.” cümlesinde dil hangi işlevde kullanılmıştır?",
+  "o": [
+   "Göndergesel",
+   "Alıcıyı harekete geçirme",
+   "Şiirsel",
+   "Dil ötesi",
+   "Heyecana bağlı"
+  ],
+  "a": 1,
+  "e": "Emir, rica, istek, reklam, propaganda: alıcıyı harekete geçirme işlevi.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 12-13)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-34",
+  "t": "dil",
+  "s": "dil-islev",
+  "q": "“Türkçe, Ural-Altay dil ailesine mensup, sondan eklemeli bir dildir.” cümlesinde dil hangi işlevde kullanılmıştır?",
+  "o": [
+   "Dil ötesi (üst dil)",
+   "Göndergesel",
+   "Şiirsel",
+   "Heyecana bağlı",
+   "Kanalı kontrol"
+  ],
+  "a": 0,
+  "e": "Dille ilgili bilgi veren iletiler dil ötesi işlevdedir.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 16-17)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-35",
+  "t": "dil",
+  "s": "dil-islev",
+  "q": "Kullanma kılavuzları, bilimsel bildiriler ve kısa notlar ağırlıklı olarak dilin hangi işlevini kullanır?",
+  "o": [
+   "Heyecana bağlı",
+   "Göndergesel",
+   "Şiirsel",
+   "Alıcıyı harekete geçirme",
+   "Kanalı kontrol"
+  ],
+  "a": 1,
+  "e": "Göndergesel işlev bilgi vermedir; nesnel ve gözlemlenebilir bilgi aktarılır, duygular engellenir.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 8-9)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-36",
+  "t": "dil",
+  "s": "dil-islev",
+  "q": "“Şuna bak, utanmadan bir de sırıtıyor.” cümlesinde dil hangi işlevde kullanılmıştır?",
+  "o": [
+   "Göndergesel",
+   "Heyecana bağlı",
+   "Dil ötesi",
+   "Kanalı kontrol",
+   "Alıcıyı harekete geçirme"
+  ],
+  "a": 1,
+  "e": "Duygu ve heyecanın dile getirildiği, öznel anlatımlı cümleler (ünlem cümlelerinin tamamı dahil) heyecana bağlı işlevdedir.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 10-11)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-37",
+  "t": "dil",
+  "s": "dil-islev",
+  "q": "Yahya Kemal’in “Sessiz Gemi” şiirinde ağırlıklı olarak dilin hangi işlevi kullanılmıştır?",
+  "o": [
+   "Göndergesel",
+   "Şiirsel (sanatsal)",
+   "Kanalı kontrol",
+   "Dil ötesi",
+   "Alıcıyı harekete geçirme"
+  ],
+  "a": 1,
+  "e": "Amaç iletinin estetik, sanatsal etkisidir; ahenk unsurları ve söz sanatlarıyla sağlanır.",
+  "src": "Özgün soru – 2. hafta ek bilgiler.pptx (slayt 18-20)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-DI-38",
+  "t": "dil",
+  "s": "dil-tanim",
+  "q": "Aşağıdakilerden hangisi Türkçenin en eski yazılı ürünlerinden biridir?",
+  "o": [
+   "Divanü Lügati’t-Türk",
+   "Orhun yazıtları (8. yüzyıl)",
+   "Kutadgu Bilig",
+   "Dede Korkut Hikâyeleri",
+   "Tanzimat gazeteleri"
+  ],
+  "a": 1,
+  "e": "En eski yazılı ürünler Köktürkçe ile yazılan Orhun yazıtları (8. yy) ve Uygur dini metinleridir.",
+  "src": "Özgün soru – 2. hafta ders slaytları (2-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-39",
+  "t": "yazim",
+  "s": "DUZ",
+  "q": "Aşağıdakilerin hangisinde düzeltme işareti yanlış kullanılmıştır?",
+  "o": [
+   "Hâlâ gelmedi.",
+   "Kâğıt aldım.",
+   "Mahkûm oldu.",
+   "Şâir yeni bir şiir yazdı.",
+   "Hikâye çok güzeldi."
+  ],
+  "a": 3,
+  "e": "Uzun ünlüler yazıda işaretle gösterilmez; “şair” düzeltme işaretsiz yazılır.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-40",
+  "t": "yazim",
+  "s": "DUZ",
+  "q": "Aşağıdakilerin hangisinde nispet eki (î) yanlış ya da eksik yazılmıştır?",
+  "o": [
+   "Askerî okul sınavına girdi.",
+   "Dinî bilgiler kitabını okudum.",
+   "İlmî tartışmalar uzadı.",
+   "Atatürk’ün resmi çok güzeldi.",
+   "Resmi kuruluşlar bugün kapalıdır."
+  ],
+  "a": 4,
+  "e": "Nispet eki “-î” kuruluş anlamında “resmî kuruluşlar”dır; “Atatürk’ün resmi” ise iyelik ekidir (6. hafta).",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-41",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinin yazımı yanlıştır?",
+  "o": [
+   "apaçık",
+   "yemyeşil",
+   "kap kara",
+   "masmavi",
+   "sapasağlam"
+  ],
+  "a": 2,
+  "e": "Ön ekle yapılan pekiştirmeler bitişik yazılır: kapkara.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-42",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "Dün çok yorgundum.",
+   "Konuşmacı yabancıymış.",
+   "Sınavda sonuncuydu.",
+   "Evdeyken seni aradım.",
+   "Erken gelir se hemen haber ver."
+  ],
+  "a": 4,
+  "e": "Ek-fiil ünsüzle biten kelimeye bitişik yazılır: gelirse.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-43",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "Yarın erkenden başlayacağım.",
+   "Hemen geleyim.",
+   "Biz de gelmiyelim.",
+   "Konuyu anlatan kişi geldi.",
+   "Ne yapacaksın?"
+  ],
+  "a": 2,
+  "e": "-a/-e ve -ayım/-eyim, -alım/-elim gibi eklerden önce ünlü söyleyişe bakılmaksızın a/e yazılır: gelmeyelim.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-44",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "Her şey yoluna girecek.",
+   "Bu konuda sana bir şey söyleyeceğim.",
+   "Herşey sizin için yavrularım.",
+   "O şeyi masanın üstüne bıraktım.",
+   "Bana başka bir şey söyleme."
+  ],
+  "a": 2,
+  "e": "“Şey” her zaman ayrı yazılır: her şey.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-45",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "Demek ki yanılmışım.",
+   "Sanki hiçbir şey olmamış gibiydi.",
+   "Duydumki sen de gelecekmişsin.",
+   "Karşıdaki bina yeni yapıldı.",
+   "Gel gör ki hiçbir şey değişmedi."
+  ],
+  "a": 2,
+  "e": "Bağlaç olan ki ayrı yazılır: duydum ki. (Kalıplaşmış bitişikler: belki, çünkü, sanki, hâlbuki, mademki, meğerki, oysaki.)",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-46",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "Oğlu da geldi gelini de.",
+   "Sen de mi kardeşim?",
+   "Gidip de gelmemek var.",
+   "Güç de olsa yapacak.",
+   "Gidipte gelmemek var."
+  ],
+  "a": 4,
+  "e": "Ayrı yazılan da/de hiçbir zaman ta/te biçiminde yazılmaz: gidip de.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-47",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "Okuyor muydunuz?",
+   "Gelecek miymiş?",
+   "Güzel mi güzel bir bahçe!",
+   "Çocukmuyum ben?",
+   "Onu bana verecek misin?"
+  ],
+  "a": 3,
+  "e": "Soru eki mı/mi/mu/mü ayrı yazılır; sonra gelen ekler soru ekine bitişir: Çocuk muyum?",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-48",
+  "t": "yazim",
+  "s": "HEC",
+  "q": "Aşağıdaki sözcüklerden hangisi hecelerine yanlış ayrılmıştır?",
+  "o": [
+   "al-dıy-sa",
+   "bak-say-dın",
+   "sark-tı",
+   "Türk-çe",
+   "kon-trol"
+  ],
+  "a": 4,
+  "e": "Batı kökenli sözcükler Türkçenin hece yapısına göre ayrılır: kont-rol (ünsüz yan yana ise ilki önceki ünlüyle, ikincisi sonraki ünlüyle hece kurar).",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-49",
+  "t": "yazim",
+  "s": "BIT",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "adım adım",
+   "çoluk çocuk",
+   "eski püskü",
+   "dolapmolap",
+   "yavaş yavaş"
+  ],
+  "a": 3,
+  "e": "İkilemeler (m’li olanlar da) ayrı yazılır: dolap molap.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-50",
+  "t": "yazim",
+  "s": "HEC",
+  "q": "Aşağıdakilerden hangisi yanlış yazılmıştır?",
+  "o": [
+   "program",
+   "stil",
+   "kıral",
+   "tren",
+   "grup"
+  ],
+  "a": 2,
+  "e": "Çift ünsüzle başlayan Batı kökenli alıntılarda ünsüzler arasına ünlü konmaz: kral.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-51",
+  "t": "yazim",
+  "s": "SAY",
+  "q": "Aşağıdakilerden hangisinde sayıların yazımıyla ilgili bir yanlışlık vardır?",
+  "o": [
+   "üç yüz altmış beş",
+   "bin iki yüz elli bir",
+   "ikiyüz",
+   "yirmi beş",
+   "altmış yedi"
+  ],
+  "a": 2,
+  "e": "Birden fazla kelimeden oluşan sayılar ayrı yazılır: iki yüz.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-52",
+  "t": "yazim",
+  "s": "UNS",
+  "q": "Aşağıdakilerden hangisinde ünsüz yumuşaması yanlış yapılmıştır?",
+  "o": [
+   "kitabı",
+   "ağacı",
+   "hukuğu",
+   "kanadı",
+   "rengi"
+  ],
+  "a": 2,
+  "e": "“Hukuk” gibi bazı alıntılarda yumuşama olmaz: hukuku.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-53",
+  "t": "yazim",
+  "s": "UNS",
+  "q": "Aşağıdakilerden hangisi yanlıştır?",
+  "o": [
+   "gök – göğü",
+   "kap – kabı",
+   "süt – südü",
+   "uç – ucu",
+   "ot – otu"
+  ],
+  "a": 2,
+  "e": "Tek heceli sözcüklerde p, ç, t, k iki ünlü arasında genellikle korunur: süt – sütü (istisnalar: but/budu, dip/dibi, gök/göğü, kap/kabı, kurt/kurdu, uç/ucu, yurt/yurdu).",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-54",
+  "t": "yazim",
+  "s": "UNS",
+  "q": "Aşağıdakilerden hangisinin yazımı yanlıştır?",
+  "o": [
+   "kitap",
+   "cilt",
+   "etüd",
+   "renk",
+   "hevenk"
+  ],
+  "a": 2,
+  "e": "Alıntı sözcüklerde sondaki b, c, d, g sertleşir: etüt (ek alınca etüdü).",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-55",
+  "t": "yazim",
+  "s": "UNS",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "başlıyor",
+   "izliyor",
+   "yaşıyor",
+   "gözlüyor",
+   "bekleyor"
+  ],
+  "a": 4,
+  "e": "a/e ile biten fiillerin şimdiki zaman çekiminde a→ı, e→i olur: bekliyor.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-56",
+  "t": "yazim",
+  "s": "UNS",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "diyen",
+   "yiyelim",
+   "deyip",
+   "diyince",
+   "yiyince"
+  ],
+  "a": 3,
+  "e": "“Demek, yemek” fiillerinde “diyen, diyerek, diyecek, diyelim, diye; yiyen…yiyince” yazılır; ancak “deyince, deyip” biçimlerinde e korunur.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-57",
+  "t": "yazim",
+  "s": "KIS",
+  "q": "Aşağıdakilerin hangisinde kısaltmaya getirilen ek yanlış yazılmıştır?",
+  "o": [
+   "TDK’den",
+   "NATO’dan",
+   "BOTAŞ’ın",
+   "TÜBİTAĞ’ın",
+   "THY’de"
+  ],
+  "a": 3,
+  "e": "Sert ünsüzle biten kısaltmalarda ek alınca sert ünsüz yumuşatılmaz: TÜBİTAK’ın.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-58",
+  "t": "yazim",
+  "s": "UNS",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır?",
+  "o": [
+   "ileride",
+   "içeride",
+   "şurada",
+   "burda",
+   "yukarıda"
+  ],
+  "a": 3,
+  "e": "İçeri, dışarı, ileri, şura, bura, ora, yukarı, aşağı sözlerinde ek alınca ünlü düşmez: burada.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-59",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Ağrı Dağı",
+   "Fırat Nehri",
+   "Van gölü",
+   "Konya ili",
+   "Çanakkale Boğazı"
+  ],
+  "a": 2,
+  "e": "Yer adlarında tür bildiren ikinci isim büyük yazılır: Van Gölü. “Konya ili” ise ada dâhil olmayan “il” sözüdür, küçük yazılır.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-60",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımıyla ilgili yanlışlık vardır?",
+  "o": [
+   "Tülay ablama gittim.",
+   "Ayşe teyzemin keki çok güzel.",
+   "Sayın Bakan, hoş geldiniz.",
+   "Uzak Doğu’dan gelen heyeti vali dün kabul etti.",
+   "Okullar eylülün ikinci haftasında açılır."
+  ],
+  "a": 3,
+  "e": "Özel ad yerine kullanılan makam/unvan sözü büyük yazılır: Vali.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-61",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Milliyet gazetesini aldım.",
+   "Türk Dili dergisi çıktı.",
+   "Suç ve Ceza’yı okudum.",
+   "Resmî Gazete’de yayımlandı.",
+   "Leyla İle Mecnun’u okudum."
+  ],
+  "a": 4,
+  "e": "Eser adlarında “ile, ve, ya, da, de, mı/mi” küçük yazılır: Leyla ile Mecnun.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-62",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Türkçe",
+   "Alman",
+   "Kuzey Kıbrıs Türk Cumhuriyeti",
+   "Hristiyanlık",
+   "japonca"
+  ],
+  "a": 4,
+  "e": "Dil, millet, devlet ve din adları büyük harfle başlar: Japonca.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-63",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Okullar genellikle eylülün ikinci haftasında açılır.",
+   "29 Mayıs 1453 Salı günü İstanbul fethedildi.",
+   "Toplantıyı perşembe günü yapacağız.",
+   "Lale Festivali 25 Haziran’da başlayacak.",
+   "28 aralık 1982’de göreve başladı."
+  ],
+  "a": 4,
+  "e": "Belirli bir tarih bildiren ay ve gün adları büyük yazılır: 28 Aralık 1982.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-64",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "avro",
+   "dolar",
+   "lira",
+   "kuruş",
+   "Dinar"
+  ],
+  "a": 4,
+  "e": "Para birimleri küçük harfle yazılır.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-65",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Hindistan cevizi",
+   "İngiliz anahtarı",
+   "Japon gülü",
+   "Van Kedisi",
+   "Antep fıstığı"
+  ],
+  "a": 3,
+  "e": "Yer, millet ve kişi adlarıyla kurulan birleşik kelimelerde yalnızca özel ad büyük yazılır: Van kedisi.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-66",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Batı medeniyeti",
+   "Doğu mistisizmi",
+   "Bursa’nın doğusu",
+   "Ankara’nın Batısı",
+   "Uzak Doğu"
+  ],
+  "a": 3,
+  "e": "Doğu/batı yön bildirdiğinde küçük yazılır: Ankara’nın batısı.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-67",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Mars, Dünya’dan küçüktür.",
+   "Ay, Dünya’nın uydusudur.",
+   "Bu odaya hiç Güneş girmiyor.",
+   "Satürn’ün halkaları çok ünlüdür.",
+   "Dünya, Güneş’in çevresinde döner."
+  ],
+  "a": 2,
+  "e": "Gezegen/yıldız anlamı dışındaki “güneş” küçük yazılır: güneş girmiyor.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-68",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Baba Gündüz’ü tanır mısınız?",
+   "Nene Hatun Caddesi",
+   "Annem ve Babam yarın gelecek.",
+   "Gül Baba türbesi",
+   "Dayı Kemal geldi."
+  ],
+  "a": 2,
+  "e": "Akrabalık adları lakap/unvan değilse küçük yazılır: annem ve babam.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-69",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Türk Dil Kurumu",
+   "Yeşilay Derneği",
+   "Bakanlar kurulu",
+   "Dil ve Tarih-Coğrafya Fakültesi",
+   "Medeni Kanun"
+  ],
+  "a": 2,
+  "e": "Kurum, kuruluş ve kurul adlarının her kelimesi büyük yazılır: Bakanlar Kurulu.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "OR-YA-70",
+  "t": "yazim",
+  "s": "BUY",
+  "q": "Aşağıdakilerin hangisinde bir yazım yanlışı vardır? (büyük harf)",
+  "o": [
+   "Cumhuriyet Bayramı",
+   "Kurban Bayramı",
+   "Anneler Günü",
+   "Miraç kandili",
+   "Dünya Tiyatro Günü"
+  ],
+  "a": 3,
+  "e": "Bayram, kandil, anma ve kutlama günü adları büyük yazılır: Miraç Kandili.",
+  "src": "Özgün soru – 6. ve 7. hafta ders slaytları (6-hafta.pdf, 7-hafta.pdf)",
+  "v": "orijinal"
+ },
+ {
+  "id": "P3-05",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerden hangisinde gereksiz sözcük ya da sözcükler kullanılmıştır?",
+  "o": [
+   "Çevresindekileri anlayışla karşılayan insan, topluma uyum sorunu çekmez.",
+   "İnsan bir haksızlık karşısında ister istemez, elinde olmadan tepki gösteriyor.",
+   "Toplumun beğenilerine ters düşmemeye çalışan kişi, ilkelerinden ödün vermek zorunda kalabilir.",
+   "Karşısındaki kişiyi dinlemeyi bilmeyen, düşüncelerini kimseye kabul ettiremez.",
+   "Bir fikri beğenen insanlar kadar, ona karşı çıkanlar da olabilir."
+  ],
+  "a": 1,
+  "e": "“İster istemez” ile “elinde olmadan” aynı anlamdadır.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-05",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-06",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "Aşağıdaki cümlelerden hangisinde gereksiz sözcük kullanılmıştır?",
+  "o": [
+   "Gün geçmiyor ki, haber bültenlerinde bir trafik kazası haberi yer almasın.",
+   "Günlük hayatın karmaşası insanların dikkatlerinin dağılmasına yol açıyor.",
+   "Yola yorgun çıkan sürücü, önündeki aracı dahi fark edemiyor.",
+   "Kazalarda can kaybı ve ölüm olmaması sevinçle karşılanıyor.",
+   "Yolların genişletilmesi kazaların önlenmesinde etkili olabilir."
+  ],
+  "a": 3,
+  "e": "“Can kaybı” ile “ölüm” aynı anlamdadır.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-06",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-07",
+  "t": "anlatim",
+  "s": "GS",
+  "q": "(I) İzmir’den buraya trenle geleceklermiş. (II) Tren, İzmir’den akşam dokuzda çıkacak. (III) Yarın, yaklaşık sabah sekiz sularında buraya gelirler. (IV) Biz saat sekizden önce istasyonda olmalıyız. (V) Onları Haydarpaşa’dan alıp, vapurla Sirkeci’ye geçeceğiz. Numaralanmış cümlelerden hangisinde gereksiz sözcük kullanılmıştır?",
+  "o": [
+   "I.",
+   "II.",
+   "III.",
+   "IV.",
+   "V."
+  ],
+  "a": 2,
+  "e": "“Yaklaşık” ile “-lar” (sekiz sularında) aynı anlamı taşır.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-07",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-08",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerden hangisinde, altı çizili sözcük yanlış kullanılmıştır? (A: sürdürmesi, B: Yeteneği, C: bileşik, D: tempoda, E: yayımlanmıştı)",
+  "o": [
+   "İnatçılığını sürdürmesi ona pahalıya mal olabilir.",
+   "Yeteneği olmayan birinin iyi şiir yazması mümkün değildir.",
+   "Ek olan “-de, -da” kendinden önceki sözcüğe bileşik yazılır.",
+   "Bu tempoda çalışırsa kazanma olasılığı var.",
+   "İlk şiirleri, bundan otuz yıl önce yayımlanmıştı."
+  ],
+  "a": 2,
+  "e": "Doğrusu “bitişik”tir; “bileşik” farklı anlamlı bir sözcüktür.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-08",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-10",
+  "t": "anlatim",
+  "s": "YS",
+  "q": "Aşağıdaki cümlelerden hangisinde bir sözcüğün yanlış anlamda kullanımından kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "Okan’ın ne kadar özverili çalışan biri olduğunu herkes biliyordu.",
+   "Erken gelmesine karşın salonda ön sıralarda yer bulmuştu.",
+   "Roman ile öykü arasında önemli ayrılıklar vardır.",
+   "Murat Bey’in ilkelerinden ödün vermeyen biri olduğunu biliyorduk.",
+   "Günümüzde bazı çocukların sevgiden yoksun büyüdüğünü biliyoruz."
+  ],
+  "a": 1,
+  "e": "“Karşın” karşıtlık bildirir; burada “sayesinde” anlamı gerekir.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-10",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-14",
+  "t": "anlatim",
+  "s": "BE",
+  "q": "“Yanlış bir şey yapsam da kızmaz; ama inanılmayacak kadar anlayışlıdır.” cümlesindeki anlatım bozukluğu aşağıdakilerden hangisinden kaynaklanmaktadır?",
+  "o": [
+   "Yüklemin geniş zamanlı olmasından",
+   "Cümleciklerin ortak özneli olmasından",
+   "Yanlış ilgeç kullanılmasından",
+   "Gereksiz yere bağlaç kullanılmasından",
+   "“Bile” yerine “da” bağlacı kullanılmasından"
+  ],
+  "a": 3,
+  "e": "“-sam da … ama” birlikte kullanılmış; bağlaçlardan biri gereksizdir (kaynak anahtarı D).",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-14",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-17",
+  "t": "anlatim",
+  "s": "BE",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır? (2013 YGS)",
+  "o": [
+   "Kurallara uymamakta ısrar ediyorsun.",
+   "Bu davranışımı tehdit olarak algıladığını belirtiyorsun.",
+   "Yaptıklarınla herkesi şaşırtmaya devam ediyorsun.",
+   "Bu sözlerinle beni sinirlendirmek için çalışıyorsun.",
+   "Sorduğun sorularla konuyu başka bir yere çekmeye çalışıyorsun."
+  ],
+  "a": 3,
+  "e": "“Sinirlendirmek için çalışıyorsun” yerine “sinirlendirmeye çalışıyorsun”: gereksiz edat (kaynak anahtarı D).",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-17",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-22",
+  "t": "anlatim",
+  "s": "BE",
+  "q": "Aşağıdaki cümlelerden hangisinde gereksiz yardımcı fiil kullanımından kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "Teknoloji, hemen her gün yaşamı kolaylaştırıcı yenilikler icat ediyor.",
+   "Yeni buluşlar, günlük hayatın her bölümünü yakından ilgilendiriyor.",
+   "Piyasaya yeni sürülen bu deterjanla çamaşırlar, kaynatma yapmadan bile temizlenir.",
+   "Kimi yenilikler, insanların işlerini kolaylaştırmak yerine daha da zorlaştırıyor.",
+   "Her yenilikten sonra yaşamın kolaylaşacağını umut eden insanlar, iyice tembelleşiyor."
+  ],
+  "a": 2,
+  "e": "“Kaynatma yapmak” yerine “kaynatmak” denir; “umut eden” ise bu sorunun ayrı bir yardımcı fiil örneğidir (kaynak anahtarı C).",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-22",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-23",
+  "t": "anlatim",
+  "s": "DY",
+  "q": "Aşağıdaki cümlelerden hangisinde deyimin yanlış kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Yıllarca karın tokluğuna çalıştığı için bir türlü para biriktiremedi.",
+   "Ekmeğini eline alacak yaşa geldin, evlenmek istiyorsan bir an önce iş bulmalısın.",
+   "Öğretmeniyle saygısızca konuşunca öğretmen ona hakkını bildirdi.",
+   "Onunla hiçbir zaman bir araya gelemeyeceğini biliyorsun, olmayacak duaya amin deme.",
+   "Annem eğer paraya kıyabilirse seneye özel üniversiteye gidebileceğim."
+  ],
+  "a": 2,
+  "e": "Deyim “haddini bildirmek”tir; “hakkını bildirdi” yanlıştır.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-23",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-24",
+  "t": "anlatim",
+  "s": "DY",
+  "q": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu sıkıntıları yaşayacağımı ben zaten kırk yıl önce göze koymuştum.",
+   "Hiç sebep yokken işi ağırdan almanı bir türlü anlamıyorum.",
+   "Bu yaştan sonra inşaat işlerinde çalışmak artık ağır geliyor benim gibi ihtiyara.",
+   "Ağır hastalık geçirdiği için bir türlü kendini toplayamadı ve zayıf kaldı.",
+   "Madem yanına gidiyorsun, ağzını ara bakalım o konuda bir şey biliyor mu?"
+  ],
+  "a": 0,
+  "e": "Deyim “göze almak”tır; “göze koymak” biçimi yapısı bozulmuş deyimdir.",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-24",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P3-28",
+  "t": "anlatim",
+  "s": "NK",
+  "q": "Aşağıdakilerden hangisinde virgülün kaldırılması anlamı bozmaz?",
+  "o": [
+   "Genç, çocuğu görmezden geldi.",
+   "Genç, yabancıya doktorun evini tarif etti.",
+   "İhtiyar, kadına doğru yürüdü.",
+   "Gençlik, sorunlarını iyi biliyor.",
+   "Şair, evrene kalpten bakandır."
+  ],
+  "a": 4,
+  "e": "Diğerlerinde virgül kalkınca “genç çocuk”, “genç yabancı”, “ihtiyar kadın”, “gençlik sorunları” gibi anlamlar çıkar (kaynak anahtarı E).",
+  "src": "3. hafta ek cevaplı sorular (1).pptx + .xlsx (cevap anahtarı) – P3-28",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-04",
+  "t": "anlatim",
+  "s": "YY",
+  "q": "Aşağıdakilerden hangisinde bir sözcüğün yanlış yerde kullanılmasından kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "O yaz, ilk denize giren yine Murat olmuştu.",
+   "Geçen yaz İstanbul’dan çıkmaya fırsat bulamadık.",
+   "Yaz aylarında İstanbul tenhalaşıyor, şehirde trafik de rahatlıyor.",
+   "Aşırı sıcaklar yüzünden, bebekler ve yaşlılar başta olmak üzere, pek çok insan hastalandı.",
+   "Bu yaz son elli yılın en sıcak günlerinin yaşandığı belirtiliyor."
+  ],
+  "a": 0,
+  "e": "“Yine ilk denize giren” biçiminde olmalıydı; “ilk” ile “yine” yer değiştirmeli (kaynak anahtarı A).",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-04",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-05",
+  "t": "anlatim",
+  "s": "YY",
+  "q": "Aşağıdaki cümlelerden hangisinde sözcüklerin yanlış yerde kullanımından kaynaklanan anlatım bozukluğu YOKTUR?",
+  "o": [
+   "Yeni piyasaya sürülen modellerle tüketici özendiriliyor.",
+   "Her yenilik getiren sanatçı, mutlaka eskiden yararlanır.",
+   "Kimi insan, her olayın kendi istediği biçimde gelişmesini bekler.",
+   "Sürekli ailesine haksızlık edildiğinden yakınıyor.",
+   "İlk haberi duyan, her zamanki gibi Oray olmuştu."
+  ],
+  "a": 2,
+  "e": "Diğer şıklarda “yeni/her/sürekli/ilk” sözcükleri yanlış yerdedir (kaynak anahtarı C).",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-05",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-06",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "Aşağıdaki cümlelerin hangisinde anlamca çelişen sözcüklerin bir arada kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Ahmet bundan sonra böyle bir hataya düşmeyebilir.",
+   "Bu kasabaya yerleşeli tam on yıl oldu.",
+   "Hiç şüphesiz Türkiye’nin en sıcak yazları Akdeniz’de yaşanır.",
+   "Tam 110 köyün yolu son yağan karlardan dolayı kapalıdır.",
+   "Okul bahçesinde yaklaşık tam iki yüz elli kişi vardı."
+  ],
+  "a": 4,
+  "e": "“Yaklaşık” (kesin olmayan) ile “tam” (kesin) çelişir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-06",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-07",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "“Kuşkusuz, bu kış çalışmak için İstanbul’daki kuzenimin yanına giderim sanıyorum.” Bu cümledeki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+  "o": [
+   "Dolaylı tümleç eksikliğinden",
+   "Anlamca çelişen sözlerin bir arada kullanımı",
+   "Özne – yüklem uyumsuzluğu",
+   "Sıfat tamlamasının yanlış kullanımı",
+   "Zarf tümleci eksikliği"
+  ],
+  "a": 1,
+  "e": "“Kuşkusuz” kesinlik, “sanıyorum” olasılık bildirir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-07",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-08",
+  "t": "anlatim",
+  "s": "CL",
+  "q": "“Yazarların kadınlardan kesinlikle daha iyi bildiği tek gerçek de budur herhalde.” Bu cümledeki anlatım bozukluğunun sebebi nedir?",
+  "o": [
+   "Özne – yüklem uyuşmazlığı",
+   "Sözcüğün yanlış yerde kullanılması",
+   "Noktalama yanlışlığı",
+   "Anlamca çelişen sözcüklerin bir arada kullanılması",
+   "Eş anlamlı sözcüklerin bir arada kullanılması"
+  ],
+  "a": 3,
+  "e": "“Kesinlikle” ile “herhalde” çelişir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-08",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P4-10",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "Aşağıdaki cümlelerin hangisinde çatı uyumsuzluğundan kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "Çayın kenarında çimene oturmuş bekliyordu.",
+   "Çalışmaların tamamlanması umduğumuzdan kısa sürdü.",
+   "Gösterişli takılar takıp davete gidildi.",
+   "Elimizdeki erzakla dört gün daha idare edebiliriz."
+  ],
+  "a": 2,
+  "e": "“Takıp” etken, “gidildi” edilgendir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-10",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-11",
+  "t": "anlatim",
+  "s": "CT",
+  "q": "“Tarladaki saman balyalarını topladı, bir kenara dizildi.” Cümledeki anlatım bozukluğunun nedeni nedir?",
+  "o": [
+   "Çatı uyumsuzluğu",
+   "Anlam bulanıklığı",
+   "Gereksiz sözcük",
+   "Özne eksikliği",
+   "Tamlayan eksikliği"
+  ],
+  "a": 0,
+  "e": "“Topladı” etken, “dizildi” edilgendir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-11",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-12",
+  "t": "anlatim",
+  "s": "MH",
+  "q": "Aşağıdaki cümlelerden hangisinde mantık hatası vardır?",
+  "o": [
+   "Sadece testlerdeki soruları değil, bu kitaptaki soruları da çözeceksiniz.",
+   "Gelen otobüslere önce çocuklar, sonra yaşlılar bindirildi.",
+   "Dün aldığı kıyafetlerin çoğu değilse de hepsi yazlıktı.",
+   "Bir haftadan beri elektrik olmadığı için kaloriferler de çalışmıyordu.",
+   "Radyo sabahtan beri açıktı, fakat o dinlemiyordu."
+  ],
+  "a": 2,
+  "e": "“Çoğu değilse de hepsi” ifadesinde “hepsi” “çoğu”nu kapsadığı için mantık yanlışı oluşur.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-12",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-13",
+  "t": "anlatim",
+  "s": "MH",
+  "q": "Aşağıdaki cümlelerin hangisinde mantık hatasından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Türkçede, Arapça ve Farsça dillerinden gelmiş sözcükler vardır.",
+   "Bu hırsızlığı onun yaptığından kuşku ediyorduk.",
+   "Sevimli kızın ağlayış şeklini ve gülmesini görmelisiniz.",
+   "Çocuk sahibi olamayan anneler, anaokulunda görev alıyorlar.",
+   "Bugünlerde herkes aynı şarkıyı söylüyorlar."
+  ],
+  "a": 3,
+  "e": "Çocuk sahibi olamayan kişiye “anne” denmez; mantık hatası.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-13",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-14",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığından kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bu kitap özel okullarda ve devlet okullarında okutuluyor.",
+   "Haberi dünya, ulusal ve yerel televizyonların hepsi verdi.",
+   "Ucuz, bahçeli, kutu gibi bir ev istiyorum.",
+   "Bu yıl, isim ve sıfat tamlamasından soru gelmedi.",
+   "Konuşmacı, sorunlarımızı ekonomik ve kültürel açıdan ele aldı."
+  ],
+  "a": 1,
+  "e": "“Dünya televizyonları” ortak tamlananla “ulusal ve yerel televizyonlar”a bağlanamaz.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-14",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-15",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdaki cümlelerin hangisinde “tamlama yanlışlığı”ndan kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Memleketini en çok seven işini en iyi yapandır.",
+   "Sayı ve işaret sıfatlarını anlatır mısınız?",
+   "Macera ve bilim kurgu filmlerini izlerim.",
+   "Romantik ve natüralist romanlar daha çok satılıyor.",
+   "Özel ve devlet üniversiteleri sel nedeniyle tatil edildi."
+  ],
+  "a": 4,
+  "e": "“Özel üniversiteleri ve devlet üniversiteleri” biçiminde olmalıydı (ortak tamlanan olmaz).",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-15",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-16",
+  "t": "anlatim",
+  "s": "TM",
+  "q": "Aşağıdaki cümlelerin hangisinde tamlama yanlışı anlatım bozukluğuna yol açmıştır?",
+  "o": [
+   "Yapılan harcamaları bir deftere not edelim.",
+   "Büyüklerimize saygı duymalı, incitmemeliyiz.",
+   "Zahmete katlanmak yerine rahat etmeyi seçiyor.",
+   "Askerî ve devlet okullarına başvurular yakında başlıyor."
+  ],
+  "a": 3,
+  "e": "“Askerî okullar ve devlet okulları” biçiminde olmalıdır.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-16",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-17",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "“Gerçek gelişme ve başarı için iyi bilen birine danışmak, bilgi ve becerisinden faydalanmak gerekir.” Bu cümledeki anlatım bozukluğunun sebebi nedir?",
+  "o": [
+   "Özne – yüklem uyuşmazlığı",
+   "Gereksiz sözcük kullanılması",
+   "Tamlayan eksikliği",
+   "Yüklem eksikliği",
+   "Dolaylı tümleç eksikliği"
+  ],
+  "a": 2,
+  "e": "“Onun bilgi ve becerisinden” tamlayanı eksiktir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-17",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-18",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "“Satıcı iskemlesine oturdu, Hasan da merakla karşısına geçti.” Bu cümledeki anlatım bozukluğunun sebebi nedir?",
+  "o": [
+   "Tamlayan eksikliği",
+   "Nesne eksikliği",
+   "Dolaylı tümleç eksikliği",
+   "Anlamca çelişen sözcüklerin bir arada kullanılması",
+   "Gereksiz sözcük kullanılması"
+  ],
+  "a": 0,
+  "e": "“Satıcının karşısına” anlamı için tamlayan (satıcının) eksiktir.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-18",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P4-19",
+  "t": "anlatim",
+  "s": "EK",
+  "q": "“Deneyimli yazarların, öykülerini sadece kendi hayatlarıyla sınırlandırma yanlışına düşmemelidir.” Bu cümledeki anlatım bozukluğunun nedeni nedir?",
+  "o": [
+   "Özne – yüklem uyumsuzluğu",
+   "İyelik ekinin gereksiz kullanımı",
+   "Belirtme durum ekinin gereksiz kullanımı",
+   "Tamlayan ekinin gereksiz kullanımı",
+   "Nesne eksikliği"
+  ],
+  "a": 3,
+  "e": "“Yazarların” yerine “yazarlar” olmalıdır; tamlayan eki gereksiz.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-19",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P4-20",
+  "t": "anlatim",
+  "s": "EK",
+  "q": "Aşağıdaki cümlelerden hangisinde ek yanlışlığı ile ilgili bir anlatım bozukluğu vardır?",
+  "o": [
+   "Dün akşamki partide Latife, bize sınıf arkadaşlarını tanıştırdı.",
+   "Namık Kemal, romanlarında genellikle süslü cümleler kullanmış.",
+   "Köylüyü anlamak için çaba sarf eden bu yazar, Nabizade Nazım’dı.",
+   "Gürültülü bir mekânda eğleneceğime, evde kalmayı tercih ederim.",
+   "Hayvanların, Anadolu kültüründeki önemini dile getiren makale yazdı."
+  ],
+  "a": 0,
+  "e": "“Bizi sınıf arkadaşlarıyla tanıştırdı” olmalıydı.",
+  "src": "4. hafta ek (2).pptx + 4. hafta ek CEVAP ANAHTARI.xlsx – P4-20",
+  "v": "dogrulandi"
+ },
+ {
+  "id": "P5-05",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde özne-yüklem uyumsuzluğundan kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "İki okul arkadaşım ve ben, üniversitedeki bir hocamızı ziyarete gitmiştik.",
+   "Yöre halkı, yıllarca bu bölgeye suyun gelmesini bekledi.",
+   "Yarın herkes, okula gelirken yanında bir kitap getirecek.",
+   "Serdar ve Özgür üniversiteyi bitirdikten sonra aynı şirkette işe başladılar.",
+   "Bu uygulamaya göre eşim, oğlum ve ben aynı yıl emekli olacağım."
+  ],
+  "a": 4,
+  "e": "Özneler “biz”e karşılık gelir: “emekli olacağız”.",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-05",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-06",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyuşmazlığından kaynaklanan anlatım bozukluğu vardır?",
+  "o": [
+   "İnsanlar, bilgilerini çoğu zaman çevreden ya da okudukları kitaplardan öğrenirler.",
+   "Yaşamda kullanım alanı olmayan bilgilerin, aslında pek önemi yoktur.",
+   "Zihindeki bilgiler, çeşitli deney ve yaşantılar sonucu oluşurlar.",
+   "Gelişen iletişim araçları bilginin aktarımını kolaylaştırdı.",
+   "Günümüzde bilgi, sınır tanımayan bir güç durumundadır."
+  ],
+  "a": 2,
+  "e": "İnsan dışı çoğul özne yüklemi çoğul almaz: “oluşur”.",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-06",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-07",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerden hangisinde özne-yüklem uyumsuzluğu vardır?",
+  "o": [
+   "Şairler kimi zaman dil kurallarını göz ardı edebiliyorlar.",
+   "Ben ve birlikte çalıştığımız arkadaşlar, derginin kusursuz çıkmasına özen gösterdik.",
+   "Bu bilgileri siz ve gruptaki diğer arkadaşlarınız mı topladılar?",
+   "İki yıl önce yayın hayatına başlayan birçok dergi, şimdi yayımlanmıyor.",
+   "Sanatçılarla okurları, ancak bu tür programlarda bir araya gelebiliyorlar."
+  ],
+  "a": 2,
+  "e": "Özneler “siz”e karşılık gelir: “topladınız mı?”",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-07",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-08",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "“Çok çalıştığımız için başarı grafiğimiz ister istemez yükseliyor.” Bu cümledeki anlatım bozukluğu aşağıdakilerin hangisinden kaynaklanmaktadır? (2004 ÖSS)",
+  "o": [
+   "Yüklemin şimdiki zamanlı olmasından",
+   "Yanlış ilgeç kullanılmasından",
+   "Ad tamlamasının yanlış kurulmasından",
+   "Gereksiz zarf tümleci kullanılmasından",
+   "Yüklemin üçüncü tekil kişili olmasından"
+  ],
+  "a": 3,
+  "e": "“İster istemez” gereksiz zarf tümlecidir (çalışmanın sonucu zaten doğal).",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-08",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-10",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "“Ordunun gücü kırılmış ve savunmaya çekilmiştir.” Bu cümledeki anlatım bozukluğunun sebebi nedir?",
+  "o": [
+   "Gereksiz sözcük kullanılması",
+   "Birinci cümlede dolaylı tümleç eksikliği",
+   "İkinci cümlede özne eksikliği",
+   "Tamlama yanlışlığı",
+   "Sözcüğün yanlış anlamda kullanılması"
+  ],
+  "a": 2,
+  "e": "Savunmaya çekilen “ordunun gücü” değil “ordu”dur; ikinci yargıya özne gerekir.",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-10",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-12",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "Bunları söylerken içimden bir ah çektim.",
+   "Ona her zaman güvenirler ve hiç incitmezlerdi.",
+   "Artık bu sistemler de geliştirilmeyi bekliyorlar.",
+   "Bu yayınlar toplum düzeninin sağlıklı işlemesi için yapıldı.",
+   "Tebessüm memnuniyet hislerimizi bildiren bir araç gibidir."
+  ],
+  "a": 1,
+  "e": "“Ona güvenirler (dolaylı), onu incitmezlerdi (nesne)”: ikinci yargıda “onu” eksik.",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-12",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-14",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "(I) Elimle ağzını kapattım. (II) Bir daha böyle sözler söylememesi için ona yalvardım. (III) Onu konuşturmak için uğraşmamalıydım. (IV) Onun benden bu denli uzak olduğunu nereden bilebilirdim. (V) Bunun için ona hayran mı olmalıyım yoksa korkmalı mıyım, bilmiyorum. Numaralanmış cümlelerin hangisinde dolaylı tümleç eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "I.",
+   "II.",
+   "III.",
+   "IV.",
+   "V."
+  ],
+  "a": 4,
+  "e": "“Ona hayran olmalıyım yoksa (ondan) korkmalı mıyım”: ikinci yüklem için “ondan” eksik.",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-14",
+  "v": "anahtarsiz"
+ },
+ {
+  "id": "P5-15",
+  "t": "anlatim",
+  "s": "OG",
+  "q": "Aşağıdaki cümlelerin hangisinde, dolaylı tümleç eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+  "o": [
+   "İnsanın bu konuda elinden bir şey gelmiyor.",
+   "O da bunu hiç önemsemez, aldırmazdı.",
+   "Zamanın gelip geçiciliğini düşündü bir an.",
+   "Herkesin kendini önemsediği zamanlardı.",
+   "Hepimizin belli bir bakkalı vardı orada."
+  ],
+  "a": 1,
+  "e": "“Bunu önemsemez, (buna) aldırmazdı”: “aldırmak” dolaylı tümleç ister.",
+  "src": "5. hafta ek.pptx (kaynakta cevap anahtarı yok) – P5-15",
+  "v": "anahtarsiz"
+ }
+]
