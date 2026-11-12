@@ -45,7 +45,7 @@ footer{text-align:center;color:var(--mu);font-size:13px;padding:20px 10px}
 </head>
 <body>
 <header><div class="eb">BAİBÜ · Türk Dili · Vize</div><h1>Kaynak Odaklı <span>Vize Kampı</span></h1><p>Hocanın 5 + 8 + 7 dağılımına uygun. Ders slaytlarından ve soru bankalarından çözümlü sorular, konu özetleri, açıklamalı testler ve yanlış tekrarları.</p></header>
-<div class="stats"><div class="stat"><b>5 / 8 / 7</b><small>Sınav dağılımı</small></div><div class="stat"><b id="sq">0</b><small>Çalışma sorusu</small></div><div class="stat"><b>20</b><small>Deneme sorusu</small></div></div>
+<div class="stats"><div class="stat"><b>5 / 8 / 7</b><small>Sınav dağılımı</small></div><div class="stat"><b id="qcount">0</b><small>Çalışma sorusu</small></div><div class="stat"><b>20</b><small>Deneme sorusu</small></div></div>
 <nav id="nav"></nav>
 <main id="app"></main>
 <footer>Hazırlayan: <b>Nejat Beceren</b> · Bu sayfa geçici bir çalışma aracıdır; sınavda çıkacak sorular garanti edilmez, ders notlarınızla birlikte kullanın.</footer>
@@ -150,7 +150,7 @@ function route(){RUN=null;const k=(location.hash||'#notes').slice(1);const t=TAB
   $('#nav').innerHTML=TABS.map(x=>`<button data-k="${x[0]}" class="${x[0]===t[0]?'on':''}">${x[1]}</button>`).join('');
   document.querySelectorAll('#nav button').forEach(b=>b.onclick=()=>{if(location.hash==='#'+b.dataset.k)route();else location.hash=b.dataset.k});
   t[2]();scrollTo(0,0)}
-document.getElementById('sq').textContent=Q.length;window.addEventListener('hashchange',route);route();
+document.getElementById("qcount").textContent=Q.length;window.addEventListener('hashchange',route);route();
 </script>
 </body>
 </html>
